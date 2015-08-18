@@ -12,6 +12,4 @@ Rabbi Hirsch grew up in Kew Garden Hills, NY, attending Yeshiva of Central Queen
 
 In addition to leading Congregation Mekor Habracha, Rabbi Hirsch serves as Dean of Jewish philosophy for the Association of Hebraic Studies Institute, a distance learning college based in Monsey, NY. He has worked for a number of leading Jewish organizations, including Aish Hatorah Jerusalem, Yeshivat Hakotel, Great Neck Synagogue, Bruriah High School, The Etz Chaim Center, and Yeshiva Ohr Reuven.
 
-Since he and his wife Miriam arrived in Philadelphia, the congregation has experienced exponential growth, and has significantly contributed to the flourishing Center City Jewish community, which now boasts an array of Jewish services, including a fully functioning eruv, a daily morning minyan in the Rittenhouse neighborhood, and an assortment of kosher establishments.
-
-To schedule a meeting with Rabbi Hirsch, please call the office at (215) 525-4246 or contact him directly at RabbiEHirsch@gmail.com.
+Rabbi Hirsch still enjoys playing and writing music when he can find the time. He plays keyboard for Mekor's own band, *Moments of Wrong*.

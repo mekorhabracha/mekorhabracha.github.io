@@ -1,0 +1,99 @@
+---
+layout: default
+---
+
+<h1>Eating Kosher out</h1>
+
+<ul class="nav nav-pills nav-justified">
+  <li role="presentation" class="active"><a href="eat-out.html">Center City</a></li>
+  <li role="presentation"><a href="eat-out-mainline.html">Main Line / Manayunk</a></li>
+  <li role="presentation"><a href="eat-out-northeast.html">Old York Road / Northeast</a></li>
+  <li role="presentation"><a href="eat-out-cherryhill.html">Cherry Hill</a></li>
+</ul>
+
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-lg-6">
+      <h3>Restaurants</h3>
+      {% for location in site.data.philadelphia %}
+      {% if location.type == "restaurant" %}
+      {% if location.where == "Center City" %}
+        <address>
+          <a href="{{location.url}}"><strong>{{location.name}}</strong></a>&nbsp;&nbsp;
+          {% if location.facebook_url != nil %}
+            &nbsp;<a href="{{location.facebook_url}}"><span class="fa fa-facebook-square"></span></a>
+          {% endif %}
+          {% if location.yelp_url != nil %}
+            &nbsp;<a href="{{location.yelp_url}}"><span class="fa fa-yelp text-danger"></span></a>
+          {% endif %}
+          <br>
+          &nbsp;&nbsp;&nbsp;<span class="fa fa-cutlery"></span>&nbsp;&nbsp;
+            {{location.food}}<br>
+          &nbsp;&nbsp;&nbsp;<span class="fa fa-map-marker"></span>&nbsp;&nbsp;
+            {{location.address}}<br>
+          {% if location.certificate_url != nil %}
+          &nbsp;&nbsp;&nbsp;<a href="{{location.certificate_url}}"><span class="fa fa-certificate"></span></a>&nbsp;&nbsp;
+          {% else %}
+          &nbsp;&nbsp;&nbsp;<span class="fa fa-certificate"></span>&nbsp;&nbsp;
+          {% endif %}
+          {% if location.hash_url != nil %}
+            <a href="{{location.hash_url}}"><abbr title="{{location.hash_name}}">{{location.hash}}</abbr></a><br>
+          {% else %}
+            {{location.hash}}<br>
+          {% endif %}
+          {% if location.note != nil %}
+          &nbsp;&nbsp;&nbsp;<span class="fa fa-sticky-note text-success"></span>&nbsp;&nbsp;
+            <mark>{{location.note}}</mark><br>
+          {% endif %}
+          {% if location.warning != nil %}
+          &nbsp;&nbsp;&nbsp;<span class="fa fa-exclamation-triangle text-danger"></span>&nbsp;&nbsp;
+            <mark>{{location.warning}}</mark><br>
+          {% endif %}
+        </address>
+      {% endif %}
+      {% endif %}
+      {% endfor %}
+    </div> <!-- col-lg-6 -->
+    <div class="col-lg-6">
+      <h3>Bakeries and Ice Cream</h3>
+      {% for location in site.data.philadelphia %}
+      {% if location.type == "bakery" or location.type == "ice cream" %}
+      {% if location.where == "Center City" %}
+        <address>
+          <a href="{{location.url}}"><strong>{{location.name}}</strong></a>&nbsp;&nbsp;
+          {% if location.facebook_url != nil %}
+            &nbsp;<a href="{{location.facebook_url}}"><span class="fa fa-facebook-square"></span></a>
+          {% endif %}
+          {% if location.yelp_url != nil %}
+            &nbsp;<a href="{{location.yelp_url}}"><span class="fa fa-yelp text-danger"></span></a>
+          {% endif %}
+          <br>
+          &nbsp;&nbsp;&nbsp;<span class="fa fa-cutlery"></span>&nbsp;&nbsp;
+            {{location.food}}<br>
+          &nbsp;&nbsp;&nbsp;<span class="fa fa-map-marker"></span>&nbsp;&nbsp;
+            {{location.address}}<br>
+          {% if location.certificate_url != nil %}
+          &nbsp;&nbsp;&nbsp;<a href="{{location.certificate_url}}"><span class="fa fa-certificate"></span></a>&nbsp;&nbsp;
+          {% else %}
+          &nbsp;&nbsp;&nbsp;<span class="fa fa-certificate"></span>&nbsp;&nbsp;
+          {% endif %}
+          {% if location.hash_url != nil %}
+            <a href="{{location.hash_url}}"><abbr title="{{location.hash_name}}">{{location.hash}}</abbr></a><br>
+          {% else %}
+            {{location.hash}}<br>
+          {% endif %}
+          {% if location.note != nil %}
+          &nbsp;&nbsp;&nbsp;<span class="fa fa-sticky-note text-success"></span>&nbsp;&nbsp;
+            <mark>{{location.note}}</mark><br>
+          {% endif %}
+          {% if location.warning != nil %}
+          &nbsp;&nbsp;&nbsp;<span class="fa fa-exclamation-triangle text-danger"></span>&nbsp;&nbsp;
+            <mark>{{location.warning}}</mark><br>
+          {% endif %}
+        </address>
+      {% endif %}
+      {% endif %}
+      {% endfor %}
+    </div> <!-- col-lg-6 -->
+  </div> <!-- row -->
+</div> <!-- container-fluid -->
