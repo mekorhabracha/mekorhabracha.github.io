@@ -11,20 +11,19 @@
         </div>
         <div id="navbar" class="navbar-collapse collapse">
           <ul class="nav navbar-nav">
-            <li class="active"><a href="index.html">Home</a></li>
+            <li{% if include.area == "home" %} class="active"{% endif %}><a href="index.html">Home</a></li>
 
-            <li class="dropdown">
+            <li class="dropdown{% if include.area == "community" %} active{% endif %}">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Community <span class="caret"></span></a>
               <ul class="dropdown-menu">
                 <li><a href="our-community.html">Our Community</a></li>
                 <li><a href="our-rabbi.html">Our Rabbi</a></li>
                 <li><a href="our-leadership.html">Our Leadership</a></li>
-                <li class="disabled"><a href="#">Our Location</a></li>
                 <li class="disabled"><a href="#">In the News</a></li>
               </ul> <!-- dropdown-menu -->
             </li> <!-- dropdown -->
 
-            <li class="dropdown">
+            <li class="dropdown{% if include.area == "services" %} active{% endif %}">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Services <span class="caret"></span></a>
               <ul class="dropdown-menu">
                 <li class="disabled"><a href="#">Weekdays</a></li>
@@ -33,7 +32,7 @@
               </ul> <!-- dropdown-menu -->
             </li> <!-- dropdown -->
 
-            <li class="dropdown">
+            <li class="dropdown{% if include.area == "learning" %} active{% endif %}">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Learning <span class="caret"></span></a>
               <ul class="dropdown-menu">
                 <li class="disabled"><a href="#">Sermons</a></li>
@@ -43,7 +42,7 @@
               </ul> <!-- dropdown-menu -->
             </li> <!-- dropdown -->
 
-            <li class="dropdown">
+            <li class="dropdown{% if include.area == "mekorkids" %} active{% endif %}">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">MekorKIDS <span class="caret"></span></a>
               <ul class="dropdown-menu">
                 <li class="disabled"><a href="#">Children Programming</a></li>
@@ -52,13 +51,13 @@
               </ul> <!-- dropdown-menu -->
             </li> <!-- dropdown -->
 
-            <li class="dropdown">
+            <li class="dropdown{% if include.area == "philadelphia" %} active{% endif %}">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Jewish Philadelphia <span class="caret"></span></a>
 
               <ul class="dropdown-menu">
                 <li><a href="eat-out.html">Eating Kosher out</a></li>
-                <li class="disabled"><a href="eat-in.html">Eating Kosher in</a></li>
-                <li class="disabled"><a href="#">Mikvaot</a></li>
+                <li><a href="eat-in.html">Eating Kosher at Home</a></li>
+                <li><a href="mikvaot.html">Mikvaot</a></li>
                 <li class="disabled"><a href="#">Eruvin</a></li>
                 <li class="disabled"><a href="#">Staying in Center City</a></li>
                 <li role="separator" class="divider"></li>
@@ -68,7 +67,7 @@
               </ul> <!-- dropdown-menu -->
             </li> <!-- dropdown -->
 
-            <li class="dropdown">
+            <li class="dropdown{% if include.area == "contact" %} active{% endif %}">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Stay in touch <span class="caret"></span></a>
               <ul class="dropdown-menu">
                 <li><a href="contact.html">Contact</a></li>
@@ -77,7 +76,7 @@
               </ul> <!-- dropdown-menu -->
             </li> <!-- dropdown -->
 
-            <li class="dropdown">
+            <li class="dropdown{% if include.area == "joinus" %} active{% endif %}">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Join us <span class="caret"></span></a>
               <ul class="dropdown-menu">
                 <li><a href="become-member.html">Become a Member</a></li>

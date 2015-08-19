@@ -1,0 +1,42 @@
+---
+layout: default
+area: philadelphia
+---
+
+<h1>Eating Kosher at Home</h1>
+
+<ul class="nav nav-pills nav-justified">
+  <li role="presentation"><a href="eat-in.html">Center City</a></li>
+  <li role="presentation"><a href="eat-in-mainline.html">Main Line / Manayunk</a></li>
+  <li role="presentation" class="active"><a href="eat-in-northeast.html">Old York Road / Northeast</a></li>
+  <li role="presentation"><a href="eat-in-cherryhill.html">Cherry Hill</a></li>
+</ul>
+
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-lg-6">
+      <h2>Grocery Stores</h2>
+      {% for location in site.data.philadelphia %}
+      {% if location.type == "grocery" %}
+      {% if location.where == "Northeast" or location.where == "Old York Road" %}
+
+        {% include listing.html %}
+
+      {% endif %}
+      {% endif %}
+      {% endfor %}
+    </div> <!-- col-lg-6 -->
+    <div class="col-lg-6">
+      <h2>Caterers</h2>
+      {% for location in site.data.philadelphia %}
+      {% if location.type == "catering" %}
+      {% if location.where == "Northeast" or location.where == "Old York Road" %}
+
+        {% include listing.html %}
+
+      {% endif %}
+      {% endif %}
+      {% endfor %}
+    </div> <!-- col-lg-6 -->
+  </div> <!-- row -->
+</div> <!-- container-fluid -->

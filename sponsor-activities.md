@@ -1,5 +1,6 @@
 ---
 layout: default
+area: joinus
 ---
 
 #Sponsor Activities

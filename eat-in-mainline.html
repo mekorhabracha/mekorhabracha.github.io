@@ -3,21 +3,21 @@ layout: default
 area: philadelphia
 ---
 
-<h1>Eating Kosher out</h1>
+<h1>Eating Kosher at Home</h1>
 
 <ul class="nav nav-pills nav-justified">
-  <li role="presentation"><a href="eat-out.html">Center City</a></li>
-  <li role="presentation" class="active"><a href="eat-out-mainline.html">Main Line / Manayunk</a></li>
-  <li role="presentation"><a href="eat-out-northeast.html">Old York Road / Northeast</a></li>
-  <li role="presentation"><a href="eat-out-cherryhill.html">Cherry Hill</a></li>
+  <li role="presentation"><a href="eat-in.html">Center City</a></li>
+  <li role="presentation" class="active"><a href="eat-in-mainline.html">Main Line / Manayunk</a></li>
+  <li role="presentation"><a href="eat-in-northeast.html">Old York Road / Northeast</a></li>
+  <li role="presentation"><a href="eat-in-cherryhill.html">Cherry Hill</a></li>
 </ul>
 
 <div class="container-fluid">
   <div class="row">
     <div class="col-lg-6">
-      <h2>Restaurants</h2>
+      <h2>Grocery Stores</h2>
       {% for location in site.data.philadelphia %}
-      {% if location.type == "restaurant" %}
+      {% if location.type == "grocery" %}
       {% if location.where == "Main Line" or location.where == "Manayunk" %}
 
         {% include listing.html %}
@@ -27,9 +27,9 @@ area: philadelphia
       {% endfor %}
     </div> <!-- col-lg-6 -->
     <div class="col-lg-6">
-      <h2>Bakeries and Ice Cream</h2>
+      <h2>Caterers</h2>
       {% for location in site.data.philadelphia %}
-      {% if location.type == "bakery" or location.type == "ice cream" %}
+      {% if location.type == "catering" %}
       {% if location.where == "Main Line" or location.where == "Manayunk" %}
 
         {% include listing.html %}
