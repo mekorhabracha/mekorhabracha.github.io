@@ -11,6 +11,10 @@
           &nbsp;<a href="{{location.yelp_url}}"><span class="fa fa-yelp text-danger"></span></a>
         {% endif %}
         <br>
+        {% if location.food != nil %}
+        &nbsp;&nbsp;&nbsp;<span class="fa fa-cutlery"></span>&nbsp;&nbsp;
+          {{location.food}}<br>
+        {% endif %}
         &nbsp;&nbsp;&nbsp;<span class="fa fa-map-marker"></span>&nbsp;&nbsp;
           {{location.address}}<br>
         {% if location.phone != nil %}
