@@ -7,11 +7,17 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="#">Mekor Habracha</a>
-        </div>
+          <a class="navbar-brand" href="index.html">
+            <span class="logo"><img class="logo" src="img/logo4.png"/> </span>
+            <span class="brand-name">  
+              <span class="text-center brand">Mekor Habracha</span><br>
+              <span class="text-center tagline">CENTER CITY SYNAGOGUE</span>
+            </span>
+          </a>
+
+        </div> <!-- navbar-header -->
         <div id="navbar" class="navbar-collapse collapse">
-          <ul class="nav navbar-nav">
-            <li{% if include.area == "home" %} class="active"{% endif %}><a href="index.html">Home</a></li>
+          <ul class="nav navbar-nav navbar-right">
 
             <li class="dropdown{% if include.area == "community" %} active{% endif %}">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Community <span class="caret"></span></a>
@@ -68,18 +74,10 @@
               </ul> <!-- dropdown-menu -->
             </li> <!-- dropdown -->
 
-            <li class="dropdown{% if include.area == "contact" %} active{% endif %}">
-              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Stay in touch <span class="caret"></span></a>
-              <ul class="dropdown-menu">
-                <li><a href="contact.html">Contact</a></li>
-                <li class="disabled"><a href="#">Facebook</a></li>
-                <li class="disabled"><a href="#">Newsletter</a></li>
-              </ul> <!-- dropdown-menu -->
-            </li> <!-- dropdown -->
-
             <li class="dropdown{% if include.area == "joinus" %} active{% endif %}">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Join us <span class="caret"></span></a>
               <ul class="dropdown-menu">
+                <li><a href="contact.html">Stay in Touch</a></li>
                 <li><a href="become-member.html">Become a Member</a></li>
                 <li><a href="sponsor-activities.html">Sponsor Activities</a></li>
                 <li><a href="donate.html">Donate to Mekor</a></li>
@@ -91,3 +89,5 @@
         </div><!--/.nav-collapse -->
       </div>
     </nav>
+    
+    <img class="image-band" src="img/torah-band.png"/>

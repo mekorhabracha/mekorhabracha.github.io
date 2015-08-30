@@ -1,0 +1,52 @@
+html,body {
+  font-family: Alef,
+               Helvetica,
+               Arial,
+               sans-serif;
+  -webkit-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
+}
+
+.navbar-nav {
+	padding-top: 12px;
+}
+
+.navbar-brand {
+    padding-top: 5px;
+}
+
+span.brand {
+    font-size: 25px;
+    color: #c96;
+}
+
+span.tagline {
+    font-size: 15px;
+    color: #69c;
+}
+
+.navbar{
+	min-height: 75px;
+}
+
+.navbar-nav{
+	font-size: 15px;
+}
+
+.logo{
+	width: 55px;
+}
+
+span.logo{
+    margin-top: 5px;
+	display: inline-table;
+}
+
+span.brand-name{
+	display: inline-table;
+}
+
+.image-band{
+	width: 100%;
+	margin-top: -25px;
+}
