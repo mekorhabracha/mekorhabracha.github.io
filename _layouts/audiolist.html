@@ -7,7 +7,7 @@ layout: default
 <ul>
   {% for audio in site.audio %}
     <li>
-      <a href="{{ audio.url }}">{{ audio.title }}</a>
+      {{ audio.year }} {{ audio.parasha }}: <a href="{{ audio.url }}">{{ audio.title }}</a> ({{ audio.date | date: "%b %-d %Y" }})
     </li>
   {% endfor %}
 </ul>

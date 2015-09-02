@@ -9,7 +9,11 @@ layout: default
   </header>
 
   <article class="post-content">
-    <iframe src="{{ page.link }}" width="500" height="140" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen="true"></iframe>
+    <audio controls>
+      <source src="https://archive.org/download/{{ page.id }}/{{ page.filename }}.ogg" type="audio/ogg">
+      <source src="https://archive.org/download/{{ page.id }}/{{ page.filename }}.mp3" type="audio/mpeg">
+      <iframe src="https://archive.org/embed/{{ page.id }}" width="500" height="140" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+    </audio>
     {{ content }}
   </article>
 
