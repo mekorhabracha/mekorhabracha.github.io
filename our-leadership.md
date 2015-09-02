@@ -17,7 +17,7 @@ An emergency Physician, trained at Philadelphia's prestigious Thomas Jefferson U
 ####Bethany Nikitenko, Esq., Ex Officio 
 A lawyer with the firm McLaughlin & Lauricella. Bethany grew up in Philadelphia, is a Temple University Law School graduate and has lived in Center City since beginning law school in 2003.
 
-####Dr. Bruce Taubman
+####[Dr. Bruce Taubman](mailto:Taubman@earthlink.net)
 A pediatrician with a practice in Cherry Hill, New Jersey. He has lived in Center City since 1972 and is the synagogue's president.
 
 

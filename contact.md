@@ -3,15 +3,7 @@ layout: default
 area: contact
 ---
 
-#Contact Us
-
-[General Information](mailto:mekorhabracha@gmail.com)
-
-####Rabbi
-[Eliezer Hirsch](mailto:RabbiEHirsch@gmail.com)
-
-####President
-[Bruce Taubman](mailto:Taubman@earthlink.net)
+#Stay in Touch
 
 ####Location
 
@@ -27,7 +19,7 @@ Philadelphia, PA 19103
 ####Phone
 215-525-4246
 
-####Other email addresses
+####Email addresses
 
 - [For general shul info](mailto:mekorhabracha@gmail.com)
 - [To contact our hospitality committee](mailto:mekorhospitality@gmail.com)
