@@ -20,7 +20,7 @@
           <ul class="nav navbar-nav navbar-right">
 
             <li class="dropdown{% if include.area == "community" %} active{% endif %}">
-              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Community <span class="caret"></span></a>
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">About Mekor <span class="caret"></span></a>
               <ul class="dropdown-menu">
                 <li><a href="{{ site.baseurl }}/our-community.html">Our Community</a></li>
                 <li><a href="{{ site.baseurl }}/our-rabbi.html">Our Rabbi</a></li>
@@ -36,7 +36,7 @@
             </li> <!-- dropdown -->
 
             <li class="dropdown{% if include.area == "philadelphia" %} active{% endif %}">
-              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Jewish Philadelphia <span class="caret"></span></a>
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Philadelphia <span class="caret"></span></a>
 
               <ul class="dropdown-menu">
                 <li><a href="{{ site.baseurl }}/eat-out.html">Eating Kosher out</a></li>
@@ -45,10 +45,17 @@
               </ul> <!-- dropdown-menu -->
             </li> <!-- dropdown -->
 
-            <li class="dropdown{% if include.area == "joinus" %} active{% endif %}">
-              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Join Us <span class="caret"></span></a>
+            <li class="dropdown{% if include.area == "connect" %} active{% endif %}">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Connect <span class="caret"></span></a>
               <ul class="dropdown-menu">
-                <li><a href="{{ site.baseurl }}/contact.html">Stay in Touch</a></li>
+                <li><a href="{{ site.baseurl }}/contact.html">Contact Us</a></li>
+                <li><a href="{{ site.baseurl }}/email-signup.html">Sign up to Receive Our Emails</a></li>
+              </ul> <!-- dropdown-menu -->
+            </li> <!-- dropdown -->
+
+            <li class="dropdown{% if include.area == "contribute" %} active{% endif %}">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Contribute <span class="caret"></span></a>
+              <ul class="dropdown-menu">
                 <li><a href="{{ site.baseurl }}/become-member.html">Become a Member</a></li>
                 <li><a href="{{ site.baseurl }}/sponsor-activities.html">Sponsor Activities</a></li>
                 <li><a href="{{ site.baseurl }}/donate.html">Donate to Mekor</a></li>
