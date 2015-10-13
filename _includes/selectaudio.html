@@ -20,7 +20,7 @@
 </ul>
 {% elsif include.type == "book" %}
 <ul class="nav nav-pills nav-justified">
-  <li role="presentation" class="disabled"><a href="audio-holidays.html">Holidays</a></li>
+  <li role="presentation"{% if include.subtype == "Holidays" %} class="active"{% endif %}><a href="audio-holidays.html">Holidays</a></li>
   <li role="presentation"{% if include.subtype == "Bereshit" %} class="active"{% endif %}><a href="audio-bereshit.html">Bereshit</a></li>
   <li role="presentation"{% if include.subtype == "Shemot"   %} class="active"{% endif %}><a href="audio-shemot.html">Shemot</a></li>
   <li role="presentation"{% if include.subtype == "Vayikra"  %} class="active"{% endif %}><a href="audio-vayikra.html">Vayikra</a></li>

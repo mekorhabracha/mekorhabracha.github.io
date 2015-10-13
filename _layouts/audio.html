@@ -8,7 +8,7 @@ layout: default
     <p class="post-meta">{{ page.date | date: "%B %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
   </header>
 
-  <article class="post-content">
+  <article class="post-content" preload="metadata">
     <audio controls>
       <source src="https://archive.org/download/{{ page.id }}/{{ page.filename }}.ogg" type="audio/ogg">
       <source src="https://archive.org/download/{{ page.id }}/{{ page.filename }}.mp3" type="audio/mpeg">

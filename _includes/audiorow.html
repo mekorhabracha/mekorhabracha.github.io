@@ -1,5 +1,6 @@
     <div class="row">
         <div class="col-md-5 text-right">
+            {% if audio.moment != nil %}<small>{{audio.moment}}</small> {% endif %}
             {% if include.type == "parasha" %}{{ audio.parasha }}
             {% elsif include.type == "year" %}{{ audio.year }}
             {% elsif include.type == "both" %}{{ audio.parasha }} {{ audio.year }}

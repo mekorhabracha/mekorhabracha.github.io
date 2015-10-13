@@ -4,17 +4,29 @@ layout: default
 
 <br>
 
-<h1>Audio Archive</h1>
+<h1>{{page.subtype}} <small>Audio Archive</small></h1>
 
 {% include selectaudio.html type=page.type subtype=page.subtype %}
 
 <div class="container-fluid">
 {% if page.type == "year" %}
+    {% assign holidays = site.audio | where:"bookcode","0" | where:"year",page.subtype %}
     {% assign bereshit = site.audio | where:"bookcode","1" | where:"year",page.subtype %}
     {% assign shemot   = site.audio | where:"bookcode","2" | where:"year",page.subtype %}
     {% assign vayikra  = site.audio | where:"bookcode","3" | where:"year",page.subtype %}
     {% assign bamidbar = site.audio | where:"bookcode","4" | where:"year",page.subtype %}
     {% assign devarim  = site.audio | where:"bookcode","5" | where:"year",page.subtype %}
+
+    {% if holidays.size > 0 %}
+    <div class="row">
+        <div class="col-md-12 text-center">
+            <h3>Holidays</h3>
+        </div>
+    </div> <!-- row -->
+    {% for audio in holidays %}
+        {% include audiorow.html type="parasha" %}
+    {% endfor %}
+    {% endif %}
 
     {% if bereshit.size > 0 %}
     <div class="row">
@@ -70,6 +82,93 @@ layout: default
         {% include audiorow.html type="parasha" %}
     {% endfor %}
     {% endif %}
+
+{% elsif page.type == "book" and page.subtype == "Holidays" %}
+    {% assign roshhashana = site.audio | where:"parashacode","001" %}
+    {% assign yomkippur   = site.audio | where:"parashacode","002" %}
+    {% assign sukkot      = site.audio | where:"parashacode","011" %}
+    {% assign shmini      = site.audio | where:"parashacode","012" %}
+    {% assign simchat     = site.audio | where:"parashacode","013" %}
+    {% assign pesach      = site.audio | where:"parashacode","021" %}
+    {% assign shavuot     = site.audio | where:"parashacode","031" %}
+
+    {% if roshhashana.size > 0 %}
+    <div class="row">
+        <div class="col-md-12 text-center">
+            <h3>Rosh Hashanah</h3>
+        </div>
+    </div> <!-- row -->
+    {% for audio in roshhashana %}
+        {% include audiorow.html type="year" %}
+    {% endfor %}
+    {% endif %}
+
+    {% if yomkippur.size > 0 %}
+    <div class="row">
+        <div class="col-md-12 text-center">
+            <h3>Yom Kippur</h3>
+        </div>
+    </div> <!-- row -->
+    {% for audio in yomkippur %}
+        {% include audiorow.html type="year" %}
+    {% endfor %}
+    {% endif %}
+
+    {% if sukkot.size > 0 %}
+    <div class="row">
+        <div class="col-md-12 text-center">
+            <h3>Sukkot</h3>
+        </div>
+    </div> <!-- row -->
+    {% for audio in sukkot %}
+        {% include audiorow.html type="year" %}
+    {% endfor %}
+    {% endif %}
+
+    {% if shmini.size > 0 %}
+    <div class="row">
+        <div class="col-md-12 text-center">
+            <h3>Shmini Atzeret</h3>
+        </div>
+    </div> <!-- row -->
+    {% for audio in shmini %}
+        {% include audiorow.html type="year" %}
+    {% endfor %}
+    {% endif %}
+
+    {% if simchat.size > 0 %}
+    <div class="row">
+        <div class="col-md-12 text-center">
+            <h3>Simchat Torah</h3>
+        </div>
+    </div> <!-- row -->
+    {% for audio in simchat %}
+        {% include audiorow.html type="year" %}
+    {% endfor %}
+    {% endif %}
+
+    {% if pesach.size > 0 %}
+    <div class="row">
+        <div class="col-md-12 text-center">
+            <h3>Pesach</h3>
+        </div>
+    </div> <!-- row -->
+    {% for audio in pesach %}
+        {% include audiorow.html type="year" %}
+    {% endfor %}
+    {% endif %}
+
+    {% if shavuot.size > 0 %}
+    <div class="row">
+        <div class="col-md-12 text-center">
+            <h3>Shavuot</h3>
+        </div>
+    </div> <!-- row -->
+    {% for audio in shavuot %}
+        {% include audiorow.html type="year" %}
+    {% endfor %}
+    {% endif %}
+
 
 {% elsif page.type == "book" and page.subtype == "Bereshit" %}
     {% assign bereshit  = site.audio | where:"parashacode","101" %}

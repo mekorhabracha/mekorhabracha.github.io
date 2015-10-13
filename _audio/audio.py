@@ -3,7 +3,7 @@ with open('audio.csv', newline='') as csvfile:
     audioreader = csv.reader(csvfile)
     next(audioreader)
     for row in audioreader:
-        fileName = row[4] + "-" + row[3] + ".md"
+        fileName = row[4] + "-" + row[3] + "-" + row[5] + ".md"
         f = open(fileName, "w")
         f.write("---\n")
         f.write("year: " + row[4] + "\n")
