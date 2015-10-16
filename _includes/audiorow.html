@@ -10,6 +10,6 @@
             {{ audio.date | date: "%b %-d %Y" }}
         </div> <!-- col-md-2 -->
         <div class="col-md-5">
-            <a href="{{ audio.url }}">{{ audio.title }}</a>
+            <a href="{{ audio.url }}">{{ audio.title }}</a>{% if audio.occasion != nil %} <small>{{audio.occasion}}</small> {% endif %}
         </div> <!-- col-md-5 -->
     </div> <!-- row -->

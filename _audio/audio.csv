@@ -31,7 +31,7 @@ FileExt,File,ID,Code,Year,i,Parashat,Date,Title,Moment,Shabbat,Occasion
 5767-303-2.m4a,5767-303-2,57673032,303,5767,2,Shmini,2007-04-14,Practice Is Perfect,Kabalat Shabbat,,
 5767-304-1.m4a,5767-304-1,57673041,304,5767,1,Tazria-Metzora,2007-04-21,Hatikva,Shacharit,,Yom haAtzmaut
 5767-304-2.m4a,5767-304-2,57673042,304,5767,2,Tazria-Metzora,2007-04-21,The Loner,Kabalat Shabbat,,
-5767-306-1.m4a,5767-306-1,57673061,306,5767,1,Emor,2007-05-05,Laugh,,,In Memory of Rabbi Lipman Podolsky z'l
+5767-306-1.m4a,5767-306-1,57673061,306,5767,1,Emor,2007-05-05,Laugh,,,In memory of Rabbi Lipman Podolsky z'l
 5767-307-1.m4a,5767-307-1,57673071,307,5767,1,Behar-Bechukotai,2007-05-12,Sevens,,,
 5767-401-1.m4a,5767-401-1,57674011,401,5767,1,Bamidbar,2007-05-19,Count,,,
 5767-403-1.m4a,5767-403-1,57674031,403,5767,1,Beha'alotcha,2007-06-02,Achieve the Impossible,,,
@@ -51,6 +51,10 @@ FileExt,File,ID,Code,Year,i,Parashat,Date,Title,Moment,Shabbat,Occasion
 5767-506-1.m4a,5767-506-1,57675061,506,5767,1,Ki Teitzei,2007-08-25,Don't Look Back,,,
 5767-508-1.m4a,5767-508-1,57675081,508,5767,1,Nitzavim-Vayeilech,2007-09-08,Wood Choppers and Water Carriers,,,
 5767-508-2.m4a,5767-508-2,57675082,508,5767,2,Nitzavim-Vayeilech,2007-09-08,Today!,,,
+5768-001-1.m4a,5768-001-1,57680011,001,5768,1,Rosh Hashanah,2007-09-13,Memorial Day,First day,,
+5768-001-2.m4a,5768-001-2,57680012,001,5768,2,Rosh Hashanah,2007-09-14,"Don't Be, Become",Second day,,
+5768-002-1.m4a,5768-002-1,57680021,002,5768,1,Yom Kippur,2007-09-22,Tell Them About It,Kol Nidre,,
+5768-012-1.m4a,5768-012-1,57680121,012,5768,1,Shmini Atzeret,2007-10-04,Rain On Me,,,
 5768-101-1.m4a,5768-101-1,57681011,101,5768,1,Bereshit,2007-10-06,The Circle of Life,,,
 5768-102-1.m4a,5768-102-1,57681021,102,5768,1,Noach,2007-10-13,You Say You Want An Evolution,,,
 5768-103-1.m4a,5768-103-1,57681031,103,5768,1,Lech-Lecha,2007-10-20,"Be Selfish, Not Selfless",,,
@@ -93,6 +97,9 @@ FileExt,File,ID,Code,Year,i,Parashat,Date,Title,Moment,Shabbat,Occasion
 5768-507-1.m4a,5768-507-1,57685071,507,5768,1,Ki Tavo,2008-09-20,"Don't Worry, Be Happy",,,
 5768-508a-1.m4a,5768-508a-1,5768508a1,508a,5768,1,Nitzavim,2008-09-27,Stand,,,
 5768-508b-1.m4a,5768-508b-1,5768508b1,508b,5768,1,Vayeilech,2008-10-04,Glory Days,,,
+5769-002-1.m4a,5769-002-1,57690021,002,5769,1,Yom Kippur,2008-10-09,Commitment,Kol Nidre,,
+5769-011-1.m4a,5769-011-1,57690111,011,5769,1,Sukkot,2008-10-14,The Secret of Happiness Is Death,,,
+5769-012-1.m4a,5769-012-1,57690121,012,5769,1,Shmini Atzeret,2008-10-21,Stop...In The Name Of Love,,,
 5769-101-1.m4a,5769-101-1,57691011,101,5769,1,Bereshit,2008-10-25,The Naked Fruit,Shacharit,,
 5769-101-2.m4a,5769-101-2,57691012,101,5769,2,Bereshit,2008-10-25,An Island of Song,Kabalat Shabbat,,
 5769-102-1.m4a,5769-102-1,57691021,102,5769,1,Noach,2008-11-01,Phillies Phlood,,,
@@ -133,9 +140,15 @@ FileExt,File,ID,Code,Year,i,Parashat,Date,Title,Moment,Shabbat,Occasion
 5769-503-1.m4a,5769-503-1,57695031,503,5769,1,Eikev,2009-08-08,Save Paula Abdul,,,
 5769-504-1.m4a,5769-504-1,57695041,504,5769,1,Re'eh,2009-08-15,It's the Climb,,,
 5769-506-1.m4a,5769-506-1,57695061,506,5769,1,Ki Teitzei,2009-08-29,Awake! Aware! Alive!,,,
-5769-507-1.m4a,5769-507-1,57695071,507,5769,1,Ki Tavo,2009-09-05,We're #2,,,
+5769-507-1.m4a,5769-507-1,57695071,507,5769,1,Ki Tavo,2009-09-05,We're number 2,,,
 5769-508-1.m4a,5769-508-1,57695081,508,5769,1,Nitzavim-Vayeilech,2009-09-12,Cheat Sheet,,,
 5769-509-1.m4a,5769-509-1,57695091,509,5769,1,Ha'Azinu,2009-09-26,Missing You,,Shuvah,
+5770-001-1.m4a,5770-001-1,57700011,001,5770,1,Rosh Hashanah,2009-09-19,Where's The Orchestra,First day,,
+5770-001-2.m4a,5770-001-2,57700012,001,5770,2,Rosh Hashanah,2009-09-20,Air Raid Siren,Second day,,
+5770-002-1.m4a,5770-002-1,57700021,002,5770,1,Yom Kippur,2009-09-28,You Belong With Me,Kol Nidre,,
+5770-011-1.m4a,5770-011-1,57700111,011,5770,1,Sukkot,2009-10-03,Festival of Boots ,First day,,
+5770-011-2.m4a,5770-011-2,57700112,011,5770,2,Sukkot,2009-10-04,You Gotta Have Heart ,Second day,,
+5770-012-1.m4a,5770-012-1,57700121,012,5770,1,Shmini Atzeret,2009-10-10,Send-off,,,
 5770-101-1.m4a,5770-101-1,57701011,101,5770,1,Bereshit,2009-10-17,Circles,,,
 5770-102-1.m4a,5770-102-1,57701021,102,5770,1,Noach,2009-10-24,Dancing With The Stars,,,
 5770-103-1.m4a,5770-103-1,57701031,103,5770,1,Lech-Lecha,2009-10-31,Changes,,,
@@ -177,6 +190,15 @@ FileExt,File,ID,Code,Year,i,Parashat,Date,Title,Moment,Shabbat,Occasion
 5770-507-1.m4a,5770-507-1,57705071,507,5770,1,Ki Tavo,2010-08-28,Thank G-d I am a Jew,,,
 5770-508-1.m4a,5770-508-1,57705081,508,5770,1,Nitzavim-Vayeilech,2010-09-04,Are You In?,,,
 5770-509-1.m4a,5770-509-1,57705091,509,5770,1,Ha'Azinu,2010-09-11,Respect and Suspect,,Shuvah,
+5771-001-1.m4a,5771-001-1,57710011,001,5771,1,Rosh Hashanah,2010-09-09,Change,First day,,
+5771-001-2.m4a,5771-001-2,57710012,001,5771,2,Rosh Hashanah,2010-09-10,The Second Day,Second day,,
+5771-002-1.m4a,5771-002-1,57710021,002,5771,1,Yom Kippur,2010-09-18,Sincerity,Kol Nidre,,
+5771-011-1.m4a,5771-011-1,57710111,011,5771,1,Sukkot,2010-09-23,Kindness to G-d,First day,,
+5771-011-2.m4a,5771-011-2,57710112,011,5771,2,Sukkot,2010-09-24,Clouds of Courage,Second day,,
+5771-011-3.m4a,5771-011-3,57710113,011,5771,3,Sukkot,2010-09-25,Animal House,Shabbat Chol haMoed,,
+5771-012-1.m4a,5771-012-1,57710121,012,5771,1,Shmini Atzeret,2010-09-30,Can't Get a Break,,,
+5771-013-1.m4a,5771-013-1,57710131,013,5771,1,Simchat Torah,2010-10-01,Infinite Muffins and Mimosas,,,
+5771-031-1.m4a,5771-031-1,57710311,031,5771,1,Shavuot,2011-06-08,Nature vs. Nurture ,,,
 5771-101-1.m4a,5771-101-1,57711011,101,5771,1,Bereshit,2010-10-02,Holiday Spirit,,,
 5771-102-1.m4a,5771-102-1,57711021,102,5771,1,Noach,2010-10-09,Mano a mano,,,Alex Nikitenko’s Aufruf
 5771-103-1.m4a,5771-103-1,57711031,103,5771,1,Lech-Lecha,2010-10-16,Circumcise Me!,,,
@@ -203,8 +225,8 @@ FileExt,File,ID,Code,Year,i,Parashat,Date,Title,Moment,Shabbat,Occasion
 5771-210b-1.m4a,5771-210b-1,5771210b1,210b,5771,1,Pekudei,2011-03-05,End of an Era,,,Marriage of Amy Landsburg and Randy Shultz
 5771-301-1.m4a,5771-301-1,57713011,301,5771,1,Vayikra,2011-03-12,Hot Blodded,,,Strong-Rosen Brit
 5771-302-1.m4a,5771-302-1,57713021,302,5771,1,Tzav,2011-03-19,Guns N' Roses,,,Purim
-5771-303-1.m4a,5771-303-1,57713031,303,5771,1,Shmini,2011-03-26,Who By Fire,,,Baby Naming of Naomi Tzipora Schnarch
-5771-304a-1.m4a,5771-304a-1,5771304a1,304a,5771,1,Tazria,2011-04-02,As The World Turns,,,In memory of Mr. Reuven Elefant z'l
+5771-303-1.m4a,5771-303-1,57713031,303,5771,1,Shmini,2011-03-26,Who By Fire,,,Baby naming of Naomi Tzipora Schnarch
+5771-304a-1.m4a,5771-304a-1,5771304a1,304a,5771,1,Tazria,2011-04-02,As The World Turns,,,In memory of Reuven Elefant z'l
 5771-304b-1.m4a,5771-304b-1,5771304b1,304b,5771,1,Metzora,2011-04-09,The Devil Inside,,,
 5771-305a-1.m4a,5771-305a-1,5771305a1,305a,5771,1,Achrei Mot,2011-04-16,Kitniyot,,Hagadol,
 5771-305b-1.m4a,5771-305b-1,5771305b1,305b,5771,1,Kedoshim,2011-04-30,The Forty Days of Musa Dagh,,,Yom haShoah
@@ -221,7 +243,7 @@ FileExt,File,ID,Code,Year,i,Parashat,Date,Title,Moment,Shabbat,Occasion
 5771-407-1.m4a,5771-407-1,57714071,407,5771,1,Pinchas,2011-07-16,Car Salesman,,,"Marriages of Robin Todes and Ari Gilbert, and Naomi Zwillenberg and Josh Aronowitz"
 5771-408a-1.m4a,5771-408a-1,5771408a1,408a,5771,1,Matot,2011-07-23,Subjectification,,,
 5771-408b-1.m4a,5771-408b-1,5771408b1,408b,5771,1,Masei,2011-07-30,Death Penalty,,,
-5771-501-1.m4a,5771-501-1,57715011,501,5771,1,Devarim,2011-08-06,Feels Like The First Time,,,Baby Naming of Orly Edith Kornfield
+5771-501-1.m4a,5771-501-1,57715011,501,5771,1,Devarim,2011-08-06,Feels Like The First Time,,,Baby naming of Orly Edith Kornfield
 5771-502-1.m4a,5771-502-1,57715021,502,5771,1,Vaetchanan,2011-08-13,It's OK,,,
 5771-503-1.m4a,5771-503-1,57715031,503,5771,1,Eikev,2011-08-20,Gratitude Attitude,,,
 5771-504-1.m4a,5771-504-1,57715041,504,5771,1,Re'eh,2011-08-27,Buying Fish Without Kosher Certification,,,
@@ -230,10 +252,22 @@ FileExt,File,ID,Code,Year,i,Parashat,Date,Title,Moment,Shabbat,Occasion
 5771-507-1.m4a,5771-507-1,57715071,507,5771,1,Ki Tavo,2011-09-17,Moment of Silence,,,
 5771-508-1.m4a,5771-508-1,57715081,508,5771,1,Nitzavim-Vayeilech,2011-09-24,Real or Memorex,,,Baby naming of Melila Eva Knepler-Pearl
 5771-509-1.m4a,5771-509-1,57715091,509,5771,1,Ha'Azinu,2011-10-01,Ol' Reliable,,,
+5772-001-1.m4a,5772-001-1,57720011,001,5772,1,Rosh Hashanah,2011-09-29,Self Creation ,First day,,
+5772-001-2.m4a,5772-001-2,57720012,001,5772,2,Rosh Hashanah,2011-09-30,Ram Tough,Second day,,
+5772-002-1.m4a,5772-002-1,57720021,002,5772,1,Yom Kippur,2011-10-08,Do It For The Kippur,Kol Nidre,,
+5772-002-2.m4a,5772-002-2,57720022,002,5772,2,Yom Kippur,2011-10-08,G-d's Children,Shacharit,,
+5772-002-3.m4a,5772-002-3,57720023,002,5772,3,Yom Kippur,2011-10-08,Hasidic Tale,Ne’ila,,
+5772-011-1.m4a,5772-011-1,57720111,011,5772,1,Sukkot,2011-10-13,Resist Peer Pressure,First day,,
+5772-011-2.m4a,5772-011-2,57720112,011,5772,2,Sukkot,2011-10-14,Automatic Intent,Second day,,
+5772-011-3.m4a,5772-011-3,57720113,011,5772,3,Sukkot,2011-10-15,Physical,Shabbat Chol haMoed,,
+5772-012-1.m4a,5772-012-1,57720121,012,5772,1,Shmini Atzeret,2011-10-20,Gilad and Freedom,,,
+5772-021-1.m4a,5772-021-1,57720211,021,5772,1,Pesach,2012-04-07,Why,First day,,
+5772-021-2.m4a,5772-021-2,57720212,021,5772,2,Pesach,2012-04-08,You Just Don't Understand ,Second day,,
+5772-031-1.m4a,5772-031-1,57720311,031,5772,1,Shavuot,2012-05-27,Every Day Is Torah Day,,,
 5772-101-1.m4a,5772-101-1,57721011,101,5772,1,Bereshit,2011-10-22,From My Head To My Heart,,,
 5772-102-1.m4a,5772-102-1,57721021,102,5772,1,Noach,2011-10-29,Pray for Me,,,
 5772-103-1.m4a,5772-103-1,57721031,103,5772,1,Lech-Lecha,2011-11-05,This Is My G-d,,,
-5772-104-1.m4a,5772-104-1,57721041,104,5772,1,Vayera,2011-11-12,Two Giants,,,In Memory of HaRav Nosson Tzvi Finkel Ztl and HaRav Dov Schwartzman Ztl
+5772-104-1.m4a,5772-104-1,57721041,104,5772,1,Vayera,2011-11-12,Two Giants,,,In memory of HaRav Nosson Tzvi Finkel z’l and HaRav Dov Schwartzman z'l
 5772-105-1.m4a,5772-105-1,57721051,105,5772,1,Chayei Sara,2011-11-19,Camel Kindness,,,
 5772-106-1.m4a,5772-106-1,57721061,106,5772,1,Toldot,2011-11-26,Born in the USA,,,
 5772-107-1.m4a,5772-107-1,57721071,107,5772,1,Vayetzei,2011-12-03,Jewish Tithing,,,
@@ -243,12 +277,12 @@ FileExt,File,ID,Code,Year,i,Parashat,Date,Title,Moment,Shabbat,Occasion
 5772-112-1.m4a,5772-112-1,57721121,112,5772,1,Vayechi,2012-01-07,The End,,,
 5772-201-1.m4a,5772-201-1,57722011,201,5772,1,Shemot,2012-01-14,Fantasy Football,,,Alex Hochster’s Shabbat Kallah
 5772-202-1.m4a,5772-202-1,57722021,202,5772,1,Vaera,2012-01-21,Lightbulb,,,
-5772-203-1.m4a,5772-203-1,57722031,203,5772,1,Bo,2012-01-28,It's Alive,,,In memory of Rebbetzin Chana Weinberg Ztl
-5772-203-2.m4a,5772-203-2,57722032,203,5772,2,Bo,2012-01-28,The Link,,,In memory of Rebbetzin Chana Weinberg Ztl
+5772-203-1.m4a,5772-203-1,57722031,203,5772,1,Bo,2012-01-28,It's Alive,,,In memory of Rebbetzin Chana Weinberg z'l
+5772-203-2.m4a,5772-203-2,57722032,203,5772,2,Bo,2012-01-28,The Link,,,In memory of Rebbetzin Chana Weinberg z'l
 5772-204-1.m4a,5772-204-1,57722041,204,5772,1,Beshalach,2012-02-04,LTR,,,
 5772-205-1.m4a,5772-205-1,57722051,205,5772,1,Yitro,2012-02-11,Be Normal,,,
 5772-206-1.m4a,5772-206-1,57722061,206,5772,1,Mishpatim,2012-02-18,We Are the World,,,
-5772-207-1.m4a,5772-207-1,57722071,207,5772,1,Terumah,2012-02-25,Givers,,,Upcoming Marriage of Yah-el Har-el and Andrés Catalán
+5772-207-1.m4a,5772-207-1,57722071,207,5772,1,Terumah,2012-02-25,Givers,,,Upcoming marriage of Yah-el Har-el and Andrés Catalán
 5772-208-1.m4a,5772-208-1,57722081,208,5772,1,Tetzaveh,2012-03-03,Memento,,Zachor,
 5772-210-1.m4a,5772-210-1,57722101,210,5772,1,Vayakhel-Pekudei,2012-03-17,Action!,,Parah,
 5772-301-1.m4a,5772-301-1,57723011,301,5772,1,Vayikra,2012-03-24,Waiting for Toulouse,,Hachodesh,
@@ -257,23 +291,32 @@ FileExt,File,ID,Code,Year,i,Parashat,Date,Title,Moment,Shabbat,Occasion
 5772-304-1.m4a,5772-304-1,57723041,304,5772,1,Tazria-Metzora,2012-04-28,Cheer Up,,,Yom haAtzmaut
 5772-306-1.m4a,5772-306-1,57723061,306,5772,1,Emor,2012-05-12,Depressing Rabbis,,,
 5772-307-1.m4a,5772-307-1,57723071,307,5772,1,Behar-Bechukotai,2012-05-19,Clive Lawton Intro,,,
-5772-401-1.m4a,5772-401-1,57724011,401,5772,1,Bamidbar,2012-05-26,In My Soul,,,Farewell Wishes to Risa Small & Josh Wolf
+5772-401-1.m4a,5772-401-1,57724011,401,5772,1,Bamidbar,2012-05-26,In My Soul,,,Farewell to Risa Small & Josh Wolf
 5772-402-1.m4a,5772-402-1,57724021,402,5772,1,Nasso,2012-06-02,Higher,,,Jimmy Costello’s Aufruf
 5772-403-1.m4a,5772-403-1,57724031,403,5772,1,Beha'alotcha,2012-06-09,Foundation,,,
 5772-404-1.m4a,5772-404-1,57724041,404,5772,1,Sh'lach,2012-06-16,Optional,,,
 5772-405-1.m4a,5772-405-1,57724051,405,5772,1,Korach,2012-06-23,One Family,,,
-5772-406a-1.m4a,5772-406a-1,5772406a1,406a,5772,1,Chukat,2012-06-30,We're All Gonna Die,,,Farewell Wishes to Beccah Taber
+5772-406a-1.m4a,5772-406a-1,5772406a1,406a,5772,1,Chukat,2012-06-30,We're All Gonna Die,,,Farewell to Beccah Taber
 5772-406b-1.m4a,5772-406b-1,5772406b1,406b,5772,1,Balak,2012-07-07,Start Me Up,,,
 5772-408-1.m4a,5772-408-1,57724081,408,5772,1,Matot-Masei,2012-07-21,Stronger,,,
 5772-501-1.m4a,5772-501-1,57725011,501,5772,1,Devarim,2012-07-28,Munich,,,
 5772-502-1.m4a,5772-502-1,57725021,502,5772,1,Vaetchanan,2012-08-04,Call Me Maybe,,,
 5772-503-1.m4a,5772-503-1,57725031,503,5772,1,Eikev,2012-08-11,Heel,,,
-5772-504-1.m4a,5772-504-1,57725041,504,5772,1,Re'eh,2012-08-18,Waiting between Meat and Dairy,,,Farewell Wishes to the Goldbergs
+5772-504-1.m4a,5772-504-1,57725041,504,5772,1,Re'eh,2012-08-18,Waiting between Meat and Dairy,,,Farewell to the Goldbergs
 5772-505-1.m4a,5772-505-1,57725051,505,5772,1,Shoftim,2012-08-25,Meant To Be Broken,,,
 5772-506-1.m4a,5772-506-1,57725061,506,5772,1,Ki Teitzei,2012-09-01,LevelUp,,,
-5772-507-1.m4a,5772-507-1,57725071,507,5772,1,Ki Tavo,2012-09-08,Pascal's Gambit,,,Baby Naming of Chana Harris
-5772-508a-1.m4a,5772-508a-1,5772508a1,508a,5772,1,Nitzavim,2012-09-15,Today,,,In memory of Mark Pinson Ztl
-5772-508b-1.m4a,5772-508b-1,5772508b1,508b,5772,1,Vayeilech,2012-09-22,Negative Definition,,, Engagement kiddush of Bill Moritz and Donna Cohen
+5772-507-1.m4a,5772-507-1,57725071,507,5772,1,Ki Tavo,2012-09-08,Pascal's Gambit,,,Baby naming of Chana Harris
+5772-508a-1.m4a,5772-508a-1,5772508a1,508a,5772,1,Nitzavim,2012-09-15,Today,,,In memory of Mark Pinson z’l
+5772-508b-1.m4a,5772-508b-1,5772508b1,508b,5772,1,Vayeilech,2012-09-22,Negative Definition,,,Engagement kiddush of Bill Moritz and Donna Cohen
+5773-001-1.m4a,5773-001-1,57730011,001,5773,1,Rosh Hashanah,2012-09-17,Laugh,First day,,
+5773-001-2.m4a,5773-001-2,57730012,001,5773,2,Rosh Hashanah,2012-09-18,Pray For God,Second day,,
+5773-002-1.m4a,5773-002-1,57730021,002,5773,1,Yom Kippur,2012-09-26,Real,Kol Nidre,,
+5773-002-2.m4a,5773-002-2,57730022,002,5773,2,Yom Kippur,2012-09-26,Wholistic,Shacharit,,
+5773-002-3.m4a,5773-002-3,57730023,002,5773,3,Yom Kippur,2012-09-26,Bound,Ne’ila,,
+5773-011-1.m4a,5773-011-1,57730111,011,5773,1,Sukkot,2012-10-01,Shadow Service,First day,,
+5773-011-2.m4a,5773-011-2,57730112,011,5773,2,Sukkot,2012-10-02,Inside Out,Second day,,
+5773-021-1.m4a,5773-021-1,57730211,021,5773,1,Pesach,2013-03-26,Cynical,First day,,
+5773-021-2.m4a,5773-021-2,57730212,021,5773,2,Pesach,2013-03-27,Tomorrow ,Second day,,
 5773-101-1.m4a,5773-101-1,57731011,101,5773,1,Bereshit,2012-10-13,Bless Yourself,,,
 5773-102-1.m4a,5773-102-1,57731021,102,5773,1,Noach,2012-10-20,Husbandry,,,
 5773-103-1.m4a,5773-103-1,57731031,103,5773,1,Lech-Lecha,2012-10-27,Selfhood,,,
@@ -288,7 +331,7 @@ FileExt,File,ID,Code,Year,i,Parashat,Date,Title,Moment,Shabbat,Occasion
 5773-201-1.m4a,5773-201-1,57732011,201,5773,1,Shemot,2013-01-05,Massive,,,
 5773-202-1.m4a,5773-202-1,57732021,202,5773,1,Vaera,2013-01-12,Fun God,,,
 5773-203-1.m4a,5773-203-1,57732031,203,5773,1,Bo,2013-01-19,Lincoln,,,
-5773-204-1.m4a,5773-204-1,57732041,204,5773,1,Beshalach,2013-01-26,"The Future's So Bright, I Gotta Wear Shades",,,Gavriella & Eitan Chumash Presentation
+5773-204-1.m4a,5773-204-1,57732041,204,5773,1,Beshalach,2013-01-26,"The Future's So Bright, I Gotta Wear Shades",,,Chumash Presentation to Gavriela and Eitan 
 5773-205-1.m4a,5773-205-1,57732051,205,5773,1,Yitro,2013-02-02,Intelligent Emotion,,,
 5773-206-1.m4a,5773-206-1,57732061,206,5773,1,Mishpatim,2013-02-09,Push Your Blanket,,,
 5773-207-1.m4a,5773-207-1,57732071,207,5773,1,Terumah,2013-02-16,You Ain't Seen Nothing Yet,,,
@@ -299,14 +342,14 @@ FileExt,File,ID,Code,Year,i,Parashat,Date,Title,Moment,Shabbat,Occasion
 5773-302-1.m4a,5773-302-1,57733021,302,5773,1,Tzav,2013-03-23,Kashering Countertops,,,
 5773-303-1.m4a,5773-303-1,57733031,303,5773,1,Shmini,2013-04-06,Examining Vegetables for Insects,,,
 5773-304-1.m4a,5773-304-1,57733041,304,5773,1,Tazria-Metzora,2013-04-13,Good Eye,,,
-5773-305-1.m4a,5773-305-1,57733051,305,5773,1,Achrei Mot-Kedoshim,2013-04-20,Strange Fire in Boston ,,,Farewell Wishes to Dalia Levine
+5773-305-1.m4a,5773-305-1,57733051,305,5773,1,Achrei Mot-Kedoshim,2013-04-20,Strange Fire in Boston ,,,Farewell to Dalia Levine
 5773-306-1.m4a,5773-306-1,57733061,306,5773,1,Emor,2013-04-27,Personal Connection,,,
 5773-307-1.m4a,5773-307-1,57733071,307,5773,1,Behar-Bechukotai,2013-05-04,Musketeers,,,
 5773-401-1.m4a,5773-401-1,57734011,401,5773,1,Bamidbar,2013-05-11,Graduation,,,
 5773-404-1.m4a,5773-404-1,57734041,404,5773,1,Sh'lach,2013-06-01,Terrible Twos,,,
-5773-406a-1.m4a,5773-406a-1,5773406a1,406a,5773,1,Chukat,2013-06-15,Super Death,,,"Farewell Wishes to the Whitmans, Elefants and Estreichers"
+5773-406a-1.m4a,5773-406a-1,5773406a1,406a,5773,1,Chukat,2013-06-15,Super Death,,,"Farewell to the Whitmans, Elefants and Estreichers"
 5773-406b-1.m4a,5773-406b-1,5773406b1,406b,5773,1,Balak,2013-06-22,Don't Straddle The Fence,,,
-5773-407-1.m4a,5773-407-1,57734071,407,5773,1,Pinchas,2013-06-29,Over Zealous,,,Farewell Wishes to Ayla and Evan
+5773-407-1.m4a,5773-407-1,57734071,407,5773,1,Pinchas,2013-06-29,Over Zealous,,,Farewell to Ayla and Evan
 5773-408-1.m4a,5773-408-1,57734081,408,5773,1,Matot-Masei,2013-07-06,Reminisce,,,
 5773-501-1.m4a,5773-501-1,57735011,501,5773,1,Devarim,2013-07-13,Free Hate,,,
 5773-502-1.m4a,5773-502-1,57735021,502,5773,1,Vaetchanan,2013-07-20,Rest Assured,,,
@@ -314,9 +357,19 @@ FileExt,File,ID,Code,Year,i,Parashat,Date,Title,Moment,Shabbat,Occasion
 5773-504-1.m4a,5773-504-1,57735041,504,5773,1,Re'eh,2013-08-03,Gelatine,,,
 5773-505-1.m4a,5773-505-1,57735051,505,5773,1,Shoftim,2013-08-10,Flash,,,
 5773-506-1.m4a,5773-506-1,57735061,506,5773,1,Ki Teitzei,2013-08-17,Not What But Why,,,
-5773-507-1.m4a,5773-507-1,57735071,507,5773,1,Ki Tavo,2013-08-24,Smile!,,,Farewell Wishes to the Klugers
+5773-507-1.m4a,5773-507-1,57735071,507,5773,1,Ki Tavo,2013-08-24,Smile!,,,Farewell to the Klugers
 5773-508-1.m4a,5773-508-1,57735081,508,5773,1,Nitzavim-Vayeilech,2013-08-31,The Day,,,
 5773-509-1.m4a,5773-509-1,57735091,509,5773,1,Ha'Azinu,2013-09-07,The Godfather,,,
+5774-001-1.m4a,5774-001-1,57740011,001,5774,1,Rosh Hashanah,2013-09-05,The Way to Produce a Person,First day,,
+5774-001-2.m4a,5774-001-2,57740012,001,5774,2,Rosh Hashanah,2013-09-06,Atheism Has Failed,Second day,,
+5774-002-1.m4a,5774-002-1,57740021,002,5774,1,Yom Kippur,2013-09-14,Jobbik,Kol Nidre,,
+5774-002-2.m4a,5774-002-2,57740022,002,5774,2,Yom Kippur,2013-09-14,Tethered,Shacharit,,
+5774-002-3.m4a,5774-002-3,57740023,002,5774,3,Yom Kippur,2013-09-14,Five Years Old,Ne’ila,,
+5774-011-1.m4a,5774-011-1,57740111,011,5774,1,Sukkot,2013-09-19,His Sukkah,First days,,
+5774-011-2.m4a,5774-011-2,57740112,011,5774,2,Sukkot,2013-09-20,Grow and Behold,Shabbat Chol haMoed,,
+5774-012-1.m4a,5774-012-1,57740121,012,5774,1,Shmini Atzeret,2013-09-26,Minus,,,
+5774-021-1.m4a,5774-021-1,57740211,021,5774,1,Pesach,2014-04-15,Song Of Songs,Shabbat Chol haMoed,,
+5774-031-1.m4a,5774-031-1,57740311,031,5774,1,Shavuot,2014-06-04,Unplanned ,,,
 5774-101-1.m4a,5774-101-1,57741011,101,5774,1,Bereshit,2013-09-28,The Adversity Hypothesis,,,
 5774-102-1.m4a,5774-102-1,57741021,102,5774,1,Noach,2013-10-05,Meow,,,
 5774-103-1.m4a,5774-103-1,57741031,103,5774,1,Lech-Lecha,2013-10-12,God Without Makeup,,,
@@ -336,29 +389,38 @@ FileExt,File,ID,Code,Year,i,Parashat,Date,Title,Moment,Shabbat,Occasion
 5774-302-1.m4a,5774-302-1,57743021,302,5774,1,Tzav,2014-03-15,Maiyet,,,
 5774-303-1.m4a,5774-303-1,57743031,303,5774,1,Shmini,2014-03-22,Halachot of Ovens,,,
 5774-304a-1.m4a,5774-304a-1,5774304a1,304a,5774,1,Tazria,2014-03-29,Torah Humanism,,,
-5774-304b-1.m4a,5774-304b-1,5774304b1,304b,5774,1,Metzora,2014-04-05,Super Rabbi,,,Baby Naming of Adel Raya Epstein Kriger
-5774-305a-1.m4a,5774-305a-1,5774305a1,305a,5774,1,Achrei Mot,2014-04-12,Vitamins Medications Cosmetics On Pesach,,Hagadol,Vitamins Medications Cosmetics On Pesach
+5774-304b-1.m4a,5774-304b-1,5774304b1,304b,5774,1,Metzora,2014-04-05,Super Rabbi,,,Baby naming of Adel Raya Epstein Kriger
+5774-305a-1.m4a,5774-305a-1,5774305a1,305a,5774,1,Achrei Mot,2014-04-12,"Vitamins, Medications and Cosmetics on Pesach",,Hagadol,
 5774-305b-1.m4a,5774-305b-1,5774305b1,305b,5774,1,Kedoshim,2014-04-26,Rocky Balboa,,,Yom haShoah
-5774-306-1.m4a,5774-306-1,57743061,306,5774,1,Emor,2014-05-03,I Go To Extremes ,,,Yom haAtzmaut
+5774-306-1.m4a,5774-306-1,57743061,306,5774,1,Emor,2014-05-03,I Go to Extremes ,,,Yom haAtzmaut
 5774-307a-1.m4a,5774-307a-1,5774307a1,307a,5774,1,Behar,2014-05-10,Faith & Faith ,,,
-5774-401-1.m4a,5774-401-1,57744011,401,5774,1,Bamidbar,2014-05-24,Attention,,,Farewell Wishes to Avi Zini
+5774-401-1.m4a,5774-401-1,57744011,401,5774,1,Bamidbar,2014-05-24,Attention,,,Farewell to Avi Zini
 5774-402-1.m4a,5774-402-1,57744021,402,5774,1,Nasso,2014-05-31,Beshert,,,
-5774-403-1.m4a,5774-403-1,57744031,403,5774,1,Beha'alotcha,2014-06-07,Running from School,,,"Graduation of Aaron Schapira, Avigail GS and Gavi Stein"
+5774-403-1.m4a,5774-403-1,57744031,403,5774,1,Beha'alotcha,2014-06-07,Running from School,,,"Graduation of Aaron, Avigail and Gavi"
 5774-404-1.m4a,5774-404-1,57744041,404,5774,1,Sh'lach,2014-06-14,Father's Day ,,,
-5774-405-1.m4a,5774-405-1,57744051,405,5774,1,Korach,2014-06-21,Earth and Fire,,,"Farewell to Donna and Bill Moritz, and Meryl Kahan"
+5774-405-1.m4a,5774-405-1,57744051,405,5774,1,Korach,2014-06-21,Earth and Fire,,,"Farewell to Meryl Kahan, and Donna and Bill Moritz"
 5774-406a-1.m4a,5774-406a-1,5774406a1,406a,5774,1,Chukat,2014-06-28,Idiots Guide To Time Management ,,,
 5774-407-1.m4a,5774-407-1,57744071,407,5774,1,Pinchas,2014-07-12,Self Revealing,,,
 5774-408a-1.m4a,5774-408a-1,5774408a1,408a,5774,1,Matot,2014-07-19,Commit for War,,,
 5774-408b-1.m4a,5774-408b-1,5774408b1,408b,5774,1,Masei,2014-07-26,Leo,,,
 5774-501-1.m4a,5774-501-1,57745011,501,5774,1,Devarim,2014-08-02,Criticism,,,
 5774-502-1.m4a,5774-502-1,57745021,502,5774,1,Vaetchanan,2014-08-09,Normal,,,
-5774-503-1.m4a,5774-503-1,57745031,503,5774,1,Eikev,2014-08-16,Rude,,,Robin Williams ztl
+5774-503-1.m4a,5774-503-1,57745031,503,5774,1,Eikev,2014-08-16,Rude,,,In memory of Robin Williams z’l
 5774-504-1.m4a,5774-504-1,57745041,504,5774,1,Re'eh,2014-08-23,Kashrut of Packaged Foods P1 Ingredient Lists,,,
-5774-505-1.m4a,5774-505-1,57745051,505,5774,1,Shoftim,2014-08-30,Cold Case,,,Farewell Wishes to Alex Prombaum
-5774-506-1.m4a,5774-506-1,57745061,506,5774,1,Ki Teitzei,2014-09-06,Key,,,Joan Rivers ztl
+5774-505-1.m4a,5774-505-1,57745051,505,5774,1,Shoftim,2014-08-30,Cold Case,,,Farewell to Alex Prombaum
+5774-506-1.m4a,5774-506-1,57745061,506,5774,1,Ki Teitzei,2014-09-06,Key,,,In memory of Joan Rivers z’l
 5774-507-1.m4a,5774-507-1,57745071,507,5774,1,Ki Tavo,2014-09-13,Happy,,,Marriage of Laura Liss and Toby Gershon
 5774-508-1.m4a,5774-508-1,57745081,508,5774,1,Nitzavim-Vayeilech,2014-09-20,Happily Ever After,,,
 5774-509-1.m4a,5774-509-1,57745091,509,5774,1,Ha'Azinu,2014-09-27,No Chance,,Shuvah,
+5775-001-1.m4a,5775-001-1,57750011,001,5775,1,Rosh Hashanah,2014-09-25,The Devil Went Down To Georgia,First day,,
+5775-001-2.m4a,5775-001-2,57750012,001,5775,2,Rosh Hashanah,2014-09-26,Soft,Second day,,
+5775-002-1.m4a,5775-002-1,57750021,002,5775,1,Yom Kippur,2014-10-04,Neshomele,Kol Nidre,,
+5775-002-2.m4a,5775-002-2,57750022,002,5775,2,Yom Kippur,2014-10-04,Active Choice,Shacharit,,
+5775-002-3.m4a,5775-002-3,57750023,002,5775,3,Yom Kippur,2014-10-04,Carpe Diem,Ne’ila,,
+5775-011-1.m4a,5775-011-1,57750111,011,5775,1,Sukkot,2014-10-09,Practical Clouds,First day,,Baby naming of Gavriella Adi Cohen
+5775-011-2.m4a,5775-011-2,57750112,011,5775,2,Sukkot,2014-10-10,Look Up,Second day,,
+5775-021-1.m4a,5775-021-1,57750211,021,5775,1,Pesach,2015-04-04,What's Going On,First day,,
+5775-021-2.m4a,5775-021-2,57750212,021,5775,2,Pesach,2015-04-05,Feminine,Second day,,
 5775-101-1.m4a,5775-101-1,57751011,101,5775,1,Bereshit,2014-10-18,Nakedness,,,
 5775-103-1.m4a,5775-103-1,57751031,103,5775,1,Lech-Lecha,2014-11-01,WIIFM,,,
 5775-104-1.m4a,5775-104-1,57751041,104,5775,1,Vayera,2014-11-08,Chipotle,,,
@@ -380,73 +442,11 @@ FileExt,File,ID,Code,Year,i,Parashat,Date,Title,Moment,Shabbat,Occasion
 5775-302-1.m4a,5775-302-1,57753021,302,5775,1,Tzav,2015-03-28,Chametz in Garbage Can,,Hagadol,
 5775-303-1.m4a,5775-303-1,57753031,303,5775,1,Shmini,2015-04-18,The Supermarket Controversy,,,
 5775-307-1.m4a,5775-307-1,57753071,307,5775,1,Behar-Bechukotai,2015-05-16,Relational Judaism,,,
-5775-401-1.m4a,5775-401-1,57754011,401,5775,1,Bamidbar,2015-05-23,Public Property,,,Sherri Rosenberg ztl
+5775-401-1.m4a,5775-401-1,57754011,401,5775,1,Bamidbar,2015-05-23,Public Property,,,In memory of Sherri Rosenberg z’l
 5775-403-1.m4a,5775-403-1,57754031,403,5775,1,Beha'alotcha,2015-06-06,Tigger' Mom,,,
 5775-406b-1.m4a,5775-406b-1,5775406b1,406b,5775,1,Balak,2015-07-04,Celebrating July 4 on 17 Tammuz,,,
 5775-407-1.m4a,5775-407-1,57754071,407,5775,1,Pinchas,2015-07-11,Vigilante,,,
-5768-001-1.m4a,5768-001-1,57680011,001,5768,1,Rosh Hashanah,2007-09-13,Memorial Day,First day,,
-5768-001-2.m4a,5768-001-2,57680012,001,5768,2,Rosh Hashanah,2007-09-14,"Don't Be, Become",Second day,,
-5768-002-1.m4a,5768-002-1,57680021,002,5768,1,Yom Kippur,2007-09-22,Tell Them About It,Kol Nidre,,
-5768-012-1.m4a,5768-012-1,57680121,012,5768,1,Shmini Atzeret,2007-10-04,Rain On Me,,,
-5769-002-1.m4a,5769-002-1,57690021,002,5769,1,Yom Kippur,2008-10-09,Commitment,Kol Nidre,,
-5769-011-1.m4a,5769-011-1,57690111,011,5769,1,Sukkot,2008-10-14,The Secret of Happiness Is Death,,,
-5769-012-1.m4a,5769-012-1,57690121,012,5769,1,Shmini Atzeret,2008-10-21,Stop...In The Name Of Love,,,
-5770-001-1.m4a,5770-001-1,57700011,001,5770,1,Rosh Hashanah,2009-09-19,Where's The Orchestra,First day,,
-5770-001-2.m4a,5770-001-2,57700012,001,5770,2,Rosh Hashanah,2009-09-20,Air Raid Siren,Second day,,
-5770-002-1.m4a,5770-002-1,57700021,002,5770,1,Yom Kippur,2009-09-28,You Belong With Me,Kol Nidre,,
-5770-011-1.m4a,5770-011-1,57700111,011,5770,1,Sukkot,2009-10-03,Festival of Boots ,First day,,
-5770-011-2.m4a,5770-011-2,57700112,011,5770,2,Sukkot,2009-10-04,You Gotta Have Heart ,Second day,,
-5770-012-1.m4a,5770-012-1,57700121,012,5770,1,Shmini Atzeret,2009-10-10,Send-off,,,
-5771-001-1.m4a,5771-001-1,57710011,001,5771,1,Rosh Hashanah,2010-09-09,Change,First day,,
-5771-001-2.m4a,5771-001-2,57710012,001,5771,2,Rosh Hashanah,2010-09-10,The Second Day,Second day,,
-5771-002-1.m4a,5771-002-1,57710021,002,5771,1,Yom Kippur,2010-09-18,Sincerity,Kol Nidre,,
-5771-011-1.m4a,5771-011-1,57710111,011,5771,1,Sukkot,2010-09-23,Kindness to G-d,First day,,
-5771-011-2.m4a,5771-011-2,57710112,011,5771,2,Sukkot,2010-09-24,Clouds of Courage,Second day,,
-5771-011-3.m4a,5771-011-3,57710113,011,5771,3,Sukkot,2010-09-25,Animal House,Shabbat Chol haMoed,,
-5771-012-1.m4a,5771-012-1,57710121,012,5771,1,Shmini Atzeret,2010-09-30,Can't Get a Break,,,
-5771-013-1.m4a,5771-013-1,57710131,013,5771,1,Simchat Torah,2010-10-01,Infinite Muffins and Mimosas,,,
-5771-031-1.m4a,5771-031-1,57710311,031,5771,1,Shavuot,2011-06-08,Nature vs. Nurture ,,,
-5772-001-1.m4a,5772-001-1,57720011,001,5772,1,Rosh Hashanah,2011-09-29,Self Creation ,First day,,
-5772-001-2.m4a,5772-001-2,57720012,001,5772,2,Rosh Hashanah,2011-09-30,Ram Tough,Second day,,
-5772-002-1.m4a,5772-002-1,57720021,002,5772,1,Yom Kippur,2011-10-08,Do It For The Kippur,Kol Nidre,,
-5772-002-2.m4a,5772-002-2,57720022,002,5772,2,Yom Kippur,2011-10-08,G-d's Children,Shacharit,,
-5772-002-3.m4a,5772-002-3,57720023,002,5772,3,Yom Kippur,2011-10-08,Hasidic Tale,Ne’ila,,
-5772-011-1.m4a,5772-011-1,57720111,011,5772,1,Sukkot,2011-10-13,Resist Peer Pressure,First day,,
-5772-011-2.m4a,5772-011-2,57720112,011,5772,2,Sukkot,2011-10-14,Automatic Intent,Second day,,
-5772-011-3.m4a,5772-011-3,57720113,011,5772,3,Sukkot,2011-10-15,Physical,Shabbat Chol haMoed,,
-5772-012-1.m4a,5772-012-1,57720121,012,5772,1,Shmini Atzeret,2011-10-20,Gilad and Freedom,,,
-5772-021-1.m4a,5772-021-1,57720211,021,5772,1,Pesach,2012-04-07,Why,First day,,
-5772-021-2.m4a,5772-021-2,57720212,021,5772,2,Pesach,2012-04-08,You Just Don't Understand ,Second day,,
-5772-031-1.m4a,5772-031-1,57720311,031,5772,1,Shavuot,2012-05-27,Every Day Is Torah Day,,,
-5773-001-1.m4a,5773-001-1,57730011,001,5773,1,Rosh Hashanah,2012-09-17,Laugh,First day,,
-5773-001-2.m4a,5773-001-2,57730012,001,5773,2,Rosh Hashanah,2012-09-18,Pray For God,Second day,,
-5773-002-1.m4a,5773-002-1,57730021,002,5773,1,Yom Kippur,2012-09-26,Real,Kol Nidre,,
-5773-002-2.m4a,5773-002-2,57730022,002,5773,2,Yom Kippur,2012-09-26,Wholistic,Shacharit,,
-5773-002-3.m4a,5773-002-3,57730023,002,5773,3,Yom Kippur,2012-09-26,Bound,Ne’ila,,
-5773-011-1.m4a,5773-011-1,57730111,011,5773,1,Sukkot,2012-10-01,Shadow Service,First day,,
-5773-011-2.m4a,5773-011-2,57730112,011,5773,2,Sukkot,2012-10-02,Inside Out,Second day,,
-5773-021-1.m4a,5773-021-1,57730211,021,5773,1,Pesach,2013-03-26,Cynical,First day,,
-5773-021-2.m4a,5773-021-2,57730212,021,5773,2,Pesach,2013-03-27,Tomorrow ,Second day,,
-5774-001-1.m4a,5774-001-1,57740011,001,5774,1,Rosh Hashanah,2013-09-05,The Way to Produce a Person,First day,,
-5774-001-2.m4a,5774-001-2,57740012,001,5774,2,Rosh Hashanah,2013-09-06,Atheism Has Failed,Second day,,
-5774-002-1.m4a,5774-002-1,57740021,002,5774,1,Yom Kippur,2013-09-14,Jobbik,Kol Nidre,,
-5774-002-2.m4a,5774-002-2,57740022,002,5774,2,Yom Kippur,2013-09-14,Tethered,Shacharit,,
-5774-002-3.m4a,5774-002-3,57740023,002,5774,3,Yom Kippur,2013-09-14,Five Years Old,Ne’ila,,
-5774-011-1.m4a,5774-011-1,57740111,011,5774,1,Sukkot,2013-09-19,His Sukkah,First days,,
-5774-011-2.m4a,5774-011-2,57740112,011,5774,2,Sukkot,2013-09-20,Grow and Behold,Shabbat Chol haMoed,,
-5774-012-1.m4a,5774-012-1,57740121,012,5774,1,Shmini Atzeret,2013-09-26,Minus,,,
-5774-021-1.m4a,5774-021-1,57740211,021,5774,1,Pesach,2014-04-15,Song Of Songs,Shabbat Chol haMoed,,
-5774-031-1.m4a,5774-031-1,57740311,031,5774,1,Shavuot,2014-06-04,Unplanned ,,,
-5775-001-1.m4a,5775-001-1,57750011,001,5775,1,Rosh Hashanah,2014-09-25,The Devil Went Down To Georgia,First day,,
-5775-001-2.m4a,5775-001-2,57750012,001,5775,2,Rosh Hashanah,2014-09-26,Soft,Second day,,
-5775-002-1.m4a,5775-002-1,57750021,002,5775,1,Yom Kippur,2014-10-04,Neshomele,Kol Nidre,,
-5775-002-2.m4a,5775-002-2,57750022,002,5775,2,Yom Kippur,2014-10-04,Active Choice,Shacharit,,
-5775-002-3.m4a,5775-002-3,57750023,002,5775,3,Yom Kippur,2014-10-04,Carpe Diem,Ne’ila,,
-5775-011-1.m4a,5775-011-1,57750111,011,5775,1,Sukkot,2014-10-09,Practical Clouds,First day,,Baby naming of Gavriella Adi Cohen
-5775-011-2.m4a,5775-011-2,57750112,011,5775,2,Sukkot,2014-10-10,Look Up,Second day,,
-5775-021-1.m4a,5775-021-1,57750211,021,5775,1,Pesach,2015-04-04,What's Going On,First day,,
-5775-021-2.m4a,5775-021-2,57750212,021,5775,2,Pesach,2015-04-05,Feminine,Second day,,
-5776-001-1.m4a,5776-001-1,57760011,001,5776,1,Rosh Hashanah,2015-09-14,Aspiration,First day,,
-5776-001-2.m4a,5776-001-2,57760012,001,5776,2,Rosh Hashanah,2015-09-15,Choose Alive,Second day,,
 5775-507-1.m4a,5775-507-1,57755071,507,5775,1,Ki Tavo,2015-09-05,Smile!,,,
 5775-508b-1.m4a,5775-508b-1,5775508b1,508b,5775,1,Vayeilech,2015-09-19,Scream,,Shuvah,
+5776-001-1.m4a,5776-001-1,57760011,001,5776,1,Rosh Hashanah,2015-09-14,Aspiration,First day,,
+5776-001-2.m4a,5776-001-2,57760012,001,5776,2,Rosh Hashanah,2015-09-15,Choose Alive,Second day,,
