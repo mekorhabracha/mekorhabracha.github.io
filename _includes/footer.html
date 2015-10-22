@@ -1,15 +1,35 @@
-<footer>
+<footer class="footer">
 
-    <!-- Bootstrap core JavaScript
-    ================================================== -->
-    <!-- Placed at the end of the document so the pages load faster -->
-    <script type='text/javascript' src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
-    {% if include.area == "calendar" %}<script type='text/javascript' src="http://cdnjs.cloudflare.com/ajax/libs/moment.js/2.9.0/moment.min.js"></script>
-    <script type='text/javascript' src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-    <script type='text/javascript' src="http://cdnjs.cloudflare.com/ajax/libs/fullcalendar/2.2.6/fullcalendar.min.js"></script>
-    <script type='text/javascript' src="http://cdnjs.cloudflare.com/ajax/libs/fullcalendar/2.2.6/gcal.js"></script>{% endif %}
-    
-    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
-    <script src="js/ie10-viewport-bug-workaround.js"></script>
+  <div class="container-fluid">
+
+        <div class="row">
+          <div class="col-md-3">
+            <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a>
+          </div> <!-- end div col -->
+          <div class="col-md-6">
+              <address class="text-center small">
+                <strong>Mekor Habracha / Center City Synagogue</strong><br/>
+                <span class="fa fa-map-marker"></span> 2000 Chestnut St, 2nd floor. Philadelphia, PA 19103<br/>
+                <span class="fa fa-phone"></span> +1 (215) 525-4246 •
+                <span class="fa fa-at"></span><a href="mailto:info@mekorhabracha.org">info@mekorhabracha.org</a>
+              </address>
+          </div> <!-- end div col -->
+          <div class="col-md-3">
+            <p class="text-right text-muted"><a href="#">Colophon</a></p>
+          </div> <!-- end div col -->
+        </div> <!-- end div row -->
+  </div>
+
+  <!-- Bootstrap core JavaScript
+  ================================================== -->
+  <!-- Placed at the end of the document so the pages load faster -->
+  <script type='text/javascript' src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+  {% if include.area == "calendar" %}<script type='text/javascript' src="http://cdnjs.cloudflare.com/ajax/libs/moment.js/2.9.0/moment.min.js"></script>
+  <script type='text/javascript' src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+  <script type='text/javascript' src="http://cdnjs.cloudflare.com/ajax/libs/fullcalendar/2.2.6/fullcalendar.min.js"></script>
+  <script type='text/javascript' src="http://cdnjs.cloudflare.com/ajax/libs/fullcalendar/2.2.6/gcal.js"></script>{% endif %}
+  
+  <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+  <script src="js/ie10-viewport-bug-workaround.js"></script>
 
 </footer>

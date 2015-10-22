@@ -1,5 +1,6 @@
 ---
-layout: default
+title: Our Leadership
+layout: defaultwide
 area: community
 ---
 
