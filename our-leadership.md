@@ -6,7 +6,7 @@ area: community
 #Our Leadership
 
 ####Yoella Epstein, Esq.
-A litigation associate at Blank Rome LLP, she was born and raised in the Philadelphia area. After graduating from University of Southern California, Gould School of Law, she moved to Center City in 2008 with her husband, Jeremy Kriger. Yoella and Jeremy are the proud parents of  three girls: Neli, Neima and Adel. 
+A litigation associate at Blank Rome LLP, she was born and raised in the Philadelphia area. After graduating from University of Southern California, Gould School of Law, she moved to Center City in 2008 with her husband, Jeremy Kriger. Yoella and Jeremy are the proud parents of three girls: Neli, Neima and Adel. 
 
 ####Ellen B. Geller
 Director of the Executive Office of The College on Problems of Drug Dependence, and Scientific Coordinator for the Center on Substance Abuse Research at Temple Medical School, Ellen has lived in Center City since 1972 and is the synagogue's treasurer.

@@ -1,0 +1,17 @@
+---
+layout: default
+area: community
+---
+
+<h1>In the News</h1>
+
+      {% for post in site.posts %}{% if post.section == "inthenews" %}
+        <div class="row">
+          <div class="col-md-3">
+            <p class="text-right">{{ post.date | date: '%-d %b %Y' }}</p>
+          </div> <!-- end div col -->
+          <div class="col-md-9">
+            <p class="text-left"><span class="label label-primary">{{ post.media }}</span> <a href="{{ post.url }}">{{ post.title }}</a></p>
+          </div> <!-- end div col -->
+        </div> <!-- end div row -->
+      {% endif %}{% endfor %}
