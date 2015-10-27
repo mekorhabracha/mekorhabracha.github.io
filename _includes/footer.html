@@ -24,10 +24,13 @@
   ================================================== -->
   <!-- Placed at the end of the document so the pages load faster -->
   <script type='text/javascript' src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
-  {% if include.area == "calendar" %}<script type='text/javascript' src="http://cdnjs.cloudflare.com/ajax/libs/moment.js/2.9.0/moment.min.js"></script>
+  {% if include.area == "calendar" or include.area == "home" %}
   <script type='text/javascript' src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+  <script type='text/javascript' src="http://cdnjs.cloudflare.com/ajax/libs/moment.js/2.10.6/moment.min.js"></script>
   <script type='text/javascript' src="http://cdnjs.cloudflare.com/ajax/libs/fullcalendar/2.2.6/fullcalendar.min.js"></script>
-  <script type='text/javascript' src="http://cdnjs.cloudflare.com/ajax/libs/fullcalendar/2.2.6/gcal.js"></script>{% endif %}
+  <script type='text/javascript' src="http://cdnjs.cloudflare.com/ajax/libs/fullcalendar/2.2.6/gcal.js"></script>
+  <script type='text/javascript' src="js/calendar-home.js"></script>
+  {% endif %}
   
   <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
   <script src="js/ie10-viewport-bug-workaround.js"></script>

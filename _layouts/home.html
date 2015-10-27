@@ -34,7 +34,7 @@
               <div class="container-fluid">
                 <div class="row">
                   <div class="col-lg-4 text-center">
-                      <a href="#"><i class="fa fa-thumb-tack fa-4x"></i></a>
+                      <a href="bulletin-board.html"><i class="fa fa-thumb-tack fa-4x"></i></a>
                       <h6 class="text-center">Bulletin board</h6>
                   </div> <!-- col -->
                   <div class="col-lg-4 text-center">
@@ -63,14 +63,57 @@
               </div> <!-- container -->
             </div> <!-- panel-body -->
           </div> <!-- panel -->
-              
+          
+          
+<div>
 
-          <div class="panel panel-default">
-            <div class="panel-body">
+  <!-- Nav tabs -->
+  <ul class="nav nav-pills nav-justified" role="tablist">
+    <li role="presentation" class="active"><a href="#today" aria-controls="today" role="tab" data-toggle="pill">Today and Tomorrow</a></li>
+    <!-- <li role="presentation"><a href="#shabbat" aria-controls="shabbat" role="tab" data-toggle="pill">Shabbat</a></li> -->
+    <li role="presentation"><a href="#announcements" aria-controls="announcements" role="tab" data-toggle="pill">Announcements</a></li>
+  </ul>
+<br/>
+  <!-- Tab panes -->
+  <div class="tab-content">
+    <div role="tabpanel" class="tab-pane fade in active" id="today">
+      <div class="panel panel-default">
+        <div class="panel-body">
+          <table class="table">
+            <tbody>
+              <tr><div id="minicalendar1"></div></tr>
+              <tr><div id="minicalendar2"></div></tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+    <!-- <div role="tabpanel" class="tab-pane fade" id="shabbat">
+      <div class="panel panel-default">
+        <div class="panel-body">
+          <p>ABC</p>
+        </div>
+      </div>
+    </div> -->
+    <div role="tabpanel" class="tab-pane fade" id="announcements">
+      <div class="panel panel-default">
+        <div class="panel-body">
+          <div class="container-fluid">
+            {% capture nowdate %}{{'now' | date: '%s' }}{% endcapture %}
+            {% for post in site.posts %}{% if post.frontpage == true %}
+            {% capture postuntil %}{{ post.until | date: '%s' }}{% endcapture %}
+            {% if nowdate <= postuntil %}
+            <div class="row">
+              <a href="{{ post.url }}">{{post.title}}</a> ({{ post.date | date: '%b %-d %Y' }})
+            </div> <!-- row -->
+            {% endif %}{% endif %}{% endfor %}
+          </div> <!-- container -->
+        </div> <!-- panel-body -->
+      </div> <!-- panel -->
+    </div> <!-- tabpanel -->
+  </div> <!-- tab-content -->
 
-            </div> <!-- panel-body -->
-          </div> <!-- panel -->
-
+</div>
         </div> <!-- col -->
 
         <div class="col-lg-3">
@@ -93,7 +136,7 @@
       </div> <!-- row -->
     </div> <!-- /container-fluid -->
 
-    {% include footer.html %}
+    {% include footer.html area=page.area %}
     
   </body>
 </html>

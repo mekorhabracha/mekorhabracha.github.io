@@ -14,10 +14,11 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
     <link rel='stylesheet' href='http://fonts.googleapis.com/css?family=Alef:400,700&subset=latin,hebrew' type='text/css'>
-    {% if include.area == "calendar" %}<link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/fullcalendar/2.2.6/fullcalendar.min.css">{% endif %}
     <link rel="stylesheet" href="{{ site.baseurl }}/css/mekor.css">
     <link rel="stylesheet" href="{{ site.baseurl }}/css/hebcal-styles.css" >
-
+    {% if include.area == "calendar" or include.area == "home" %}
+    <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/fullcalendar/2.2.6/fullcalendar.min.css">
+    {% endif %}
     <script type='text/javascript' src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
     
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
