@@ -3,6 +3,13 @@
   <li role="presentation"{% if include.type == "book" %}  class="active"{% endif %}><a href="{{site.url}}/audio/bereshit.html">Sermons by book</a></li>
   <li role="presentation" class="disabled" data-toggle="tooltip" data-placement="top" title="Coming soon"><a href="#">Classes</a></li>
 </ul>
+
+<script>
+  $(function () {
+    $('[data-toggle="tooltip"]').tooltip()
+  })
+</script>
+
 <br/>
 {% if include.type == "year" %}
 <ul class="nav nav-pills nav-justified">
