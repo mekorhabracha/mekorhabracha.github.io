@@ -1,30 +1,30 @@
 <ul class="nav nav-pills nav-justified">
-  <li role="presentation"{% if include.type == "year" %}  class="active"{% endif %}><a href="audio/5776.html">Sermons by year</a></li>
-  <li role="presentation"{% if include.type == "book" %}  class="active"{% endif %}><a href="audio/bereshit.html">Sermons by book</a></li>
+  <li role="presentation"{% if include.type == "year" %}  class="active"{% endif %}><a href="{{site.url}}/audio/5776.html">Sermons by year</a></li>
+  <li role="presentation"{% if include.type == "book" %}  class="active"{% endif %}><a href="{{site.url}}/audio/bereshit.html">Sermons by book</a></li>
   <li role="presentation" class="disabled" ><a href="audio/bereshit.html">Classes</a></li>
 </ul>
 <br/>
 {% if include.type == "year" %}
 <ul class="nav nav-pills nav-justified">
-  <li role="presentation"{% if include.subtype == 5766 %} class="active"{% endif %}><a href="audio/5766.html">5766</a></li>
-  <li role="presentation"{% if include.subtype == 5767 %} class="active"{% endif %}><a href="audio/5767.html">5767</a></li>
-  <li role="presentation"{% if include.subtype == 5768 %} class="active"{% endif %}><a href="audio/5768.html">5768</a></li>
-  <li role="presentation"{% if include.subtype == 5769 %} class="active"{% endif %}><a href="audio/5769.html">5769</a></li>
-  <li role="presentation"{% if include.subtype == 5770 %} class="active"{% endif %}><a href="audio/5770.html">5770</a></li>
-  <li role="presentation"{% if include.subtype == 5771 %} class="active"{% endif %}><a href="audio/5771.html">5771</a></li>
-  <li role="presentation"{% if include.subtype == 5772 %} class="active"{% endif %}><a href="audio/5772.html">5772</a></li>
-  <li role="presentation"{% if include.subtype == 5773 %} class="active"{% endif %}><a href="audio/5773.html">5773</a></li>
-  <li role="presentation"{% if include.subtype == 5774 %} class="active"{% endif %}><a href="audio/5774.html">5774</a></li>
-  <li role="presentation"{% if include.subtype == 5775 %} class="active"{% endif %}><a href="audio/5775.html">5775</a></li>
-  <li role="presentation"{% if include.subtype == 5776 %} class="active"{% endif %}><a href="audio/5776.html">5776</a></li>
+  <li role="presentation"{% if include.subtype == 5766 %} class="active"{% endif %}><a href="{{site.url}}/audio/5766.html">5766</a></li>
+  <li role="presentation"{% if include.subtype == 5767 %} class="active"{% endif %}><a href="{{site.url}}/audio/5767.html">5767</a></li>
+  <li role="presentation"{% if include.subtype == 5768 %} class="active"{% endif %}><a href="{{site.url}}/audio/5768.html">5768</a></li>
+  <li role="presentation"{% if include.subtype == 5769 %} class="active"{% endif %}><a href="{{site.url}}/audio/5769.html">5769</a></li>
+  <li role="presentation"{% if include.subtype == 5770 %} class="active"{% endif %}><a href="{{site.url}}/audio/5770.html">5770</a></li>
+  <li role="presentation"{% if include.subtype == 5771 %} class="active"{% endif %}><a href="{{site.url}}/audio/5771.html">5771</a></li>
+  <li role="presentation"{% if include.subtype == 5772 %} class="active"{% endif %}><a href="{{site.url}}/audio/5772.html">5772</a></li>
+  <li role="presentation"{% if include.subtype == 5773 %} class="active"{% endif %}><a href="{{site.url}}/audio/5773.html">5773</a></li>
+  <li role="presentation"{% if include.subtype == 5774 %} class="active"{% endif %}><a href="{{site.url}}/audio/5774.html">5774</a></li>
+  <li role="presentation"{% if include.subtype == 5775 %} class="active"{% endif %}><a href="{{site.url}}/audio/5775.html">5775</a></li>
+  <li role="presentation"{% if include.subtype == 5776 %} class="active"{% endif %}><a href="{{site.url}}/audio/5776.html">5776</a></li>
 </ul>
 {% elsif include.type == "book" %}
 <ul class="nav nav-pills nav-justified">
-  <li role="presentation"{% if include.subtype == "Holidays" %} class="active"{% endif %}><a href="audio/holidays.html">Holidays</a></li>
-  <li role="presentation"{% if include.subtype == "Bereshit" %} class="active"{% endif %}><a href="audio/bereshit.html">Sefer Bereshit</a></li>
-  <li role="presentation"{% if include.subtype == "Shemot"   %} class="active"{% endif %}><a href="audio/shemot.html">Sefer Shemot</a></li>
-  <li role="presentation"{% if include.subtype == "Vayikra"  %} class="active"{% endif %}><a href="audio/vayikra.html">Sefer Vayikra</a></li>
-  <li role="presentation"{% if include.subtype == "Bamidbar" %} class="active"{% endif %}><a href="audio/bamidbar.html">Sefer Bamidbar</a></li>
-  <li role="presentation"{% if include.subtype == "Devarim"  %} class="active"{% endif %}><a href="audio/devarim.html">Sefer Devarim</a></li>
+  <li role="presentation"{% if include.subtype == "Holidays" %} class="active"{% endif %}><a href="{{site.url}}/audio/holidays.html">Holidays</a></li>
+  <li role="presentation"{% if include.subtype == "Bereshit" %} class="active"{% endif %}><a href="{{site.url}}/audio/bereshit.html">Sefer Bereshit</a></li>
+  <li role="presentation"{% if include.subtype == "Shemot"   %} class="active"{% endif %}><a href="{{site.url}}/audio/shemot.html">Sefer Shemot</a></li>
+  <li role="presentation"{% if include.subtype == "Vayikra"  %} class="active"{% endif %}><a href="{{site.url}}/audio/vayikra.html">Sefer Vayikra</a></li>
+  <li role="presentation"{% if include.subtype == "Bamidbar" %} class="active"{% endif %}><a href="{{site.url}}/audio/bamidbar.html">Sefer Bamidbar</a></li>
+  <li role="presentation"{% if include.subtype == "Devarim"  %} class="active"{% endif %}><a href="{{site.url}}/audio/devarim.html">Sefer Devarim</a></li>
 </ul>
 {% endif %}
