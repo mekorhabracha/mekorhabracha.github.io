@@ -1,7 +1,7 @@
 <ul class="nav nav-pills nav-justified">
   <li role="presentation"{% if include.type == "year" %}  class="active"{% endif %}><a href="{{site.url}}/audio/5776.html">Sermons by year</a></li>
   <li role="presentation"{% if include.type == "book" %}  class="active"{% endif %}><a href="{{site.url}}/audio/bereshit.html">Sermons by book</a></li>
-  <li role="presentation" class="disabled" ><a href="audio/bereshit.html">Classes</a></li>
+  <li role="presentation" class="disabled" data-toggle="tooltip" data-placement="top" title="Coming soon"><a href="#">Classes</a></li>
 </ul>
 <br/>
 {% if include.type == "year" %}
