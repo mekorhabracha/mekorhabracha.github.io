@@ -1,4 +1,4 @@
----
+  ---
 <!-- title: enter the text between quotation marks -->
 title:      '...What Message Are We Sending to Mourners?'
 <!-- section: inthenews, bulletinboard or rabbisdesk -->
