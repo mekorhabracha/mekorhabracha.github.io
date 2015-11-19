@@ -1,5 +1,5 @@
 ---
-title: 'Regarding the shul's new location'
+title: "Regarding the shul's new location"
 section: rabbisdesk
 link:
 author: Rabbi Eliezer Hirsch and Bruce Taubman
