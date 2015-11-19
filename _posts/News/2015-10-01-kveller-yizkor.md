@@ -1,11 +1,11 @@
 ---
-title: ...What Message Are We Sending to Mourners?
-media: Kveller
-date: 2015-10-01
+title: '...What Message Are We Sending to Mourners?'
 section: inthenews
 link: http://www.kveller.com/when-people-leave-before-the-memorial-prayer-what-message-are-we-sending-to-mourners/
 author: Sharrona Pearl
+media: Kveller
 meta: article by Sharrona Pearl, member of Mekor Habracha
+frontpage: false
 layout: post
 ---
 

@@ -1,10 +1,9 @@
 ---
 title: Activists Prepare for Climate March
 media: Jewish Exponent
-date: 2014-09-17
 section: inthenews
 link: http://jewishexponent.com/headlines/2014/09/activists-prepare-for-climate-march
-author: Yoella Epstein
+author: Eric Berger
 meta: mentions Mekor's support of the People's Climate March
 layout: post
 ---
