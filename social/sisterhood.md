@@ -13,20 +13,13 @@ It’s never too late to get involved! For more information or to become a membe
 
 ###Current Board
 
-- Rebecca Berliner
-- Leah Weiss
-- Alexandra Hochster-Korman
-- Bracha Rosenstein
+Alexandra Hochster-Korman, Bracha Rosenstein, Leah Weiss and Rebecca Berliner
 
-###Holidays and Social Events
-
-The Mekor Sisterhood organizes fundraisers to benefit the synagogue:
-
-- Each year we distribute Rosh Hashana cards to shul members and their loved ones for a sweet New Year.
-- During Purim we prepare and distribute over 100 *mishloach manot* to our congregants and their friends and family.
-
-###Kiddush and Hospitality
-
+###Activities
 - The Sisterhood works hard to ensure that each week our congregation enjoys a delicious hot *kiddush*. 
 - Our hospitality committee is committed to finding hosts for guests, both for meals and Shabbat accommodations, and ensures that community members are taken care of during times of need or transition. We recently expanded our community meal preparation and support for families welcoming new babies, *bikkur cholim*, *shiva* and *shloshim*.
+- The Mekor Sisterhood organizes fundraisers to benefit the synagogue:
+    - Each year we distribute Rosh Hashana cards to shul members and their loved ones for a sweet New Year.
+    - During Purim we prepare and distribute over 100 *mishloach manot* to our congregants and their friends and family.
+
 

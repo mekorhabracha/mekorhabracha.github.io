@@ -17,4 +17,4 @@ Amazon has a program to support non-profits called **Amazon Smile**. It is a sim
 
 Getting started is really easy --- you just need to [click here](http://smile.amazon.com/ch/74-3159417) to make Mekor your preferred charitable organization. Once you have done that, shop at [**smile.amazon.com**](http://smile.amazon.com/ch/74-3159417) and you will find the **exact** same low prices, vast selection and convenient shopping experience of Amazon, with the added bonus that Amazon will donate to mekor a portion of the purchase price (0.5%, or 50 cents per $100).
 
-For your purchase to count as an Amazon Smile transaction it has to be completed through **smile.amazon.com**. Unfortunately, Amazon's mobile app does not qualify: make sure you bookmark Amazon Smile also on your cell phone.
+For your purchase to count as an Amazon Smile transaction it has to be completed through [**smile.amazon.com**](http://smile.amazon.com/ch/74-3159417). Unfortunately, Amazon's mobile app does not qualify: make sure you bookmark Amazon Smile also on your cell phone.

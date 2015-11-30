@@ -5,7 +5,7 @@ area: joinus
 
 #Make a Donation
 
-Your donation is greatly needed and appreciated! Tax-deductible donations to sponsor a kiddush, dedicate a prayer book, Chumash or other religious item, or to support our synagogue are wonderful ways to honor family, friends, or the memory of a departed loved one. 
+Your donation is greatly needed and appreciated! Tax-deductible donations to sponsor a *kiddush*, dedicate a prayer book, *chumash* or other religious item, or to support our synagogue are wonderful ways to honor family, friends, or the memory of a departed loved one. 
 
 You can take a look at our [current dedication opportunities]({{site.url}}/contribute/dedicate.html) or pay a visit to our [wall of dedications]({{site.url}}/about/dedications.html).
 
