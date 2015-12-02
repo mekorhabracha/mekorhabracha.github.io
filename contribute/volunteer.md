@@ -27,7 +27,7 @@ If you want to contribute with meals for the life events meals program or help w
 
 ###Become an Eruv Checker or a Mashgiach
 
-The community is in need of eruv checkers and mashgichim for local food establishments. If you could help for about one hour on a Thursday or Friday every 2–3 months for the eruv, or are available to be a mashgiach please [contact the shul*](mailto:info@mekorhabracha.org).
+The community is in need of eruv checkers and mashgichim for local food establishments. If you could help for about one hour on a Thursday or Friday every 2–3 months for the eruv, or are available to be a mashgiach please [contact the shul](mailto:info@mekorhabracha.org).
 
 ###Center City Mikvah Project
 
