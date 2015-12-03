@@ -7,11 +7,11 @@ area: joinus
 
 ###Kiddush
 
-We are famous for our wonderful kiddush every Shabbat, but it doesn’t happen by itself. Thanks to individual members of our community and especially our [Sisterhood]({{site.url}}/social/sisterhood.html) led by Alex Hochster, we enjoy an amazing kiddush week after week. 
+We are famous for our wonderful kiddush every Shabbat, but it doesn’t happen by itself. Thanks to the [Sisterhood]({{site.url}}/social/sisterhood.html) and community volunteers, we enjoy an amazing kiddush week after week. 
 
-Making kiddush happen is not simple, but it becomes significantly easier when there are helping hands. Please, consider signing up to help once or twice every couple of months. Volunteers are needed to shop, make cholent during the week, and setup and take down kiddush on Shabbat mornings. Your assistance, big or small, makes a significant difference in the shul's ability to provide a meaningful Kiddush for the community.
+Volunteering to set up kiddush is a great way to give back to the community. Please, consider signing up to make cholent before candle lighting or to setup and take down kiddush on Shabbat and Yom Tov.
 
-Please contact [Alex Hochster](mailto:kiddush@mekorhabracha.org) to volunteer.
+Please contact [our kiddush team](mailto:kiddush@mekorhabracha.org) to volunteer.
 
 ###Torah and Haftarah Reading
 
