@@ -19,7 +19,7 @@ For an additional contribution you can add any of the following to the standard 
 - Fruit platter **(small $100, large $150)**
 - Vegetable platter **(small $100, large $150)**
 
-Mekor Habracha members have a $25 cost discount over each of these items.
+[Mekor Habracha members]({{site.url}}/about/become-member.html) have a $25 cost discount over each of these items.
 
 All special requests, including add-ons and cakes, must be made by the Wednesday morning prior to the Shabbat being sponsored.
 
