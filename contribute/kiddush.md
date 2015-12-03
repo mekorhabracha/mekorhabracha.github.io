@@ -9,6 +9,12 @@ Sponsoring kiddush is a great way to honor or remember friends and family, as we
 
 The cost of a standard kiddush is $150 for Mekor members and $200 for non-members. This typically includes cholent, sweet and savory snacks, and drinks. By request, this may also include a celebratory cake.
 
+All special requests, including add-ons and cakes, must be made by the Wednesday morning prior to the Shabbat being sponsored.
+
+Please be aware that we deliberately keep kiddush costs low to make sponsorship accessible to the whole community. We welcome multiple sponsorships on any given Shabbat or Yom Tov.
+
+We will be happy to accommodate any special requests --- just [let us know](mailto:kiddush@mekorhabracha.org) and we will inform you of the availability and cost.
+
 ###Add-ons
 
 For an additional contribution you can add any of the following to the standard kiddush:
@@ -20,12 +26,6 @@ For an additional contribution you can add any of the following to the standard 
 - Vegetable platter **(small $100, large $150)**
 
 [Mekor Habracha members]({{site.url}}/about/become-member.html) have a $25 cost discount over each of these items.
-
-All special requests, including add-ons and cakes, must be made by the Wednesday morning prior to the Shabbat being sponsored.
-
-Please be aware that we deliberately keep kiddush costs low to make sponsorship accessible to the whole community. We welcome multiple sponsorships on any given Shabbat or Yom Tov.
-
-We will be happy to accommodate any other special requests --- just [let us know](mailto:kiddush@mekorhabracha.org) and we will inform you of the availability and cost.
 
 ###Seudah shlishit
 
