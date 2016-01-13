@@ -27,6 +27,6 @@ For an additional contribution you can add any of the following to the standard 
 
 [Mekor Habracha members]({{site.url}}/about/become-member.html) have a $25 cost discount over each of these items.
 
-###Seudah shlishit
+###Third Meal
 
 Third Meal sponsorship is $50 for Mekor members and $75 for non-members.
