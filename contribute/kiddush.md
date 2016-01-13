@@ -5,7 +5,7 @@ area: joinus
 
 #Sponsor Kiddush
 
-Sponsoring kiddush is a great way to honor or remember friends and family, as well as to commemorate life cycle events.
+Sponsoring kiddush is a wonderful way to honor or remember friends and family, as well as to commemorate life cycle events.
 
 The cost of a standard kiddush is $150 for Mekor members and $200 for non-members. This typically includes cholent, sweet and savory snacks, and drinks. By request, this may also include a celebratory cake.
 
@@ -27,6 +27,6 @@ For an additional contribution you can add any of the following to the standard 
 
 [Mekor Habracha members]({{site.url}}/about/become-member.html) have a $25 cost discount over each of these items.
 
-###Seudah shlishit
+###Third Meal
 
 Third Meal sponsorship is $50 for Mekor members and $75 for non-members.
