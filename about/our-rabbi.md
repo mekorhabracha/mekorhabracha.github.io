@@ -15,4 +15,4 @@ In addition to leading Congregation Mekor Habracha, Rabbi Hirsch serves as Dean 
 
 Since he and his wife Miriam arrived in Philadelphia, the congregation has experienced exponential growth, and has significantly contributed to the flourishing Center City Jewish community, which now boasts an array of Jewish services, including [a fully functioning eruv](http://www.centercityeruv.org), a daily morning minyan in the Rittenhouse neighborhood, and [an assortment of kosher establishments](eat-out.html).
 
-Rabbi Hirsch still enjoys playing and writing music when he can find the time. He plays keyboard for Mekor's own band, *Moments of Wrong*.
+Rabbi Hirsch still enjoys playing piano and writing music when he can find the time. He plays keyboard for Mekor's own band, *Moments of Wrong*.
