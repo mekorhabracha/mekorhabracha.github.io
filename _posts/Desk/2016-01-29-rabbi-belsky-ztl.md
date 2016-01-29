@@ -48,36 +48,36 @@ section:    rabbisdesk
 #   If applicable, copy here the link to the external article that the post
 #   refers to.
 
-link:       ""
+link:       
 
 # AUTHOR
 #   inthenews: Author of the piece, between quotation marks.
 #   bulletinboard or rabbisdesk: Leave blank.
 
-author:     ""
+author:     
 
 # MEDIA
 #   inthenews or rabbisdesk: The medium where the article was cross-posted 
 #       or posted originally. Example: "Kveller" or "Jewish Exponent".
 #   bulletinboard: Leave blank.
 
-media:      ""
+media:      
 
 # META
 #   inthenews: Explain why a piece is important. Example: 'article by 
 #       Sharrona Pearl, member of Mekor Habracha'.
 #   bulletinboard or rabbisdesk: Leave blank.
 
-meta:       ""
+meta:       
 
 # EXPIRES_ON
-#   bulletinboard: After this date (format: YYYY-MM-DD) the announcement 
+#   All sections: After this date (format: YYYY-MM-DD) the announcement 
 #       will not be shown. Example: December 1 2010 is "2010-12-01".
 #       Note: If no date is specified, bulletin board posts will expire
-#       after 30 days.
-#   inthenews or rabbisdesk: Leave blank.
+#       after 30 days. Same for Rabbi's Desk and In the News items that
+#       that are brought to the front page.
 
-expires_on: ""
+expires_on: 
 
 # FRONTPAGE
 #   bulletinboard: Set to true if the announcement should appear in the front, main page
