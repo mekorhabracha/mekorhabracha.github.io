@@ -8,6 +8,13 @@ body {
   margin-bottom: 100px;
 }
 
+li.nav-pill {
+  border-color: #ccc;
+  border-radius: 5px;
+  border-width: 1px;
+  border-style: solid;
+}
+
 .footer {
   position: absolute;
   bottom: 0;
