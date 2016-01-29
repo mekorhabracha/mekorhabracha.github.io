@@ -58,55 +58,53 @@
               </div> <!-- container -->
             </div> <!-- panel-body -->
           </div> <!-- panel -->
-        <div> <!-- col -->
-
-  <!-- Nav tabs -->
-  <ul class="nav nav-pills nav-justified" role="tablist">
-  </ul>
-<br/>
-  <!-- Tab panes -->
-  <div class="tab-content">
-    <div role="tabpanel" class="tab-pane fade in active" id="today">
-      <div class="panel panel-default">
-        <div class="panel-body">
-          <table class="table">
-            <tbody>
-              <tr><div id="minicalendar1"></div></tr>
-              <tr><div id="minicalendar2"></div></tr>
-            </tbody>
-          </table>
-        </div>
-      </div>
-    </div>
-    <!-- <div role="tabpanel" class="tab-pane fade" id="shabbat">
-      <div class="panel panel-default">
-        <div class="panel-body">
-          <p>ABC</p>
-        </div>
-      </div>
-    </div> -->
-    <div role="tabpanel" class="tab-pane fade" id="announcements">
-      <div class="panel panel-default">
-        <div class="panel-body">
-          <div class="container-fluid">
-            {% capture nowdate %}{{'now' | date: '%s' }}{% endcapture %}
-            {% for post in site.posts %}{% if post.frontpage == true %}
-            {% capture postuntil %}{{ post.until | date: '%s' }}{% endcapture %}
-            {% if nowdate <= postuntil %}
-            <div class="row">
-              <a href="{{ post.url }}">{{post.title}}</a> ({{ post.date | date: '%b %-d %Y' }})
-            </div> <!-- row -->
-            {% endif %}{% endif %}{% endfor %}
-          </div> <!-- container -->
-        </div> <!-- panel-body -->
-      </div> <!-- panel -->
-    </div> <!-- tabpanel -->
-  </div> <!-- tab-content -->
-
-</div>
-                <li role="presentation" class="active nav-pill"><a href="#today" aria-controls="today" role="tab" data-toggle="pill">Next</a></li>
-                <!-- <li role="presentation"><a href="#shabbat" aria-controls="shabbat" role="tab" data-toggle="pill">Shabbat</a></li> -->
-                <li role="presentation" class="nav-pill"><a href="#announcements" aria-controls="announcements" role="tab" data-toggle="pill">Announcements</a></li>
+          <div> <!-- col -->
+            <!-- Nav tabs -->
+            <ul class="nav nav-pills nav-justified" role="tablist">
+              <li role="presentation" class="active nav-pill"><a href="#today" aria-controls="today" role="tab" data-toggle="pill">Next</a></li>
+              <!-- <li role="presentation"><a href="#shabbat" aria-controls="shabbat" role="tab" data-toggle="pill">Shabbat</a></li> -->
+              <li role="presentation" class="nav-pill"><a href="#announcements" aria-controls="announcements" role="tab" data-toggle="pill">Announcements</a></li>
+            </ul>
+          <br/>
+            <!-- Tab panes -->
+            <div class="tab-content">
+              <div role="tabpanel" class="tab-pane fade in active" id="today">
+                <div class="panel panel-default">
+                  <div class="panel-body">
+                    <table class="table">
+                      <tbody>
+                        <tr><div id="minicalendar1"></div></tr>
+                        <tr><div id="minicalendar2"></div></tr>
+                      </tbody>
+                    </table>
+                  </div>
+                </div>
+              </div>
+              <!-- <div role="tabpanel" class="tab-pane fade" id="shabbat">
+                <div class="panel panel-default">
+                  <div class="panel-body">
+                    <p>ABC</p>
+                  </div>
+                </div>
+              </div> -->
+              <div role="tabpanel" class="tab-pane fade" id="announcements">
+                <div class="panel panel-default">
+                  <div class="panel-body">
+                    <div class="container-fluid">
+                      {% capture nowdate %}{{'now' | date: '%s' }}{% endcapture %}
+                      {% for post in site.posts %}{% if post.frontpage == true %}
+                      {% capture postuntil %}{{ post.until | date: '%s' }}{% endcapture %}
+                      {% if nowdate <= postuntil %}
+                      <div class="row">
+                        <a href="{{ post.url }}">{{post.title}}</a> ({{ post.date | date: '%b %-d %Y' }})
+                      </div> <!-- row -->
+                      {% endif %}{% endif %}{% endfor %}
+                    </div> <!-- container -->
+                  </div> <!-- panel-body -->
+                </div> <!-- panel -->
+              </div> <!-- tabpanel -->
+            </div> <!-- tab-content -->
+          </div>
         </div> <!-- col -->
 
         <div class="col-lg-3 col-xl-2">
