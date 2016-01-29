@@ -29,7 +29,7 @@ right:
 # The icons refer to the names of the icon fonts from Font Awesome (http://fontawesome.io/icons/).
 # For instance, their bookmark icon (http://fontawesome.io/icon/bookmark/) is called "fa-bookmark".
 # If we wanted to use any icon, we need to write the name of the icon minus the "fa-" prefix.
-# Following the example above, if we want to use the bookmar icon we would use "icon: bookmark".
+# Following the example above, if we want to use the bookmark icon we would use "icon: bookmark".
 
 icons:
   topleft:
