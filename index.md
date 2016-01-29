@@ -10,7 +10,7 @@ left:
   text: >
     Mekor Habracha is a vibrant, inclusive congregation located in Center City, Philadelphia. We have a diverse membership from all across the city. Jews of all ages and religious backgrounds are always welcome to participate in Mekor’s activities and Orthodox services.
   button: >
-    More
+    Read more...
   link: >
     about/our-community.html
 
@@ -22,7 +22,7 @@ right:
   text: >
     Rabbi Eliezer Hirsch has led the remarkable growth of our community since its inception. In his sermons and classes, he connects the lessons of the Torah portion and Jewish holidays with insights for everyday life, emphasizing the Torah’s eternal relevance for Jews of all backgrounds.
   button: >
-    More
+    Read more...
   link: >
     about/our-rabbi.html
 
