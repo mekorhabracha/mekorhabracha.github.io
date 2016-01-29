@@ -24,6 +24,7 @@
         </div> <!-- col -->
     
         <div class="col-lg-4 col-xl-4">
+          <a href="{{page.alert.link}}"><div class="alert alert-{{ page.alert.type }}" role="alert">{{ page.alert.text }}</div></a>
           <div class="panel panel-default">
             <div class="panel-body">
               <div class="container-fluid">
@@ -93,7 +94,8 @@
                     <div class="container-fluid">
                       {% capture nowdate %}{{'now' | date: '%s' }}{% endcapture %}
                       {% for post in site.posts %}{% if post.frontpage == true %}
-                      {% capture postuntil %}{{ post.until | date: '%s' }}{% endcapture %}
+                      {% if post.until != nil %}{% capture postuntil %}{{ post.until | date: '%s' }}{% endcapture %}
+                      {% else %}{% capture postuntil %}{{ post.date | date: '%s' | plus: 2592000 }}{% endcapture %}{% endif %}
                       {% if nowdate <= postuntil %}
                       <div class="row">
                         <a href="{{ post.url }}">{{post.title}}</a> ({{ post.date | date: '%b %-d %Y' }})
