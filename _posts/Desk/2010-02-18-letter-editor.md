@@ -10,7 +10,7 @@ frontpage: false
 layout: post
 ---
 
-This is a letter to the editor that I wrote in response to Rela Mintz Geffen's [article]({% post_url /News/2010-01-21-singles %}) in the Jewish Exponent:
+This is a letter to the editor that I wrote in response to Rela Mintz Geffen's [article]({% post_url 2010-01-21-singles %}) in the Jewish Exponent:
 
 > ###Here's One Way to Get Young Jews Involved
 >Thank you, Rela Mintz Geffen, for recognizing Mekor Habracha synagogue as one of "the pockets of success" in energizing the young-adult Jewish community in Center City (Opinions: "Focusing on Kids Makes Sense, but What About Singles?" Jan. 21).
