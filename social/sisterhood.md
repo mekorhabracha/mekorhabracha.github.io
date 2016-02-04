@@ -1,9 +1,8 @@
 ---
+title: Sisterhood
 layout: default
 area: programs
 ---
-
-# Sisterhood
 
 The Mekor Habracha Sisterhood is the organization of women of the congregation who come together for programs that benefit the shul and the community, for social activities, for study, and above all, for the growth of each individual so that each may find an opportunity to fulfill her potential as a person and as a Jewish woman. The Sisterhood's goals are to strengthen the community, offer support during transitional times, enhance the personal growth of women and broadly support the Mekor Habracha community.
 

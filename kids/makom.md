@@ -1,9 +1,8 @@
 ---
+title: Makom Community
 layout: default
-area: programs
+area: learning
 ---
-
-# Makom Community
 
 Mekor Habracha welcomes Makom Community back for its first complete year at the shul! 
 

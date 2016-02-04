@@ -1,9 +1,8 @@
 ---
+title: Our Community
 layout: default
 area: community
 ---
-
-# Our Community
 
 ### Who We Are
 

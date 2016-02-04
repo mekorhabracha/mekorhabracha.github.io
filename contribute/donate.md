@@ -1,9 +1,8 @@
 ---
+title: Make a Donation
 layout: default
-area: joinus
+area: contribute
 ---
-
-# Make a Donation
 
 Your donation is greatly needed and appreciated! Tax-deductible donations to sponsor a kiddush, dedicate a prayer book, chumash or other religious item, or to support our synagogue are wonderful ways to honor family, friends, or the memory of a departed loved one. 
 

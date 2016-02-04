@@ -1,9 +1,8 @@
 ---
+title: Find Us Here
 layout: default
-area: connect
+area: community
 ---
-
-# Find Us Here
 
 <address>
   <strong>Mekor Habracha</strong><br>

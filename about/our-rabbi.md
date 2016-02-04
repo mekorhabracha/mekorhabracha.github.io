@@ -1,9 +1,8 @@
 ---
+title: Our Rabbi
 layout: default
 area: community
 ---
-
-# Our Rabbi
 
 [Rabbi Eliezer Hirsch](mailto:RabbiEHirsch@gmail.com) is Mekor Habracha's founding rabbi. Rabbi Hirsch received rabbinical ordination from Ner Israel Rabbinical College in Baltimore, Maryland and Yeshiva Ohr Reuven in Suffern, NY. He earned a Dual Bachelor's Degree in Talmudic Law and Accounting, and a Master's Degree in Talmudic Law from Ner Israel. He also completed post graduate studies in Advanced Rabbinics and Synagogue Management at Touro College and holds Torah U'mesorah teacher certification.
 

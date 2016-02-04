@@ -1,9 +1,8 @@
 ---
+title: Volunteer at Mekor
 layout: default
-area: joinus
+area: contribute
 ---
-
-# Volunteer at Mekor
 
 ### Kiddush
 

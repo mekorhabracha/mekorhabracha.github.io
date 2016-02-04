@@ -1,9 +1,8 @@
 ---
+title: Sponsor Kiddush
 layout: default
-area: joinus
+area: contribute
 ---
-
-# Sponsor Kiddush
 
 Sponsoring kiddush is a wonderful way to honor or remember friends and family, as well as to commemorate life cycle events.
 

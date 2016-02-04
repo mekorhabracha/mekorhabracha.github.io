@@ -1,9 +1,8 @@
 ---
+title: Email Signup
 layout: default
-area: contact
+area: community
 ---
-
-# Email Signup
 
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-081711.css" rel="stylesheet" type="text/css">

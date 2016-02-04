@@ -1,10 +1,8 @@
 ---
 title: Our Leadership
-layout: defaultwide
+layout: default
 area: community
 ---
-
-# Our Leadership
 
 #### Yoella Epstein, Esq.
 A litigation associate at Blank Rome LLP, she was born and raised in the Philadelphia area. After graduating from University of Southern California, Gould School of Law, she moved to Center City in 2008 with her husband, Jeremy Kriger. Yoella and Jeremy are the proud parents of three girls: Neli, Neima and Adel. 

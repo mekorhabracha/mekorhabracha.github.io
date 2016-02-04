@@ -1,9 +1,8 @@
 ---
+title: Shop with Mekor
 layout: default
-area: joinus
+area: contribute
 ---
-
-# Shop with Mekor
 
 ### Supermarket Gift Cards
 

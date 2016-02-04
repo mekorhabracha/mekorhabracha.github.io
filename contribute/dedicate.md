@@ -1,9 +1,8 @@
 ---
+title: Dedication Opportunities
 layout: default
-area: joinus
+area: contribute
 ---
-
-# Dedication Opportunities
 
 ### Memorial Board
 

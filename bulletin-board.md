@@ -1,6 +1,6 @@
 ---
 layout: listofposts
-title: "Bulletin Board"
-area: programs
+title: Bulletin Board
+area: learning
 section: bulletinboard
 ---

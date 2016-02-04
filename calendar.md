@@ -1,9 +1,8 @@
 ---
+title: Calendar
 layout: defaultwide
-area: calendar
+area: learning
 ---
-
-<h1>Calendar</h1>
 
 <div id="calendar"></div>
 

@@ -1,9 +1,8 @@
 ---
-layout: defaultwide
-area: calendar
+title: Newsletter Archive
+layout: default
+area: community
 ---
-
-# Newsletter Archive
 
 <style type="text/css">
 .display_archive {font-family: alef,arial,verdana; font-size: 14px;}
