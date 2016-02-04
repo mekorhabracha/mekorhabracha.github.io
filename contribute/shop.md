@@ -3,15 +3,15 @@ layout: default
 area: joinus
 ---
 
-#Shop with Mekor
+# Shop with Mekor
 
-###Supermarket Gift Cards
+### Supermarket Gift Cards
 
 Mekor Habracha is selling ShopRite, Superfresh and Acme gift cards, available in $50 or $100 increments. When you buy gift cards, the supermarket donates 5% back to Mekor Habracha. The gift cards have no expiration date and can be used at any store of the corresponding supermarket brand. 
 
 Please contact [Rhona Gerber](mailto:rhona.gerber@verizon.net) for more information.
 
-###Amazon Smile
+### Amazon Smile
 
 Amazon has a program to support non-profits called **Amazon Smile**. It is a simple and automatic way for you to support Mekor Habracha, every time you shop at Amazon, at no cost to you. 
 

@@ -3,7 +3,7 @@ layout: default
 area: programs
 ---
 
-#Makom Community
+# Makom Community
 
 Mekor Habracha welcomes Makom Community back for its first complete year at the shul! 
 

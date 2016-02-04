@@ -3,7 +3,7 @@ layout: default
 area: joinus
 ---
 
-#Sponsor Kiddush
+# Sponsor Kiddush
 
 Sponsoring kiddush is a wonderful way to honor or remember friends and family, as well as to commemorate life cycle events.
 
@@ -15,7 +15,7 @@ Please be aware that we deliberately keep kiddush costs low to make sponsorship 
 
 We will be happy to accommodate any special requests --- just [let us know](mailto:kiddush@mekorhabracha.org) and we will inform you of the availability and cost.
 
-###Add-ons
+### Add-ons
 
 For an additional contribution you can add any of the following to the standard kiddush:
 
@@ -27,6 +27,6 @@ For an additional contribution you can add any of the following to the standard 
 
 [Mekor Habracha members]({{site.url}}/about/become-member.html) have a $25 cost discount over each of these items.
 
-###Third Meal
+### Third Meal
 
 Third Meal sponsorship is $50 for Mekor members and $75 for non-members.
