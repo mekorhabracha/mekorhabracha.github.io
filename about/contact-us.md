@@ -3,7 +3,7 @@ layout: default
 area: connect
 ---
 
-#Find Us Here
+# Find Us Here
 
 <address>
   <strong>Mekor Habracha</strong><br>

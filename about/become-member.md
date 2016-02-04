@@ -3,7 +3,7 @@ layout: default
 area: joinus
 ---
 
-#Become a Member
+# Become a Member
 
 Become a member today and benefit from being part of an enthusiastic and social community, with the opportunity to get involved in services, shul events and programs.
 
