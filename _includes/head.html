@@ -17,10 +17,10 @@
     <link rel="stylesheet" href="{{ site.baseurl }}/css/mekor.css">
     <link rel="stylesheet" href="{{ site.baseurl }}/css/hebcal-styles.css" >
     <link rel="stylesheet" href="{{ site.baseurl }}/css/bootstrapXL.css" >
-    {% if include.area == "calendar" or include.area == "home" %}
-    <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/fullcalendar/2.2.6/fullcalendar.min.css">
+    {% if page.title == "Calendar" or include.area == "home" %}
+    <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/fullcalendar/2.6.0/fullcalendar.min.css">
     {% endif %}
-    <script type='text/javascript' src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+    <script type='text/javascript' src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
     
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
