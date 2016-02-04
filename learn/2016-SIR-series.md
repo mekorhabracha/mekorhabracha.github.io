@@ -15,11 +15,11 @@ Rabbi Dr. Gil Perl is the Head of School at the Kohelet Yeshiva High School in M
 
 - Erev Shabbat, February 19: **“Toward a Passionate Modern Orthodoxy”**
 
-  Program starts at 5:30 pm, followed by class with delicious Shabbat dinner and oneg at 7:00 pm
+  Carlebach Kabbalat Shabbat Services start at 5:30 pm, followed by class with delicious Shabbat dinner and oneg at 7:00 pm.
 
 - Shabbat morning, February 20: **“Morality and the Mitzvot: When Ethics and Torah Collide”**
 
-  Shabbat Shacharit services start at 9:15 am, D’var Torah at 10:45 am, followed by a hot Kiddush, Mincha, and class with delicious Shabbat lunch at 1 pm
+  Shabbat Shacharit services start at 9:15 am, D’var Torah at 10:45 am, followed by a hot Kiddush, Mincha, and class with delicious Shabbat lunch at 1 pm.
 
 ##Dr. Michelle Levine <small>April 8--9</small>
 
@@ -28,11 +28,11 @@ of *Nahamanides on Genesis: The Art of Biblical Portraiture* (Brown University P
 
 - Erev Shabbat, April 8: **“From Darkness to Light, from Slavery to Redemption”**
 
-  Program starts at 7 pm, followed by class with delicious Shabbat dinner and oneg at 8:15 pm
+  Carlebach Kabbalat Shabbat Services start at 7 pm, followed by class with delicious Shabbat dinner and oneg at 8:15 pm.
 
 - Shabbat morning, April 9: **“Devorah in the Book of Judges: A Woman Ahead of Her Times”**
 
-  Shabbat Shacharit services start at 9:15 am, D’var Torah at 10:45 am, followed by a hot Kiddush, Mincha, and class with delicious Shabbat lunch at 12:30 pm
+  Shabbat Shacharit services start at 9:15 am, D’var Torah at 10:45 am, followed by a hot Kiddush, Mincha, and class with delicious Shabbat lunch at 12:30 pm.
 
 
 ##Rabbi Saul J. Berman <small>May 20--21</small>
@@ -41,11 +41,11 @@ Rabbi Saul J. Berman is Associate Professor of Jewish Studies at Stern College f
 
 - Erev Shabbat, May 20: **“Ethical Transformation through Shabbat”**
  
-  Program starts at 7 pm, followed by class with delicious Shabbat dinner and oneg at 8:15 pm
+  Carlebach Kabbalat Shabbat Services start at 7 pm, followed by class with delicious Shabbat dinner and oneg at 8:15 pm.
 
 - Shabbat morning, May 21: **“Deception in Business and Interpersonal Ethics (*Genevat Daat*)”**
 
-  Shabbat Shacharit services start at 9:15 am, D’var Torah at 10:45 am, followed by a hot Kiddush, Mincha, and class with delicious Shabbat lunch at 12:30 pm
+  Shabbat Shacharit services start at 9:15 am, D’var Torah at 10:45 am, followed by a hot Kiddush, Mincha, and class with delicious Shabbat lunch at 12:30 pm.
 
 ##How to Attend
 
