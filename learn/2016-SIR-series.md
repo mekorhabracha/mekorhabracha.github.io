@@ -7,7 +7,7 @@ area: programs
 
 Mekor Habracha is thrilled to announce three special Scholar-In-Residence Shabbatons which will take place at the shul. Thanks to the sponsorship of the [Kohelet Foundation](http://www.koheletfoundation.org/), in each of three separate Shabbatot in February, April and May, we will host an engaging, world renowned Modern Orthodox Jewish leader who will teach about exciting, relevant Jewish topics over the course of Shabbat. 
 
-You can download the brochure of the program [here]({{site.url}}/pdf/MekorHabracha2015SIR.pdf).
+You can download the brochure of the program [here]({{site.url}}/pdf/MekorHabracha2016SIR.pdf).
 
 ## Rabbi Dr. Gil Perl <small>February 19--20</small>
 
