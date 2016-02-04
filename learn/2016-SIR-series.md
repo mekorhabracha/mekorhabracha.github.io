@@ -32,7 +32,7 @@ of *Nahamanides on Genesis: The Art of Biblical Portraiture* (Brown University P
 
 - Shabbat morning, April 9: **“Devorah in the Book of Judges: A Woman Ahead of Her Times”**
 
-  Shabbat Shacharit services start at 9:15 am, D’var Torah at 10:45 am, followed by a hot Kiddush, Mincha, and class with delicious Shabbat lunch at 12:30 pm.
+  Shabbat Shacharit services start at 9:15 am, D’var Torah at 10:45 am, followed by a hot Kiddush and class with delicious Shabbat lunch at 12:30 pm.
 
 
 ##Rabbi Saul J. Berman <small>May 20--21</small>
@@ -45,7 +45,7 @@ Rabbi Saul J. Berman is Associate Professor of Jewish Studies at Stern College f
 
 - Shabbat morning, May 21: **“Deception in Business and Interpersonal Ethics (*Genevat Daat*)”**
 
-  Shabbat Shacharit services start at 9:15 am, D’var Torah at 10:45 am, followed by a hot Kiddush, Mincha, and class with delicious Shabbat lunch at 12:30 pm.
+  Shabbat Shacharit services start at 9:15 am, D’var Torah at 10:45 am, followed by a hot Kiddush and class with delicious Shabbat lunch at 12:30 pm.
 
 ##How to Attend
 
