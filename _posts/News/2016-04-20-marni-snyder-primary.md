@@ -106,7 +106,7 @@ layout:     post
 > 
 >Here’s some background on Snyder and Waxman.
 > 
->Ben Waxman
+>#### Ben Waxman
 >
 >While Waxman is only 31, he is motivated and ambitious.
 > 
@@ -143,7 +143,7 @@ resources in the classrooms and can succeed.”
 > 
 >“The idea that it’s easier to get a degree in prison really shook me,” Waxman said. “I’m so frustrated with what’s happened to the Philadelphia school district. A lot of people are.”
 > 
->Marni Snyder
+>#### Marni Snyder
 > 
 >Snyder, 34, practices criminal defense and special education law at her own firm, the Law Offices of M. J. Snyder, LLC in Center City. A native of Overbook Park, Snyder has resided in Center City for the past decade. 
 > 
