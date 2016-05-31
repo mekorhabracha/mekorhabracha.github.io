@@ -4,7 +4,7 @@ area: home
 
 left:
   image: >
-    img/huddle.jpg
+    img/get1.jpg
   title: >
     Our community
   text: >
