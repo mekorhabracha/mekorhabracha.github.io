@@ -12,7 +12,7 @@ layout: post
 
 I just got back from Rebbetzin Weinberg’s funeral in Baltimore. She was my mentor and “Bubby” (and wife of my beloved Rebbe, HaRav Ya’akov Weinberg zt’l). The article below was written by someone else. I hope to post my own memories about her soon.
 
->###A Tribute: Rebbetzin Chana Weinberg a”h
+>### A Tribute: Rebbetzin Chana Weinberg a”h
 >Wednesday January 25, 2012
 >
 >By Margie Pensak

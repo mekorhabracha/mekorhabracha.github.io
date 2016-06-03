@@ -19,7 +19,7 @@ The following article, [published in the Jewish Exponent](http://www.jewishexpon
 >
 >The event, aptly titled Lag B’Omer Bonfire and Music Fest, was thrown by The Jewish Center of Northern Liberties, a Chabad affiliate, and has been running annually since at least 2007.
 >
->There was a drum circle, a couple of bands played — alternatively mixing in Jewish songs with tunes by Led Zepplin and Tom Petty — and lots of barbeque and cotton candy.
+>There was a drum circle, a couple of bands played — alternatively mixing in Jewish songs with tunes by Led Zeppelin and Tom Petty — and lots of barbeque and cotton candy.
 >
 >**When the Mekor Habracha Band, so named because the band members all attend the Orthodox Center City synagogue, closed out the evening, they dedicated a song to Rabbi Shimon bar Yohai, whose death anniversary is marked on the holiday.**
 >

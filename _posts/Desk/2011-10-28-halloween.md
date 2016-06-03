@@ -29,4 +29,3 @@ I wrote [an article in examiner.com](http://www.examiner.com/article/jews-do-cel
 >Sukkot, the festival of death, is the culmination of a month, Tishrei, which provides each of us with distinctness in a transient world created solely for the purpose of providing individual significance.
 >
 >As we approach the cold winter months, the harvest festival of Sukkot reveals that, to appreciate life, we should not fear death but savor the opportunity only a world that will eventually die can offer us. Carry this lesson with you, and you will relish life, and find true happiness always.
-

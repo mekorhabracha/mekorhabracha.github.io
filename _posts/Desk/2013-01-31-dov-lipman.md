@@ -50,11 +50,11 @@ I would like to share with you [an article](http://www.jns.org/latest-articles/2
 >
 >“I wanted to know where he stood on religion, on God, and on the Land of Israel,” he said. “And I saw that we would be able to work together.”
 >
->Lipman is one of two rabbis on the Yesh Atid parliamentary list. Lapid is the son of the staunchly secular Tommy Lapid—also a television celebrity—who guided the anti-religious Shinui party from zero to 15 mandates in 2003. 
+>Lipman is one of two rabbis on the Yesh Atid parliamentary list. Lapid is the son of the staunchly secular Tommy Lapid—also a television celebrity—who guided the anti-religious Shinui party from zero to 15 mandates in 2003.
 >
 >Three years later, the Shinui party failed to cross the Knesset threshold. The elder Lapid passed away in 2008, and his son Yair shares many of his father’s principles.
 >
->While the Yesh Atid party seeks to be much more inclusive of all societal elements than the Shinui party, the challenge is whether the younger Lapid can have sustained parliamentary success unlike his father. 
+>While the Yesh Atid party seeks to be much more inclusive of all societal elements than the Shinui party, the challenge is whether the younger Lapid can have sustained parliamentary success unlike his father.
 >
 >Incoming Knesset members like Lipman hope to help Lapid bridge social divides, and to ultimately strengthen Israeli society.
 >
