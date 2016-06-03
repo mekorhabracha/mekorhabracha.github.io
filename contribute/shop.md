@@ -1,6 +1,6 @@
 ---
 title: Shop with Mekor
-layout: default
+layout: page
 area: contribute
 ---
 

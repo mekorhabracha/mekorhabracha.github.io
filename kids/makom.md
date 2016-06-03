@@ -1,6 +1,6 @@
 ---
 title: Makom Community
-layout: default
+layout: page
 area: learning
 ---
 

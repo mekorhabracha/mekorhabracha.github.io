@@ -1,6 +1,6 @@
 ---
 title: Email Signup
-layout: default
+layout: page
 area: community
 ---
 

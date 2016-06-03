@@ -1,6 +1,6 @@
 ---
 title: Find Us Here
-layout: default
+layout: page
 area: community
 ---
 

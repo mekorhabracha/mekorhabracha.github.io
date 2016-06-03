@@ -1,6 +1,6 @@
 ---
 title: Sisterhood
-layout: default
+layout: page
 area: programs
 ---
 

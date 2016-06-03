@@ -1,6 +1,6 @@
 ---
 title: Become a Member
-layout: default
+layout: page
 area: community
 ---
 

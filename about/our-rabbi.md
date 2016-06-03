@@ -1,6 +1,6 @@
 ---
 title: Our Rabbi
-layout: default
+layout: page
 area: community
 ---
 

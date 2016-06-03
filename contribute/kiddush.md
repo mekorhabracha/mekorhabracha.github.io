@@ -1,6 +1,6 @@
 ---
 title: Sponsor Kiddush
-layout: default
+layout: page
 area: contribute
 ---
 

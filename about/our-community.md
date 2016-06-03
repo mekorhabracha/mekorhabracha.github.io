@@ -1,6 +1,6 @@
 ---
 title: Our Community
-layout: default
+layout: page
 area: community
 ---
 

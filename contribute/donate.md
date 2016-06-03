@@ -1,6 +1,6 @@
 ---
 title: Make a Donation
-layout: default
+layout: page
 area: contribute
 ---
 

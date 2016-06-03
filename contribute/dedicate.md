@@ -1,6 +1,6 @@
 ---
 title: Dedication Opportunities
-layout: default
+layout: page
 area: contribute
 ---
 

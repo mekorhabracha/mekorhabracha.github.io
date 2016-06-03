@@ -1,6 +1,6 @@
 ---
 title: Volunteer at Mekor
-layout: default
+layout: page
 area: contribute
 ---
 

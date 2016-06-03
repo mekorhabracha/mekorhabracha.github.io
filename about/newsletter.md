@@ -1,6 +1,6 @@
 ---
 title: Newsletter Archive
-layout: default
+layout: page
 area: community
 ---
 

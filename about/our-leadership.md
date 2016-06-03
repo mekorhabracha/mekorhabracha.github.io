@@ -1,6 +1,6 @@
 ---
 title: Our Leadership
-layout: default
+layout: page
 area: community
 ---
 
