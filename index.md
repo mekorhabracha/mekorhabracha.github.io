@@ -58,10 +58,10 @@ icons:
     link: contribute/donate.html
     
 alert:
-  text: Learn more about Mekor Habracha's 2016 Scholar-In-Residence Shabbaton Series!
+  text: ""
   #type: success   # Green
   #type: info      # Blue
   type: warning   # Yellow
   #type: danger    # Red
-  link: learn/2016-SIR-series.html
+  link: ""
 ---

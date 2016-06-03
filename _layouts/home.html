@@ -24,7 +24,7 @@
         </div> <!-- col -->
     
         <div class="col-lg-4 col-xl-4">
-          <a href="{{page.alert.link}}"><div class="alert alert-{{ page.alert.type }}" role="alert">{{ page.alert.text }}</div></a>
+          {% if page.alert.text != "" %}<a href="{{page.alert.link}}"><div class="alert alert-{{ page.alert.type }}" role="alert">{{ page.alert.text }}</div></a>{% endif %}
           <div class="panel panel-default">
             <div class="panel-body">
               <div class="container-fluid">
