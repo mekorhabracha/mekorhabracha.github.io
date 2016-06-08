@@ -16,7 +16,7 @@ Please contact [our kiddush team](mailto:kiddush@mekorhabracha.org) to volunteer
 
 In order to provide the community with quality Torah and haftarah reading, we need capable people from the community to provide this invaluable service. If you know how to read Torah or haftarah, and would like to volunteer to lain, please [send us an email](mailto:laining@mekorhabracha.org) for more information. We would love to hear some new voices! 
 
-If you are a little rusty or do not know how to read Torah and would like to learn, please [reach out to Jonathan Newcombe](mailto:jfnewcombe@gmail.com).
+If you are a little rusty or do not know how to read Torah and would like to learn, please [reach out](mailto:laining@mekorhabracha.org).
 
 ### Life Events Meals Program and Shabbat Hospitality
 
