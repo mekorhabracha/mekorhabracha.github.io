@@ -1,11 +1,12 @@
 ---
-title: 'Regarding the crisis in Israel'
+title: Regarding the crisis in Israel
+date: 2014-07-10 00:00:00 Z
 section: rabbisdesk
-link:
+link: 
 author: Rabbi Eliezer Hirsch
-media:
-meta:
-expires_on:
+media: 
+meta: 
+expires_on: 
 frontpage: false
 layout: post
 ---

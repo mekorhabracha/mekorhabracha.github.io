@@ -1,8 +1,9 @@
 ---
 title: Ring in 5773
+date: 2012-08-30 00:00:00 Z
 media: Press Release
 section: inthenews
-link:
+link: 
 author: Joshua Brett
 meta: announces Mekor's 2012 High Holidays celebration
 layout: post

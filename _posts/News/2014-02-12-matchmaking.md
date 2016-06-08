@@ -1,5 +1,6 @@
 ---
 title: Graduate-Level Matchmaking
+date: 2014-02-12 00:00:00 Z
 media: Jewish Exponent
 section: inthenews
 link: http://jewishexponent.com/graduate-level-matchmaking

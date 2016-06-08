@@ -1,7 +1,8 @@
 ---
 title: Kippah found
+date: 2015-10-05 00:00:00 Z
 section: bulletinboard
-until: 2015-11-05
+until: 2015-11-05 00:00:00 Z
 frontpage: true
 layout: post
 media: Announcement

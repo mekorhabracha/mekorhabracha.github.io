@@ -1,5 +1,6 @@
 ---
-title: "Speaking Their Minds: Rabbis Address Israel at the High Holidays"
+title: 'Speaking Their Minds: Rabbis Address Israel at the High Holidays'
+date: 2014-10-02 00:00:00 Z
 media: Jewish Exponent
 section: inthenews
 link: http://jewishexponent.com/judaism/2014/10/speaking-their-minds-rabbis-address-israel-at-the-high-holidays

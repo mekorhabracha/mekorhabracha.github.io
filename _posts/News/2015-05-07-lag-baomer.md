@@ -1,7 +1,7 @@
 ---
 title: Philadelphia Jews Celebrate Lag B'Omer With Bonfire and Music Fest
+date: 2015-05-07 00:00:00 Z
 media: Jewish Exponent
-date: 2015-05-07
 section: inthenews
 link: http://www.jewishexponent.com/headlines/2015/05/philadelphia-jews-celebrate-lag-bomer-with-bonfire-and-music-fest
 author: Amishai Gottlieb

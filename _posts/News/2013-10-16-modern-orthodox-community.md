@@ -1,5 +1,6 @@
 ---
 title: Creating Modern Orthodox Community
+date: 2013-10-16 00:00:00 Z
 media: Jewish Exponent
 section: inthenews
 link: http://www.jewishexponent.com/working-to-create-a-modern-orthodox-community

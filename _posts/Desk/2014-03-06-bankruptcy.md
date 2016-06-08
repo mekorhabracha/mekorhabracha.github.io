@@ -1,11 +1,12 @@
 ---
-title: 'Bankruptcy in Jewish Law'
+title: Bankruptcy in Jewish Law
+date: 2014-03-06 00:00:00 Z
 section: rabbisdesk
-link:
+link: 
 author: Rabbi Eliezer Hirsch
-media: 'Institute for Jewish Ethics'
-meta:
-expires_on:
+media: Institute for Jewish Ethics
+meta: 
+expires_on: 
 frontpage: false
 layout: post
 ---

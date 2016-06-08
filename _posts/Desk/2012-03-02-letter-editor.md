@@ -1,11 +1,12 @@
 ---
-title: 'Letter to the editor'
+title: Letter to the editor
+date: 2012-03-02 00:00:00 Z
 section: rabbisdesk
-link:
+link: 
 author: Rabbi Eliezer Hirsch
 media: Jewish Exponent
-meta:
-expires_on:
+meta: 
+expires_on: 
 frontpage: false
 layout: post
 ---

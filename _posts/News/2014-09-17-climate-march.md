@@ -1,5 +1,6 @@
 ---
 title: Activists Prepare for Climate March
+date: 2014-09-17 00:00:00 Z
 media: Jewish Exponent
 section: inthenews
 link: http://jewishexponent.com/headlines/2014/09/activists-prepare-for-climate-march

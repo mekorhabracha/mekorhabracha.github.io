@@ -1,11 +1,12 @@
 ---
-title: "Eulogy for Rebbetzin Chana Weinberg, zt'l"
+title: Eulogy for Rebbetzin Chana Weinberg, zt'l
+date: 2012-01-25 00:00:00 Z
 section: rabbisdesk
-link:
+link: 
 author: Rabbi Eliezer Hirsch
-media:
-meta:
-expires_on:
+media: 
+meta: 
+expires_on: 
 frontpage: false
 layout: post
 ---

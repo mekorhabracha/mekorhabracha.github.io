@@ -1,11 +1,12 @@
 ---
-title: 'Why did God ask Abraham to sacrifice Isaac?'
+title: Why did God ask Abraham to sacrifice Isaac?
+date: 2011-11-09 00:00:00 Z
 section: rabbisdesk
 link: http://www.examiner.com/article/why-did-god-ask-abraham-to-sacrifice-isaac-rabbi-eliezer-hirsch-explains
 author: Rabbi Eliezer Hirsch
 media: examiner.com
-meta:
-expires_on:
+meta: 
+expires_on: 
 frontpage: false
 layout: post
 ---

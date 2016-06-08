@@ -1,7 +1,7 @@
 ---
 title: Back to Jewish Day School
+date: 2015-04-22 00:00:00 Z
 media: Jewish Exponent
-date: 2015-04-22
 section: inthenews
 link: http://jewishexponent.com/opinion/2015/04/back-to-jewish-day-school
 author: Yoella Epstein

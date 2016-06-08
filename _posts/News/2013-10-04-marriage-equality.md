@@ -1,5 +1,6 @@
 ---
 title: Marriage Equality Supporters Applaud State Bill
+date: 2013-10-04 00:00:00 Z
 media: Jewish Exponent
 section: inthenews
 link: http://www.jewishexponent.com/marriage-equality-supporters-applaud-state-bill

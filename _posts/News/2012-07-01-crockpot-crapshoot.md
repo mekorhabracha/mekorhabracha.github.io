@@ -1,8 +1,9 @@
 ---
 title: Crockpot crapshoot
+date: 2012-07-01 00:00:00 Z
 media: Miriam's Advice Well
 section: inthenews
-link:
+link: 
 author: Miriam Steinberg-Egeth
 meta: features Rabbi Hirsch's vegetarian cholent
 layout: post

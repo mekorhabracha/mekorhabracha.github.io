@@ -1,11 +1,12 @@
 ---
-title: 'Letter from OneFamily Fund'
+title: Letter from OneFamily Fund
+date: 2012-07-13 00:00:00 Z
 section: rabbisdesk
-link:
+link: 
 author: Rabbi Eliezer Hirsch
-media:
-meta:
-expires_on:
+media: 
+meta: 
+expires_on: 
 frontpage: false
 layout: post
 ---

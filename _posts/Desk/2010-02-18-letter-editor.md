@@ -1,11 +1,12 @@
 ---
-title: 'Letter to the editor'
+title: Letter to the editor
+date: 2010-02-18 00:00:00 Z
 section: rabbisdesk
 link: http://www.jewishexponent.com/letters-the-week-of-feb18,-2010
 author: Rabbi Eliezer Hirsch
 media: Jewish Exponent
-meta:
-expires_on:
+meta: 
+expires_on: 
 frontpage: false
 layout: post
 ---

@@ -1,7 +1,7 @@
 ---
 title: It's All About Location When It Comes to Eruvin
+date: 2015-02-25 00:00:00 Z
 media: Jewish Exponent
-date: 2015-02-25
 section: inthenews
 link: http://jewishexponent.com/headlines/2015/02/making-carrying-shabbat-friendly
 author: Eric Berger

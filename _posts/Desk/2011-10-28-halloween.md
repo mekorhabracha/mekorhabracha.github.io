@@ -1,11 +1,12 @@
 ---
-title: 'Jews do celebrate Halloween... sort of'
+title: Jews do celebrate Halloween... sort of
+date: 2011-10-28 00:00:00 Z
 section: rabbisdesk
 link: http://www.examiner.com/article/jews-do-celebrate-halloween-sort-of-commentary-from-rabbi-eliezer-hirsch
 author: Rabbi Eliezer Hirsch
 media: examiner.com
-meta:
-expires_on:
+meta: 
+expires_on: 
 frontpage: false
 layout: post
 ---

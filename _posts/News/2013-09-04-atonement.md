@@ -1,5 +1,6 @@
 ---
 title: Understanding Yom Kippur’s Focus on Atonement and Forgiveness
+date: 2013-09-04 00:00:00 Z
 media: Jewish Exponent
 section: inthenews
 link: http://www.jewishexponent.com/understanding-yom-kippur-s-focus-on-atonement-and-forgiveness

@@ -1,7 +1,7 @@
 ---
 title: US Rabbis Sign Letter Opposing Nuclear Agreement
+date: 2015-08-27 00:00:00 Z
 media: Jewish Exponent
-date: 2015-08-27
 section: inthenews
 link: http://www.kveller.com/why-i-cook-for-strangers/
 author: Melissa Apter

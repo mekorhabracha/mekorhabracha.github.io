@@ -1,11 +1,12 @@
 ---
 title: 'Think Again: Why we weep for Rabbi Nosson Tzvi Finkel'
+date: 2011-11-27 00:00:00 Z
 section: rabbisdesk
 link: http://www.jpost.com/Magazine/Opinion/Think-Again-Why-we-weep-for-Rabbi-Nosson-Tzvi-Finkel
 author: Rabbi Eliezer Hirsch
 media: Jerusalem Post
-meta:
-expires_on:
+meta: 
+expires_on: 
 frontpage: false
 layout: post
 ---

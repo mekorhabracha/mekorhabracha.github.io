@@ -1,5 +1,6 @@
 ---
 title: Moshav Band and Moments of Wrong ready to rock Union Transfer
+date: 2012-01-27 00:00:00 Z
 media: examiner.com
 section: inthenews
 link: http://www.examiner.com/article/moshav-band-and-oh-yes-moments-of-wrong-ready-to-rock-union-transfer-sat-nt

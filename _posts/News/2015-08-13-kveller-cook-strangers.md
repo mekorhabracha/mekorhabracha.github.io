@@ -1,7 +1,7 @@
 ---
 title: Why I Cook for Strangers
+date: 2015-08-13 00:00:00 Z
 media: Kveller
-date: 2015-08-13
 section: inthenews
 link: http://www.kveller.com/why-i-cook-for-strangers/
 author: Sharrona Pearl

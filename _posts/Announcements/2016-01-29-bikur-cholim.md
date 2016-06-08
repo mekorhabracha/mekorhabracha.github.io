@@ -1,7 +1,8 @@
 ---
 title: Mitzvat Bikur Cholim
+date: 2016-01-29 00:00:00 Z
 section: bulletinboard
-until:
+until: 
 frontpage: true
 layout: post
 media: Announcement

@@ -1,7 +1,7 @@
 ---
 title: Jewish Weddings Are Blending Connubiality with Individuality
+date: 2015-04-09 00:00:00 Z
 media: Jewish Exponent
-date: 2015-04-09
 section: inthenews
 link: http://www.jewishexponent.com/lifestyle/2015/04/jewish-weddings-are-blending-connubiality-with-individuality
 author: Hilary Danailova

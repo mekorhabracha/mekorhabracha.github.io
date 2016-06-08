@@ -1,11 +1,12 @@
 ---
-title: 'Jacob the Liar'
+title: Jacob the Liar
+date: 2011-11-25 00:00:00 Z
 section: rabbisdesk
 link: http://www.examiner.com/article/jacob-the-liar-rabbi-hirsch-on-a-troubling-aspect-of-the-current-torah-reading
 author: Rabbi Eliezer Hirsch
 media: examiner.com
-meta:
-expires_on:
+meta: 
+expires_on: 
 frontpage: false
 layout: post
 ---

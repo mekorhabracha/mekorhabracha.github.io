@@ -1,11 +1,12 @@
 ---
-title: 'American-born Orthodox rabbi among the surprising faces of Israel’s future'
+title: American-born Orthodox rabbi among the surprising faces of Israel’s future
+date: 2013-01-31 00:00:00 Z
 section: rabbisdesk
 link: http://www.jns.org/latest-articles/2013/1/28/american-born-orthodox-rabbi-among-the-surprising-faces-of-i.html
 author: Rabbi Eliezer Hirsch
 media: JNS.org
-meta:
-expires_on:
+meta: 
+expires_on: 
 frontpage: false
 layout: post
 ---

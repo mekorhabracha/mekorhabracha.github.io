@@ -1,11 +1,12 @@
 ---
 title: Regarding the attack in Jerusalem
+date: 2014-11-20 00:00:00 Z
 section: rabbisdesk
-link:
+link: 
 author: Rabbi Eliezer Hirsch and Bruce Taubman
-media:
-meta:
-expires_on:
+media: 
+meta: 
+expires_on: 
 frontpage: false
 layout: post
 ---

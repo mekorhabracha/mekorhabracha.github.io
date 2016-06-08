@@ -1,36 +1,28 @@
 ---
 layout: home
 area: home
-
 left:
-  image: >
+  image: |
     img/huddle.jpg
-  title: >
+  title: |
     Our community
-  text: >
+  text: |
     Mekor Habracha is a vibrant, inclusive congregation located in Center City, Philadelphia. We have a diverse membership from all across the city. Jews of all ages and religious backgrounds are always welcome to participate in Mekor’s activities and Orthodox services.
-  button: >
+  button: |
     Read more...
-  link: >
+  link: |
     about/our-community.html
-
-right:  
-  image: >
+right:
+  image: |
     img/RabbiHirsch.jpg
-  title: >
+  title: |
     Rabbi Eliezer Hirsch
-  text: >
+  text: |
     Rabbi Eliezer Hirsch has led the remarkable growth of our community since its inception. In his sermons and classes, he connects the lessons of the Torah portion and Jewish holidays with insights for everyday life, emphasizing the Torah’s eternal relevance for Jews of all backgrounds.
-  button: >
+  button: |
     Read more...
-  link: >
+  link: |
     about/our-rabbi.html
-
-# The icons refer to the names of the icon fonts from Font Awesome (http://fontawesome.io/icons/).
-# For instance, their bookmark icon (http://fontawesome.io/icon/bookmark/) is called "fa-bookmark".
-# If we wanted to use any icon, we need to write the name of the icon minus the "fa-" prefix.
-# Following the example above, if we want to use the bookmark icon we would use "icon: bookmark".
-
 icons:
   topleft:
     icon: thumb-tack
@@ -56,12 +48,9 @@ icons:
     icon: money
     text: Donate to Mekor
     link: contribute/donate.html
-    
 alert:
-  text: ""
-  #type: success   # Green
-  #type: info      # Blue
-  type: warning   # Yellow
-  #type: danger    # Red
-  link: ""
+  text: ''
+  type: warning
+  link: ''
 ---
+

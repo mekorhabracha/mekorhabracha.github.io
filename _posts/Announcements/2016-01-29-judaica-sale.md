@@ -1,7 +1,8 @@
 ---
 title: Judaica Sale
+date: 2016-01-29 00:00:00 Z
 section: bulletinboard
-until: 2015-11-21
+until: 2015-11-21 00:00:00 Z
 frontpage: true
 layout: post
 media: Announcement

@@ -1,3 +1,8 @@
+---
+title: Eshel Conference
+date: 2016-02-24 00:00:00 Z
+---
+
 ﻿---
 # Do not remove the "---" at the beginning of the file.
 # This section between the "---" lines is called the "front 

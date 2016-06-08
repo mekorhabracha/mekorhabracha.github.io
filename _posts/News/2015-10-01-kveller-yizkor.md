@@ -1,5 +1,6 @@
 ---
-title: '...What Message Are We Sending to Mourners?'
+title: "...What Message Are We Sending to Mourners?"
+date: 2015-10-01 00:00:00 Z
 section: inthenews
 link: http://www.kveller.com/when-people-leave-before-the-memorial-prayer-what-message-are-we-sending-to-mourners/
 author: Sharrona Pearl
