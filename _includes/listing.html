@@ -15,8 +15,10 @@
         &nbsp;&nbsp;&nbsp;<span class="fa fa-cutlery"></span>&nbsp;&nbsp;
           {{location.food}}<br>
         {% endif %}
+        {% if location.address != nil %}
         &nbsp;&nbsp;&nbsp;<span class="fa fa-map-marker"></span>&nbsp;&nbsp;
           {{location.address}}<br>
+        {% endif %}
         {% if location.phone != nil %}
           &nbsp;&nbsp;&nbsp;<span class="fa fa-phone"></span>&nbsp;&nbsp;{{location.phone}}<br>
         {% endif %}
