@@ -1,7 +1,7 @@
 ---
 title: Volunteering Opportunities
 layout: page
-area: learning
+area: philadelphia
 ---
 
 In addition to [volunteering at Mekor]({{ site.baseurl }}/contribute/volunteer.html), there are many ways to take an active role in the Greater Philadelphia Jewish community:

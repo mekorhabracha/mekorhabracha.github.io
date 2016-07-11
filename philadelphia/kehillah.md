@@ -1,7 +1,7 @@
 ---
 title: Center City Kehillah
 layout: page
-area: learning
+area: philadelphia
 ---
 
 Mekor Habracha is a proud member of the [Center City Kehillah](http://centercityjews.org).
