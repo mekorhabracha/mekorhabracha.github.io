@@ -1,0 +1,24 @@
+---
+layout: page
+area: philadelphia
+---
+
+<h1>Eruvin</h1>
+
+{% include selectarea.html area="mainline" category="eruvin" %}
+
+<br>
+
+<div class="container-fluid">
+  <div class="row">
+    {% for location in site.data.philadelphia %}
+    {% if location.type == "eruv" %}
+    {% if location.where == "Main Line" or location.where == "Manayunk"%}
+
+    {% include listing.html %}
+
+    {% endif %}
+    {% endif %}
+    {% endfor %}
+  </div> <!-- row -->
+</div> <!-- container-fluid -->
