@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: http://www.judahgrill.com/c/
-Disallow: http://www.judahgrill.com/protected/
-Sitemap: http://www.judahgrill.com/sitemap.xml

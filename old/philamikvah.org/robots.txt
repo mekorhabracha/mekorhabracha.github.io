@@ -1,6 +1,0 @@
-Sitemap: http://philamikvah.org/sitemap.xml
-Sitemap: http://philamikvah.org/news-sitemap.xml
-
-User-agent: *
-Disallow: /wp-admin/
-Allow: /wp-admin/admin-ajax.php
