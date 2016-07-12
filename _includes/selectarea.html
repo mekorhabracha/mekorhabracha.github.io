@@ -1,8 +1,4 @@
-<div class="alert alert-warning" role="alert"> 
-	<center>
-		If you find the information in this page to be inaccurate, please <a href="https://github.com/mekorhabracha/mekorhabracha.github.io/issues/new">let us know by filling out this form</a>.
-	</center>
-</div>
+{% include inaccurate.html %}
 
 <ul class="nav nav-tabs">
   <li role="presentation"{% if include.area == "centercity" %} class="active"{% endif %}><a href="{{site.url}}/philadelphia/{{include.category}}.html">Center City</a></li>

@@ -4,6 +4,8 @@ layout: page
 area: philadelphia
 ---
 
+{% include inaccurate.html %}
+
 In addition to [volunteering at Mekor]({{ site.baseurl }}/contribute/volunteer.html), there are many ways to take an active role in the Greater Philadelphia Jewish community:
 
 # [Jewish Family and Children’s Service](https://www.jfcsphilly.org/)
