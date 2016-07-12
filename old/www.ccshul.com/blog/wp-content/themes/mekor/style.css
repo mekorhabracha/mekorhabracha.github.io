@@ -1,0 +1,56 @@
+/*
+Theme Name: Mekor Habracha Design
+Theme URI: 
+Description: Mekor Habracha Integrated Design
+Version: 1.0
+Author: Aaron Rubin, Ark Ideas
+Author URI: http://arkideas.com/
+Tags: custom
+*/
+
+div.title { 
+ margin-bottom: 2px; 
+}
+
+div.tags { 
+  font-size: 10px;
+  margin-bottom: 10px;
+}
+
+div.title a { 
+  color: #7C2C3B !important;
+  font-size: 18px;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.time { 
+  color: #182935;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.commentLink { 
+  padding: 5px;
+  color: #fff !important;
+  background-color: #7C2C3B;
+  text-decoration: none;
+}
+
+.entry { 
+  margin-top: 15px;
+}
+
+.npLink { 
+  font-weight: bold;
+}
+
+div#captchaImgDiv{display:block;}
+.captchaSizeDivSmall{width:175px; height:45px; padding-top:10px;}
+.captchaSizeDivLarge{width:250px; height:60px; padding-top:10px;}
+img#si_image_com,#si_image_reg,#si_image_log,#si_image_side_login{border-style:none; margin:0; padding-right:5px; float:left;}
+.captchaImgAudio{border-style:none; margin:0; vertical-align:top;}
+.captchaImgRefresh{border-style:none; margin:0; vertical-align:bottom;}
+div#captchaInputDiv{display:block; padding-top:15px; padding-bottom:5px;}
+label#captcha_code_label{margin:0;}
+input#captcha_code{width:65px;}

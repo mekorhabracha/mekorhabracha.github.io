@@ -6,12 +6,12 @@ function swapImg(id, on) {
 		if(p.hasClass('active')) activeId = id;
 		else{
 			p.addClass('active');
-			im.src='/images/buttons/thumb'+id+'-1.png';
+			im.src='images/buttons/thumb'+id+'-1.png';
 		}
 	}else{
 		if(id != activeId){
 			p.className = '';
-			im.src='/images/buttons/thumb'+id+'-0.png';
+			im.src='images/buttons/thumb'+id+'-0.png';
 		}
 	}
 }
