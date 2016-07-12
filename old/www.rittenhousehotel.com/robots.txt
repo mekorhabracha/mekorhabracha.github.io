@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Sitemap: http://www.rittenhousehotel.com/sitemap.xml
+
+User-agent: Googlebot-Mobile
+User-Agent: YahooSeeker/M1A1-R2D2
+User-Agent: MSNBOT_Mobile
+Allow: /m$
+Allow: /m/
+Disallow: /
+Sitemap: http://www.rittenhousehotel.com/sitemap-mobile.xml

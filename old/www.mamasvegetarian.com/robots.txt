@@ -1,0 +1,4 @@
+Sitemap: http://mamasvegetarian.com/sitemap.xml
+
+User-agent: *
+Disallow: 

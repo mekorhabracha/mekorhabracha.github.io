@@ -1,0 +1,3 @@
+User-Agent: *
+Disallow: /ypu/js/compiled/tripadvisor*
+Disallow: /ypm/javascripts/bundle_tripadvisor.min.js

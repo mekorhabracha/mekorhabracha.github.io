@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: 
+Disallow: /bin/
+Disallow: /_fpclass/
+Disallow: /_fpclassold/
+Disallow: /db/
+Disallow: /old/
+Disallow: /fpdb/
+Disallow: /old.files/
+Disallow: /inc/

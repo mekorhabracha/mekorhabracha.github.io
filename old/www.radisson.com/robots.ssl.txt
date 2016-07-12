@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /reservation/
+Disallow: /myaccount/
+Disallow: /adjustment/
+Disallow: /ey/secure/
+Disallow: /profiles/secure/
+Disallow: /secure/
+Disallow: /ey/
+Disallow: /*print=true
+
+Sitemap: https://www.radisson.com/rad/sitemaps/rad-www-sitemap.xml
+Sitemap: https://www.radisson.com/rad/sitemaps/sitemap-rad-www-property-pages.xml
+Sitemap: https://www.radisson.com/rad/sitemaps/sitemap-rad-www-destination-pages.xml
+Sitemap: https://www.radisson.com/rad/sitemaps/sitemap-rad-www-offers-pages.xml
