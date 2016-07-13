@@ -13,7 +13,7 @@ Mekor Habracha members...
 - ...receive discounts throughout the year on shul-related offerings: community meals, learning programs, kiddush and other sponsorship opportunities.
 - ...can rent synagogue space at discounted rates (or, if the whole community is invited, even for free).
 
-Become a member today by filling out the [membership application form](http://www.ccshul.com/documents/Membership%20Application%202014-2015.doc).
+Become a member today by filling out the [membership application form](http://mekorhabracha.org/old/www.ccshul.com/documents/Membership%20Application%202015-2016.doc).
 
 Membership dues: 
 
