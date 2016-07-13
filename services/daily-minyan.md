@@ -15,6 +15,6 @@ Weekday services start earlier when there is Mussaf, Hallel and other additional
 
 ### Afternoons
 
-Currently Mekor Habracha does **not*** hold Mincha/Ma'ariv services on weekdays. The closest afternoon minyan is at the University of Pennsylvania Hillel at 215 S 39th Street, off Walnut Street. Their website provides further detail about [minyan times](https://www.pennocp.org/minyan/).
+Currently Mekor Habracha does **not** hold Mincha/Ma'ariv services on weekdays. The closest afternoon minyan is at the University of Pennsylvania Hillel at 215 S 39th Street, off Walnut Street. Their website provides further detail about [minyan times](https://www.pennocp.org/minyan/).
 
 If you are interested in starting a Mincha/Ma'ariv minyan, please contact the Rabbi.
