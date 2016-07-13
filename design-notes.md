@@ -5,7 +5,7 @@ layout: page
 
 ### What is this?
 
-You are in Mekor Habracha's home in the Internet. It is the website's first complete overhaul since the community was established. You can see the previous iteration [here](http://mekorhabracha.org/old/www.ccshul.com/index.html).
+You are in Mekor Habracha's home in the Internet. This is the website's first complete overhaul since the community was established. You can see the previous iteration [here](http://mekorhabracha.org/old/www.ccshul.com/index.html).
 
 If you want to kick the website's tires or learn what websites are made of, you have come to the right page.
 
