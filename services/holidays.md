@@ -123,7 +123,7 @@ The High Holidays are right around the corner! Limited reservations for services
         					</div>
             				<div class="row">
             					<div class="col-lg-8 text-left">Kol Nidre</div>
-            					<div class="col-lg-4 text-right">6:30pm</div>
+            					<div class="col-lg-4 text-right">6:15pm</div>
         					</div>
 	            		</div>
 	            		<div class="col-lg-4">
@@ -140,11 +140,11 @@ The High Holidays are right around the corner! Limited reservations for services
         					</div>
             				<div class="row">
             					<div class="col-lg-8 text-left">Afternoon services</div>
-            					<div class="col-lg-4 text-right">5:30pm</div>
+            					<div class="col-lg-4 text-right">5:00pm</div>
         					</div>
             				<div class="row">
             					<div class="col-lg-8 text-left">Ne'ila</div>
-            					<div class="col-lg-4 text-right">6:30pm</div>
+            					<div class="col-lg-4 text-right">6:00pm</div>
         					</div>
             				<div class="row">
             					<div class="col-lg-8 text-left">Havdalah</div>
