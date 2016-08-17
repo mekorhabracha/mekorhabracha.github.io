@@ -1,0 +1,15 @@
+    <div class="row">
+        <div class="col-md-5 text-right">
+            {% if audio.moment != nil %}<small>{{audio.moment}}</small> {% endif %}
+            {% if include.type == "parasha" %}{{ audio.parasha }}
+            {% elsif include.type == "year" %}{{ audio.year }}
+            {% elsif include.type == "both" %}{{ audio.parasha }} {{ audio.year }}
+            {% endif %}
+        </div> <!-- col-md-5 -->
+        <div class="col-md-2 text-center">
+            {{ audio.date | date: "%b %-d %Y" }}
+        </div> <!-- col-md-2 -->
+        <div class="col-md-5">
+            <a href="{{ audio.url }}">{{ audio.title }}</a>{% if audio.occasion != nil %} <small>{{audio.occasion}}</small> {% endif %}
+        </div> <!-- col-md-5 -->
+    </div> <!-- row -->

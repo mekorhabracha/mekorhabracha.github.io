@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  {% include head.html %}
+
+  <body>
+    
+    {% include navbar.html area=page.area %}
+
+<br><br>
+
+    <div class="container-fluid">
+
+      <div class="row">
+        <div class="col-lg-3 col-lg-offset-1 col-xl-2 col-xl-offset-2">
+          <div class="thumbnail">
+            <div id="carousel-left" class="carousel slide" data-ride="carousel">
+              <div class="carousel-inner" role="listbox">
+                <div class="item active">
+                  <img src="{{ site.url }}/img/carousel/wrong3.jpg">
+                </div>
+                <div class="item">
+                  <img src="{{ site.url }}/img/carousel/brit.jpg">
+                </div>
+                <div class="item">
+                  <img src="{{ site.url }}/img/carousel/bee.jpg">
+                </div>
+                <div class="item">
+                  <img src="{{ site.url }}/img/carousel/chanukah.jpg">
+                </div>
+                <div class="item">
+                  <img src="{{ site.url }}/img/carousel/gradmans.jpg">
+                </div>
+                <div class="item">
+                  <img src="{{ site.url }}/img/carousel/lchaim.jpg">
+                </div>
+                <div class="item">
+                  <img src="{{ site.url }}/img/carousel/force.jpg">
+                </div>
+                <div class="item">
+                  <img src="{{ site.url }}/img/carousel/orts.jpg">
+                </div>
+                <div class="item">
+                  <img src="{{ site.url }}/img/carousel/sukkah1.jpg">
+                </div>
+                <div class="item">
+                  <img src="{{ site.url }}/img/carousel/meow.jpg">
+                </div>
+                <div class="item">
+                  <img src="{{ site.url }}/img/carousel/torah1.jpg">
+                </div>
+                <div class="item">
+                  <img src="{{ site.url }}/img/carousel/harrises.jpg">
+                </div>
+                <div class="item">
+                  <img src="{{ site.url }}/img/carousel/thing.jpg">
+                </div>
+                <div class="item">
+                  <img src="{{ site.url }}/img/carousel/pidyon3.jpg">
+                </div>
+                <div class="item">
+                  <img src="{{ site.url }}/img/carousel/wrong1.jpg">
+                </div>
+                <div class="item">
+                  <img src="{{ site.url }}/img/carousel/get.jpg">
+                </div>
+                <div class="item">
+                  <img src="{{ site.url }}/img/carousel/rhona.jpg">
+                </div>
+                <div class="item">
+                  <img src="{{ site.url }}/img/carousel/sukkah2.jpg">
+                </div>
+                <div class="item">
+                  <img src="{{ site.url }}/img/carousel/sadikis.jpg">
+                </div>
+                <div class="item">
+                  <img src="{{ site.url }}/img/carousel/pidyon2.jpg">
+                </div>
+                <div class="item">
+                  <img src="{{ site.url }}/img/carousel/balls.jpg">
+                </div>
+                <div class="item">
+                  <img src="{{ site.url }}/img/carousel/torah3.jpg">
+                </div>
+                <div class="item">
+                  <img src="{{ site.url }}/img/carousel/seuda.jpg">
+                </div>
+                <div class="item">
+                  <img src="{{ site.url }}/img/carousel/ellen.jpg">
+                </div>
+                <div class="item">
+                  <img src="{{ site.url }}/img/carousel/sukkah3.jpg">
+                </div>
+                <div class="item">
+                  <img src="{{ site.url }}/img/carousel/morley.jpg">
+                </div>
+                <div class="item">
+                  <img src="{{ site.url }}/img/carousel/taubmans.jpg">
+                </div>
+                <div class="item">
+                  <img src="{{ site.url }}/img/carousel/pidyon1.jpg">
+                </div>
+                <div class="item">
+                  <img src="{{ site.url }}/img/carousel/wrong2.jpg">
+                </div>
+                <div class="item">
+                  <img src="{{ site.url }}/img/carousel/clothes.jpg">
+                </div>
+                <div class="item">
+                  <img src="{{ site.url }}/img/carousel/corkscrew.jpg">
+                </div>
+                <div class="item">
+                  <img src="{{ site.url }}/img/carousel/pidyon4.jpg">
+                </div>
+                <div class="item">
+                  <img src="{{ site.url }}/img/carousel/superheroes.jpg">
+                </div>
+                <div class="item">
+                  <img src="{{ site.url }}/img/carousel/waldo.jpg">
+                </div>
+                <div class="item">
+                  <img src="{{ site.url }}/img/carousel/torah2.jpg">
+                </div>
+                <div class="item">
+                  <img src="{{ site.url }}/img/carousel/taxin.jpg">
+                </div>
+                <div class="item">
+                  <img src="{{ site.url }}/img/carousel/uri-you.jpg">
+                </div>
+              </div>
+            </div>
+            <!-- <img src="{{ page.left.image }}" alt="{{ page.left.title }}" width="100%"> -->
+            
+
+
+            <div class="caption">
+              <h3>{{ page.left.title }}</h3>
+              <p>{{ page.left.text }} <a href="{{ page.left.link }}">{{ page.left.button }}</a></p>
+            </div> <!-- caption -->
+          </div> <!-- thumbnail -->
+        </div> <!-- col -->
+    
+        <div class="col-lg-4 col-xl-4">
+          {% if page.alert.text != "" %}<a href="{{page.alert.link}}"><div class="alert alert-{{ page.alert.type }} text-center" role="alert">{{ page.alert.text }}</div></a>{% endif %}
+          <div class="panel panel-default">
+            <div class="panel-body">
+              <div class="container-fluid">
+                <div class="row">
+                  <div class="col-md-4 text-center">
+                      <a href="{{ page.icons.topleft.link }}"><i class="fa fa-{{ page.icons.topleft.icon }} fa-4x"></i></a>
+                      <h6 class="text-center"><strong>{{ page.icons.topleft.text }}</strong></h6>
+                  </div> <!-- col -->
+                  <div class="col-md-4 text-center">
+                      <a href="{{ page.icons.topcenter.link }}"><i class="fa fa-{{ page.icons.topcenter.icon }} fa-4x"></i></a>
+                      <h6 class="text-center"><strong>{{ page.icons.topcenter.text }}</strong></h6>
+                  </div> <!-- col -->
+                  <div class="col-md-4 text-center">
+                      <a href="{{ page.icons.topright.link }}"><i class="fa fa-{{ page.icons.topright.icon }} fa-4x"></i></a>
+                      <h6 class="text-center"><strong>{{ page.icons.topright.text }}</strong></h6>
+                  </div> <!-- col -->
+                </div> <!-- row -->
+                <div class="row">
+                  <div class="col-md-4 text-center">
+                      <a href="{{ page.icons.bottomleft.link }}"><i class="fa fa-{{ page.icons.bottomleft.icon }} fa-4x"></i></a>
+                      <h6 class="text-center"><strong>{{ page.icons.bottomleft.text }}</strong></h6>
+                  </div> <!-- col -->
+                  <div class="col-md-4 text-center">
+                      <a href="{{ page.icons.bottomcenter.link }}"><i class="fa fa-{{ page.icons.bottomcenter.icon }} fa-4x"></i></a>
+                      <h6 class="text-center"><strong>{{ page.icons.bottomcenter.text }}</strong></h6>
+                  </div> <!-- col -->
+                  <div class="col-md-4 text-center">
+                      <a href="{{ page.icons.bottomright.link }}"><i class="fa fa-{{ page.icons.bottomright.icon }} fa-4x"></i></a>
+                      <h6 class="text-center"><strong>{{ page.icons.bottomright.text }}</strong></h6>
+                  </div> <!-- col -->
+                </div> <!-- row -->
+              </div> <!-- container -->
+            </div> <!-- panel-body -->
+          </div> <!-- panel -->
+          <div> <!-- col -->
+            <!-- Nav tabs -->
+            <ul class="nav nav-pills nav-justified" role="tablist">
+              <li role="presentation" class="active nav-pill"><a href="#today" aria-controls="today" role="tab" data-toggle="pill">Next</a></li>
+              <!-- <li role="presentation"><a href="#shabbat" aria-controls="shabbat" role="tab" data-toggle="pill">Shabbat</a></li> -->
+              <li role="presentation" class="nav-pill"><a href="#announcements" aria-controls="announcements" role="tab" data-toggle="pill">Announcements</a></li>
+            </ul>
+          <br/>
+            <!-- Tab panes -->
+            <div class="tab-content">
+              <div role="tabpanel" class="tab-pane fade in active" id="today">
+                <div class="panel panel-default">
+                  <div class="panel-body">
+                    <table class="table">
+                      <tbody>
+                        <tr><div id="minicalendar1"></div></tr>
+                        <tr><div id="minicalendar2"></div></tr>
+                      </tbody>
+                    </table>
+                  </div>
+                </div>
+              </div>
+              <!-- <div role="tabpanel" class="tab-pane fade" id="shabbat">
+                <div class="panel panel-default">
+                  <div class="panel-body">
+                    <p>ABC</p>
+                  </div>
+                </div>
+              </div> -->
+              <div role="tabpanel" class="tab-pane fade" id="announcements">
+                <div class="panel panel-default">
+                  <div class="panel-body">
+                    <div class="container-fluid">
+                      {% capture nowdate %}{{'now' | date: '%s' }}{% endcapture %}
+                      {% for post in site.posts %}{% if post.frontpage == true %}
+                      {% if post.until != nil %}{% capture postuntil %}{{ post.until | date: '%s' }}{% endcapture %}
+                      {% else %}{% capture postuntil %}{{ post.date | date: '%s' | plus: 2592000 }}{% endcapture %}{% endif %}
+                      {% if nowdate <= postuntil %}
+                      <div class="row">
+                        <a href="{{ post.url }}">{{post.title}}</a> ({{ post.date | date: '%b %-d %Y' }})
+                      </div> <!-- row -->
+                      {% endif %}{% endif %}{% endfor %}
+                    </div> <!-- container -->
+                  </div> <!-- panel-body -->
+                </div> <!-- panel -->
+              </div> <!-- tabpanel -->
+            </div> <!-- tab-content -->
+          </div>
+        </div> <!-- col -->
+
+        <div class="col-lg-3 col-xl-2">
+          <div class="thumbnail">
+            <img src="{{ page.right.image }}" alt="{{ page.right.title }}" width="100%">
+            <div class="caption">
+              <h3>{{ page.right.title }}</h3>
+              <p>{{ page.right.text }} <a href="{{ page.right.link }}">{{ page.right.button }}</a></p>
+            </div> <!-- caption -->
+          </div> <!-- thumbnail -->
+        </div> <!-- col -->
+      </div> <!-- row -->
+    </div> <!-- /container-fluid -->
+
+    {% include footer.html area=page.area %}
+    
+  </body>
+</html>

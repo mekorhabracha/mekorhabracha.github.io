@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  {% include head.html area=page.area %}
+
+  <body>
+    
+    {% include navbar.html area=page.area %}
+
+    <div class="container-fluid">
+      <div class="row">
+        <div class="col-lg-8 col-lg-offset-2">
+          {{ content }}
+        </div>
+      </div> <!-- row -->
+    </div> <!-- /container-fluid -->
+
+    {% include footer.html area=page.area %}
+    
+  </body>
+</html>

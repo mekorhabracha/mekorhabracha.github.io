@@ -1,0 +1,114 @@
+    <nav class="navbar navbar-inverse navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="{{ site.baseurl }}/index.html">
+            <span class="logo"><img class="logo" src="{{ site.baseurl }}/img/logo4.png"/> </span>
+            <span class="brand-name">  
+              <span class="text-center brand">Mekor Habracha</span><br>
+              <span class="text-center tagline">CENTER CITY SYNAGOGUE</span>
+            </span>
+          </a>
+
+        </div> <!-- navbar-header -->
+        <div id="navbar" class="navbar-collapse collapse">
+          <ul class="nav navbar-nav navbar-right">
+
+            <li class="dropdown{% if include.area == "community" %} active{% endif %}">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">About Mekor <span class="caret"></span></a>
+              <ul class="dropdown-menu">
+                <li><a href="{{ site.baseurl }}/about/our-community.html">Our Community</a></li>
+                <li><a href="{{ site.baseurl }}/about/our-rabbi.html">Our Rabbi</a></li>
+                <li><a href="{{ site.baseurl }}/about/our-leadership.html">Our Leadership</a></li>
+                <li role="separator" class="divider"></li>
+                <li><a href="{{ site.baseurl }}/about/contact-us.html"><strong>Contact Us</strong></a></li>
+                <li><a href="{{ site.baseurl }}/about/become-member.html"><strong>Become a Member</strong></a></li>
+                <li role="separator" class="divider"></li>
+                <li class="dropdown-header">NEWSLETTER</li>
+                <li><a href="{{ site.baseurl }}/about/email-signup.html"><strong>Sign up for Our Emails</strong></a></li>
+                <li><a href="{{ site.baseurl }}/about/newsletter-archive.html">Recent Weekly Newsletters</a></li>
+                <li><a href="{{ site.baseurl }}/about/email-archive.html">Recent Email Announcements</a></li>
+                <li role="separator" class="divider"></li>
+                <li class="dropdown-header">BLOGS</li>
+                <li><a href="{{ site.baseurl }}/about/in-the-news.html">Mekor in the News</a></li>
+                <li><a href="{{ site.baseurl }}/about/rabbis-desk.html">From the Rabbi's Desk</a></li>
+
+              </ul> <!-- dropdown-menu -->
+            </li> <!-- dropdown -->
+
+            <li class="dropdown{% if include.area == "learning" %} active{% endif %}">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Programs <span class="caret"></span></a>
+              <ul class="dropdown-menu">
+                <li><a href="{{ site.baseurl }}/calendar.html">Calendar</a></li>
+                <li><a href="{{ site.baseurl }}/bulletin-board.html">Bulletin Board</a></li>
+                <li><a href="{{ site.baseurl }}/audio/5776.html">Audio Library</a></li>
+                <li role="separator" class="divider"></li>
+                <li class="dropdown-header">SERVICES</li>
+                <li><a href="{{ site.baseurl }}/services/daily-minyan.html">Weekdays</a></li>
+                <li><a href="{{ site.baseurl }}/services/shabbat.html">Shabbat</a></li>
+                <li><a href="{{ site.baseurl }}/services/holidays.html">Holidays</a></li>
+                <li role="separator" class="divider"></li>
+                <li class="dropdown-header">LEARNING</li>
+                <li><a href="{{ site.baseurl }}/learning/daily-learning.html">Daily Learning</a></li>
+                <li><a href="{{ site.baseurl }}/learning/weekly-classes.html">Weekly Classes</a></li>
+                <li role="separator" class="divider"></li>
+                <li class="dropdown-header">SOCIAL</li>
+                <li><a href="{{ site.baseurl }}/social/sisterhood.html">Sisterhood</a></li>
+                <li role="separator" class="divider"></li>
+                <li class="dropdown-header">KIDS &amp; PARENTS</li>
+                <li><a href="{{ site.baseurl }}/kids/cookie-minyan.html">Cookie Minyan</a></li>
+                <li><a href="{{ site.baseurl }}/kids/baby-gemach.html">Maternity/Baby Gemach</a></li>
+                <li><a href="{{ site.baseurl }}/kids/makom.html">Makom Community</a></li>
+                
+              </ul> <!-- dropdown-menu -->
+            </li> <!-- dropdown -->
+
+            <li class="dropdown{% if include.area == "philadelphia" %} active{% endif %}">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Philadelphia <span class="caret"></span></a>
+
+              <ul class="dropdown-menu">
+                <li><a href="{{ site.baseurl }}/philadelphia/eat-out.html">Eating Kosher out</a></li>
+                <li><a href="{{ site.baseurl }}/philadelphia/eat-in.html">Eating Kosher at Home</a></li>
+                <li><a href="{{ site.baseurl }}/philadelphia/eruvin.html">Eruvin</a></li>
+                <li><a href="{{ site.baseurl }}/philadelphia/mikvaot.html">Mikvaot</a></li>
+                <li role="separator" class="divider"></li>
+                <li><a href="{{ site.baseurl }}/philadelphia/kehillah.html">Center City Kehilla</a></li>
+                <li><a href="{{ site.baseurl }}/philadelphia/volunteer.html">Volunteering Opportunities</a></li>
+              </ul> <!-- dropdown-menu -->
+            </li> <!-- dropdown -->
+
+            <li class="dropdown{% if include.area == "contribute" %} active{% endif %}">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Contribute <span class="caret"></span></a>
+              <ul class="dropdown-menu">
+                <li><a href="{{ site.baseurl }}/contribute/donate.html">Donate to Mekor</a></li>
+                <li><a href="{{ site.baseurl }}/contribute/dedicate.html">Dedication Opportunities</a></li>
+                <li><a href="{{ site.baseurl }}/contribute/kiddush.html">Sponsor Kiddush</a></li>
+                <li><a href="{{ site.baseurl }}/contribute/volunteer.html">Volunteer at Mekor</a></li>
+                <li><a href="{{ site.baseurl }}/contribute/shop.html">Shop with Mekor</a></li>
+              </ul> <!-- dropdown-menu -->
+            </li> <!-- dropdown -->
+
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="fa fa-facebook-official fa-lg"></i><span class="caret"></span></a>
+              <ul class="dropdown-menu">
+                <li><a href="https://www.facebook.com/Mekor-HabrachaCenter-City-Synagogue-136493239786335/">Mekor Habracha Page</a></li>
+                <li><a href="https://www.facebook.com/groups/19458667730/">Mekor Community Group</a></li>
+              </ul> <!-- dropdown-menu -->
+            </li> <!-- dropdown -->
+
+            <li>
+              <a href="https://www.youtube.com/channel/UCfj7vuvPA80HMVN-09ZxOHA"><i class="fa fa-youtube-play fa-lg"></i></a>
+            </li> <!-- dropdown -->
+
+
+          </ul> <!-- navbar-right -->
+        </div><!--/.nav-collapse -->
+      </div>
+    </nav>
+    
+    <img class="image-band" src="{{ site.baseurl }}/img/torah-band.png"/>
