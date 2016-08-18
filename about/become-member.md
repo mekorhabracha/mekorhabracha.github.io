@@ -20,7 +20,7 @@ Become a member today by filling out the [membership application form](http://me
 	 	<div class="col-lg-offset-2 col-lg-4">
       		<div class="panel panel-default">
 	      		<div class="panel-heading">
-	      			<h3 class="panel-title text-center">Before August 31 2016</h3>
+	      			<h3 class="panel-title text-center">Before September 8 2016</h3>
 	      		</div>
 	            <div class="panel-body">
     				<p>
@@ -47,7 +47,7 @@ Become a member today by filling out the [membership application form](http://me
 	 	<div class="col-lg-4">
       		<div class="panel panel-default">
 	      		<div class="panel-heading">
-	      			<h3 class="panel-title text-center">After August 31 2016</h3>
+	      			<h3 class="panel-title text-center">After September 8 2016</h3>
 	      		</div>
 	            <div class="panel-body">
     				<p>
@@ -59,7 +59,7 @@ Become a member today by filling out the [membership application form](http://me
 					<p>
 	    				<div class="row">
 	    					<div class="col-lg-8 text-left">Singles</div>
-	    					<div class="col-lg-4 text-right">$400</div>
+	    					<div class="col-lg-4 text-right">$450</div>
 						</div>
 					</p>
 					<p>
