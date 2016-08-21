@@ -8,7 +8,7 @@ layout: post
 media: Announcement
 ---
 
-After much deliberation, the shul board has decided to raise our membership rates for the Jewish calendar year 5777 (2016-17). While we consistently aspire to keep our dues extremely affordable, the rapid growth of our wonderful community and its expanding needs is a major factor behind this decision.  
+After much deliberation, the shul board has decided to raise our membership rates for the Jewish calendar year 5777 (2016/17). While we consistently aspire to keep our dues extremely affordable, the rapid growth of our wonderful community and its expanding needs is a major factor behind this decision.  
 
 You can read more about the new rates in our [membership page]({{site.url}}/about/become-member.html), and you will find more information [here]({{site.url}}/contribute/donate.html) about how to submit your payments.
 
