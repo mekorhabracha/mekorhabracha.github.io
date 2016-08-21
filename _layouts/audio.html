@@ -11,9 +11,9 @@ layout: default
 
   <article class="post-content">
     <audio controls preload="metadata">
-      <source src="https://archive.org/download/{{ page.id }}/{{ page.filename }}.ogg" type="audio/ogg">
-      <source src="https://archive.org/download/{{ page.id }}/{{ page.filename }}.mp3" type="audio/mpeg">
-      <iframe src="https://archive.org/embed/{{ page.id }}" width="500" height="140" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+      <source src="https://archive.org/download/{{ page.archivecode }}/{{ page.filename }}.ogg" type="audio/ogg">
+      <source src="https://archive.org/download/{{ page.archivecode }}/{{ page.filename }}.mp3" type="audio/mpeg">
+      <iframe src="https://archive.org/embed/{{ page.archivecode }}" width="500" height="140" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
     </audio>
     <p class="small">
         None of the recordings on this website were recorded on Shabbat or Jewish holidays.

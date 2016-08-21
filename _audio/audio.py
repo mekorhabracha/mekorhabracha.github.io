@@ -14,7 +14,7 @@ with open('audio.csv', newline='') as csvfile:
         f.write("title: " + row[8] + "\n")
         f.write("author: Rabbi Eliezer Hirsch\n")
         f.write("date: " + row[7] + "\n")
-        f.write("id: " + row[2] + "\n")
+        f.write("archivecode: " + row[2] + "\n")
         f.write("filename: " + row[1] + "\n")
         f.write("layout: audio\n")
         f.write("moment: " + row[9] + "\n")
