@@ -1,6 +1,6 @@
 ---
 title: Renew Your Membership Now!
-date: 2015-08-21 00:00:00 Z
+date: 2015-08-20 00:00:00 Z
 section: bulletinboard
 until: 2015-09-06 00:00:00 Z
 frontpage: true
