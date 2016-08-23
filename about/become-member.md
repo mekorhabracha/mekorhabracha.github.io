@@ -79,7 +79,7 @@ Become a member today by filling out the [membership application form](http://me
 </div>
 
 <p class="text-center">
-	<a class="btn btn-warning" href="http://mekorhabracha.org/old/www.ccshul.com/documents/Membership%20Application%202015-2016.doc" role="button">Become member today!</a> 
+	<a class="btn btn-warning" href="{{site.url}}/pdf/MembershipApplication5777.doc" role="button">Become member today!</a> 
 </p><br/>
 
 No one will be turned away for any reason. If you are unable to pay the full membership fee, we will work with you to make accommodations that will fit your budget. 
