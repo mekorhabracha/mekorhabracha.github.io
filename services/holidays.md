@@ -39,7 +39,7 @@ The High Holidays are right around the corner! Limited reservations for services
 	 	<div class="col-lg-6">
       		<div class="panel panel-default">
 	      		<div class="panel-heading">
-	      			<h3 class="panel-title text-center">Non-Members</h3>
+	      			<h3 class="panel-title text-center">Non-Members / Guests of Members</h3>
 	      		</div>
 	            <div class="panel-body">
     				<p>
