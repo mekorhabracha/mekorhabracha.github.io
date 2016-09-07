@@ -49,8 +49,8 @@ icons:
     text: Donate to Mekor
     link: contribute/donate.html
 alert:
-  text: 'Celebrate the High Holidays at Mekor Habracha!'
-  type: success
-  link: 'services/holidays.html'
+  text: "Join us in Mekor's Second Annual Gala!"
+  type: warning
+  link: 'http://www.mekorgala.com'
 ---
 
