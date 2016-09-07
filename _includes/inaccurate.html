@@ -1,5 +1,6 @@
 <div class="alert alert-warning" role="alert"> 
 	<center>
 		If you find the information in this page to be inaccurate, please <a href="https://github.com/mekorhabracha/mekorhabracha.github.io/issues/new">let us know by filling out this form</a>.
+		{% if include.category == "eat-in" or include.category == "eat-out" %}  <br/> Our listings are provided for information purposes only: check the current certifying agency before patronizing. {% endif %}
 	</center>
 </div>
