@@ -14,6 +14,7 @@ Mekor Habracha members...
 - ...are eligible to join official shul groups.
 - ...receive discounts throughout the year on shul-related offerings: community meals, learning programs, kiddush and other sponsorship opportunities.
 - ...can rent synagogue space at discounted rates (or, if the whole community is invited, even for free).
+- ...and much more!
 
 Become a member today by filling out the [membership application form]({{site.url}}/pdf/MembershipApplication5777.doc). To send your payment follow [these instructions]({{site.url}}/contribute/donate.html).
 
