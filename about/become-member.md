@@ -19,39 +19,10 @@ Become a member today by filling out the [membership application form](http://me
 
 <div class="container-fluid">
 	<div class="row">
-	 	<div class="col-lg-offset-2 col-lg-4">
-      		<div class="panel panel-danger">
-	      		<div class="panel-heading">
-	      			<h3 class="panel-title text-center">Labor Day Discount</h3>
-	      			<div class="text-center"><small>if paid in full before September 5 2016</small></div>
-	      		</div>
-	            <div class="panel-body">
-    				<p>
-	    				<div class="row">
-	    					<div class="col-lg-7 text-left">Students</div>
-	    					<div class="col-lg-5 text-right"><strong>$200</strong> <del>$250</del></div>
-						</div>
-					</p>
-					<p>
-	    				<div class="row">
-	    					<div class="col-lg-7 text-left">Singles</div>
-	    					<div class="col-lg-5 text-right"><strong>$375</strong> <del>$450</del></div>
-						</div>
-					</p>
-					<p>
-	    				<div class="row">
-	    					<div class="col-lg-7 text-left">Couples/families</div>
-	    					<div class="col-lg-5 text-right"><strong>$700</strong> <del>$800</del></div>
-						</div>
-					</p>
-	            </div>
-            </div>
-	 	</div>
-	 	<div class="col-lg-4">
+	 	<div class="col-lg-offset-4 col-lg-4">
       		<div class="panel panel-default">
 	      		<div class="panel-heading">
 	      			<h3 class="panel-title text-center">Regular Dues for 5777</h3>
-	      			<div class="text-center"><small>after September 5 2016</small></div>
 	      		</div>
 	            <div class="panel-body">
     				<p>
