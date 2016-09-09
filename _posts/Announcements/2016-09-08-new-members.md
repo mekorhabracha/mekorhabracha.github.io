@@ -8,4 +8,4 @@ layout: post
 media: Announcement
 ---
  
-Welcome to new members Emily Levine, Sammy Blivaiss, Daniel Raiken, Josh Dredze, Talia Berday-Sacks, Benny Sternberg, Lisa & Gennady Vayl, and Brian Fromm & Sarah Epstein, Thank you for joining the Mekor Habracha community!
+Welcome to new members Emily Levine, Sammy Blivaiss, Daniel Raiken, Josh Dredze, Talia Berday-Sacks, Benny Sternberg, Lisa and Gennady Vayl, Brian Fromm and Sarah Epstein, and Ayelet Seed. Thank you for joining the Mekor Habracha community!
