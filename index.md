@@ -49,8 +49,8 @@ icons:
     text: Donate to Mekor
     link: contribute/donate.html
 alert:
-  text: "Join us in Mekor's Second Annual Gala!"
+  text: " "
   type: warning
-  link: 'http://www.mekorgala.com'
+  link: ''
 ---
 
