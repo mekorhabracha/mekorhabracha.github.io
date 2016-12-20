@@ -49,7 +49,9 @@ icons:
     text: Donate to Mekor
     link: contribute/donate.html
 alert:
-  text: " "
+  text: "Make an End-of-Year Donation!
+
+Before the end of 2016, please consider making a tax-deductible donation to Mekor Habracha, including payment of your membership dues. "
   type: warning
   link: ''
 ---
