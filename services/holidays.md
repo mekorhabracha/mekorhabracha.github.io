@@ -1,5 +1,5 @@
 ---
-title: High Holidays 5777
+title:  Chanukah 5777
 layout: page
 area: learning
 ---
@@ -7,61 +7,6 @@ area: learning
 The High Holidays are right around the corner! Limited reservations for services at Mekor Habracha will be accepted on a first come, first served basis. 
 
 <div class="container-fluid">
-	<div class="row">
-	 	<div class="col-lg-6">
-      		<div class="panel panel-default">
-	      		<div class="panel-heading">
-	      			<h3 class="panel-title text-center">Members</h3>
-	      		</div>
-	            <div class="panel-body">
-            		<p>
-            			<div class="row">
-            				<div class="col-lg-12 text-left">
-		            			<a href="{{site.url}}/about/become-member.html">Synagogue members</a> who make a reservation attend all High Holiday services free of charge.
-            				</div>
-        				</div>
-					</p>
-            		<p>
-            			<div class="row">
-            				<div class="col-lg-12 text-left">
-            					Reservations are opt-in: members must reserve seats by <a href="mailto:mekorhabracha@gmail.com">emailing the shul</a>.
-            				</div>
-            			</div>
-            		</p>
-					<div class="text-center">
-						<a class="btn btn-warning" href="{{ site.baseurl }}/about/become-member.html" role="button">Become member</a> 
-						&nbsp;&nbsp;&nbsp;
-						<a class="btn btn-warning" href="mailto:mekorhabracha@gmail.com">Reserve your seats</a>
-					</div>
-	            </div>
-            </div>
-	 	</div>
-	 	<div class="col-lg-6">
-      		<div class="panel panel-default">
-	      		<div class="panel-heading">
-	      			<h3 class="panel-title text-center">Non-Members / Guests of Members</h3>
-	      		</div>
-	            <div class="panel-body">
-    				<p>
-	    				<div class="row">
-	    					<div class="col-lg-6 text-left">All of Rosh Hashana</div>
-	    					<div class="col-lg-6 text-right">$225 per person<br/>$125 per student</div>
-						</div>
-					</p>
-					<p>
-	    				<div class="row">
-	    					<div class="col-lg-6 text-left">All of Yom Kippur</div>
-	    					<div class="col-lg-6 text-right">$225 per person<br/>$125 per student</div>
-						</div>
-					</p>
-					<div class="text-center">
-						<a class="btn btn-warning" href="mailto:mekorhabracha@gmail.com">Purchase your tickets</a>
-					</div>
-
-	            </div>
-            </div>
-	 	</div>
-	</div>
 	<div class="row">
 		<div class="col-lg-12">
       		<div class="panel panel-primary">
