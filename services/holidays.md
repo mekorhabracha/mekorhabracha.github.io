@@ -14,9 +14,9 @@ area: learning
 <table style="width: 100%; height: 61px; margin-left: auto; margin-right: auto;">
 <tbody>
 <tr>
-<td>Saturday Dec. 24 (24 Kislev)</td>
-<td>Sunday Dec. 25 (25 Kislev)</td>
-<td>Monday Dec. 26 (26 Kislev)</td>
+<td><strong>Saturday Dec. 24 (24 Kislev)</strong></td>
+<td><strong>Sunday Dec. 25 (25 Kislev)</strong></td>
+<td><strong>Monday Dec. 26 (26 Kislev)</strong></td>
 </tr>
 <tr>
 <td>Candle Light Time 4:00pm</td>
@@ -34,9 +34,14 @@ area: learning
 <td>&nbsp;</td>
 </tr>
 <tr>
-<td>Tuesday Dec. 27 (27 Kislev)</td>
-<td>Wednesday Dec. 28 (28 Kislev)</td>
-<td>Thursday Dec. 29 (29 Kislev)</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td><strong>Tuesday Dec. 27 (27 Kislev)</strong></td>
+<td><strong>Wednesday Dec. 28 (28 Kislev)</strong></td>
+<td><strong>Thursday Dec. 29 (29 Kislev)</strong></td>
 </tr>
 <tr>
 <td>&nbsp;Day 3</td>
@@ -54,9 +59,14 @@ area: learning
 <td>&nbsp;</td>
 </tr>
 <tr>
-<td>Friday Dec. 30 (1 Tevet)</td>
-<td>&nbsp;Saturday&nbsp;Dec. 31 (2 Tevet)</td>
-<td>&nbsp;Sunday Jan. 1 (3 Tevet)</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td><strong>Friday Dec. 30 (1 Tevet)</strong></td>
+<td><strong>&nbsp;Saturday&nbsp;Dec. 31 (2 Tevet)</strong></td>
+<td><strong>&nbsp;Sunday Jan. 1 (3 Tevet)</strong></td>
 </tr>
 <tr>
 <td>&nbsp;Day 1</td>
@@ -70,10 +80,6 @@ area: learning
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 </div>
 </div>
 </div>
