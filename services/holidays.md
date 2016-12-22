@@ -39,6 +39,11 @@ area: learning
 <td>&nbsp;</td>
 </tr>
 <tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
 <td><strong>Tuesday Dec. 27 (27 Kislev)</strong></td>
 <td><strong>Wednesday Dec. 28 (28 Kislev)</strong></td>
 <td><strong>Thursday Dec. 29 (29 Kislev)</strong></td>
@@ -64,6 +69,11 @@ area: learning
 <td>&nbsp;</td>
 </tr>
 <tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
 <td><strong>Friday Dec. 30 (1 Tevet)</strong></td>
 <td><strong>&nbsp;Saturday&nbsp;Dec. 31 (2 Tevet)</strong></td>
 <td><strong>&nbsp;Sunday Jan. 1 (3 Tevet)</strong></td>
@@ -77,6 +87,21 @@ area: learning
 <td>Candle Light Time 4:00 pm&nbsp;</td>
 <td>Candle Light Time 4:00 pm&nbsp;&nbsp;</td>
 <td>&nbsp;Candle Light Time 4:00 pm&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
 </tr>
 </tbody>
 </table>
