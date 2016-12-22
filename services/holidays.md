@@ -19,14 +19,14 @@ area: learning
 <td><strong>Monday Dec. 26 (26 Kislev)</strong></td>
 </tr>
 <tr>
-<td>Candle Light Time 4:00pm</td>
+<td></td>
 <td>Day 1</td>
 <td>&nbsp;Day 2</td>
 </tr>
 <tr>
 <td>&nbsp;</td>
-<td>Candle Light Time 4:00 pm&nbsp;</td>
-<td>&nbsp;Candle Light Time 4:00 pm</td>
+<td> pm&nbsp;</td>
+<td>&nbsp;</td>
 </tr>
 <tr>
 <td>&nbsp;</td>
@@ -50,13 +50,13 @@ area: learning
 </tr>
 <tr>
 <td>&nbsp;Day 3</td>
-<td>&nbsp;Day 1</td>
-<td>&nbsp;Day 1</td>
+<td>&nbsp;Day 4</td>
+<td>&nbsp;Day 5</td>
 </tr>
 <tr>
-<td>&nbsp;Candle Light Time 4:00 pm&nbsp;</td>
-<td>&nbsp;Candle Light Time 4:00 pm&nbsp;</td>
-<td>&nbsp;Candle Light Time 4:00 pm&nbsp;</td>
+<td>&nbsp;&nbsp;</td>
+<td>&nbsp;&nbsp;</td>
+<td>&nbsp;&nbsp;</td>
 </tr>
 <tr>
 <td>&nbsp;</td>
@@ -79,14 +79,14 @@ area: learning
 <td><strong>&nbsp;Sunday Jan. 1 (3 Tevet)</strong></td>
 </tr>
 <tr>
-<td>&nbsp;Day 1</td>
-<td>&nbsp;Day 1</td>
-<td>&nbsp;Day 1</td>
+<td>&nbsp;Day 6</td>
+<td>&nbsp;Day 7</td>
+<td>&nbsp;Day 8</td>
 </tr>
 <tr>
-<td>Candle Light Time 4:00 pm&nbsp;</td>
-<td>Candle Light Time 4:00 pm&nbsp;&nbsp;</td>
-<td>&nbsp;Candle Light Time 4:00 pm&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;&nbsp;</td>
+<td>&nbsp;&nbsp;</td>
 </tr>
 <tr>
 <td>&nbsp;</td>
