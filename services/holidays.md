@@ -25,7 +25,7 @@ area: learning
 </tr>
 <tr>
 <td>&nbsp;</td>
-<td> pm&nbsp;</td>
+<td> &nbsp;</td>
 <td>&nbsp;</td>
 </tr>
 <tr>
