@@ -1,11 +1,24 @@
-<p>--- title: Chanukah 5777 layout: page area: learning --- The High Holidays are right around the corner! Limited reservations for services at Mekor Habracha will be accepted on a first come, first served basis.</p>
+---
+title: High Holidays 5777
+layout: page
+area: learning
+---
+
+The High Holidays are right around the corner! Limited reservations for services at Mekor Habracha will be accepted on a first come, first served basis. 
+
 <div class="container-fluid">
 <div class="row">
-<div class="col-lg-12">
-<div class="panel panel-primary">
+<div class="col-lg-6">
+<div class="panel panel-default">
 <div class="panel-heading">
 <h3 class="panel-title text-center">Rosh Hashana Schedule</h3>
 </div>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="col-lg-12">
+<div class="panel panel-primary">
 <div class="panel-body">
 <div class="row">
 <div class="col-lg-4">
