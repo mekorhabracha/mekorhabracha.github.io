@@ -9,9 +9,9 @@ area: learning
 <div class="col-lg-12">
 <div class="panel panel-primary">
 <div class="panel-heading">
-<h3 class="panel-title text-center">Rosh Hashana Schedule</h3>
+<h3 class="panel-title text-center">Chanukkah Schedule</h3>
 <p>&nbsp;</p>
-<table>
+<table style="width: 100%; margin-left: auto; margin-right: auto;">
 <tbody>
 <tr>
 <td>Saturday Dec. 24 (24 Kislev)</td>
