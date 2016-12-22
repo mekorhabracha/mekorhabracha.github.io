@@ -6,88 +6,34 @@ area: learning
 
 
 <div class="row">
-<div class="col-lg-6">
-<div class="panel panel-default">
-<div class="panel-heading">
-<h3 class="panel-title text-center">&nbsp;</h3>
-</div>
-</div>
-</div>
-</div>
-<div class="row">
 <div class="col-lg-12">
 <div class="panel panel-primary">
 <div class="panel-heading">
 <h3 class="panel-title text-center">Rosh Hashana Schedule</h3>
-</div>
-<div class="panel-body">
-<div class="row">
-<div class="col-lg-4">
-<h4 class="text-center">Sunday, October 2</h4>
-<div class="row">
-<div class="col-lg-8 text-left">Candle lighting</div>
-<div class="col-lg-4 text-right">6:21pm</div>
-</div>
-</div>
-<div class="col-lg-4">
-<h4 class="text-center">Monday, October 3</h4>
-<div class="row">
-<div class="col-lg-8 text-left">Morning services</div>
-<div class="col-lg-4 text-right">9:00am</div>
-</div>
-</div>
-<div class="col-lg-4">
-<h4 class="text-center">Tuesday, October 4</h4>
-<div class="row">
-<div class="col-lg-8 text-left">Morning services</div>
-<div class="col-lg-4 text-right">9:00am</div>
-</div>
-</div>
-<div class="col-lg-4">
-<h4 class="text-center">Tuesday, October 4</h4>
-<div class="row">
-<div class="col-lg-8 text-left">Morning services</div>
-<div class="col-lg-4 text-right">9:00am</div>
-</div>
-</div>
-<div class="col-lg-4">
-<h4 class="text-center">Tuesday, October 4</h4>
-<div class="row">
-<div class="col-lg-8 text-left">Morning services</div>
-<div class="col-lg-4 text-right">9:00am</div>
-</div>
-</div>
-<div class="col-lg-4">
-<h4 class="text-center">Tuesday, October 4</h4>
-<div class="row">
-<div class="col-lg-8 text-left">Morning services</div>
-<div class="col-lg-4 text-right">9:00am</div>
-</div>
-</div>
-<div class="col-lg-4">
-<h4 class="text-center">Tuesday, October 4</h4>
-<div class="row">
-<div class="col-lg-8 text-left">Morning services</div>
-<div class="col-lg-4 text-right">9:00am</div>
-</div>
-</div>
-<div class="col-lg-4">
-<h4 class="text-center">Tuesday, October 4</h4>
-<div class="row">
-<div class="col-lg-8 text-left">Morning services</div>
-<div class="col-lg-4 text-right">9:00am</div>
-</div>
-</div>
-<div class="col-lg-4">
-<h4 class="text-center">Tuesday, October 4</h4>
-<div class="row">
-<div class="col-lg-8 text-left">Morning services</div>
-<div class="col-lg-4 text-right">9:00am</div>
-</div>
-</div>
-
-  </div>
-</div>
+<p>&nbsp;</p>
+<table>
+<tbody>
+<tr>
+<td>Saturday Dec. 24 (24 Kislev)</td>
+<td>Sunday Dec. 25 (25 Kislev)</td>
+<td>Monday Dec. 26 (26 Kislev)</td>
+</tr>
+<tr>
+<td>Candle Light Time 4:00pm</td>
+<td>Day 1</td>
+<td>&nbsp;Day 2</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>Candle Light Time 4:00 pm&nbsp;</td>
+<td>&nbsp;Candle Light Time 4:00 pm</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 </div>
 </div>
 </div>
