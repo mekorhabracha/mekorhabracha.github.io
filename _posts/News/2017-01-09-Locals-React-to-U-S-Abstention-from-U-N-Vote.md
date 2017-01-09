@@ -5,7 +5,7 @@ section: inthenews
 link: http://jewishexponent.com/2017/01/05/locals-react-u-s-abstention-un-vote/
 author: Rachel Kurland
 media: Jewish Exponent
-meta: 
+meta: Quotes Rabbi Hirsch
 expires_on: ''
 frontpage: false
 layout: post
