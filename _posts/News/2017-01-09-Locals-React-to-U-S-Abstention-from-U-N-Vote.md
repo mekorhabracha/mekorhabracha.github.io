@@ -84,4 +84,5 @@ In contrast to Obama and the U.N., Bender praised Netanyahu as a “real leader�
 “ZOA has, for years, foreseen this potential outcome with the Obama administration,” he added. “What is really upsetting as an American — not just as a Jew — is to see an administration that’s completely unaccountable.
 
 “[This resolution] can’t be undone so easily.” 
+
 Contact: rkurland@jewishexponent.com; 215-832-0737
