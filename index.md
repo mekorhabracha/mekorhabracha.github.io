@@ -49,9 +49,9 @@ icons:
     text: Donate to Mekor
     link: contribute/donate.html
 alert:
-  text: "Make an End-of-Year Donation!
+  text: "Join us NEXT SHABBAT,January 28 for our FANTASY FOOTBALL LEAGUE KIDDUSH, which will feature a meat cholent.
 
-Before the end of 2016, please consider making a tax-deductible donation to Mekor Habracha, including payment of your membership dues. "
+Congratulations to the winners: Erik Schneimann & Andrew Feigenblatt!"
   type: warning
   link: ''
 ---
