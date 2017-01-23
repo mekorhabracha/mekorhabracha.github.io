@@ -49,9 +49,9 @@ icons:
     text: Donate to Mekor
     link: contribute/donate.html
 alert:
-  text: "Join us NEXT SHABBAT,January 28 for our FANTASY FOOTBALL LEAGUE KIDDUSH, which will feature a meat cholent.
+  text: "Join us NEXT SHABBAT,JANUARY 28 for our FANTASY FOOTBALL LEAGUE KIDDUSH, which will feature a meat cholent.
 
-Congratulations to the winners: Erik Schneimann & Andrew Feigenblatt!"
+Congratulations to the winners of the Kiddush Cup: Erik Schneimann & Andrew Feigenblatt!"
   type: warning
   link: ''
 ---
