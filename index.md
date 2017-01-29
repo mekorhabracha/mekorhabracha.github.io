@@ -49,9 +49,9 @@ icons:
     text: Donate to Mekor
     link: contribute/donate.html
 alert:
-  text: "Join us NEXT SHABBAT,JANUARY 28 for our FANTASY FOOTBALL LEAGUE KIDDUSH, which will feature a meat cholent.
+  text: "SCHOLAR in RESIDENCE ~ FRIDAY NIGHT, FEBRUARY 10 ~ Mekor & the Akiba/Barrack Alumni Association will host Rabbi Will Keller, the Director of Jewish Life at Barrack. There will be dinner & an Oneg Shabbat, by reservation only.
 
-Congratulations to the winners of the Kiddush Cup: Erik Schneiman & Andrew Feigenblatt!"
+SAVE the DATE! Details to follow.!"
   type: warning
   link: ''
 ---
