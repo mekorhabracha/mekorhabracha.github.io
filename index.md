@@ -51,8 +51,8 @@ icons:
 alert:
   text: "SCHOLAR in RESIDENCE ~ FRIDAY NIGHT, FEBRUARY 10 ~ Mekor & the Akiba/Barrack Alumni Association will host Rabbi Will Keller, the Director of Jewish Life at Barrack. There will be dinner & an Oneg Shabbat, by reservation only.
 
-SAVE the DATE! Details to follow."
+"
   type: warning
-  link: ''
+  link: 'http://alumni.jbha.org/events/alumni-shabbat-at-mekor-habracha-synangogue/'
 ---
 
