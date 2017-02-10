@@ -4,7 +4,7 @@ date: 2016-11-01 00:00:00 Z
 section: rabbisdesk
 link: https://www.jofa.org/sites/default/files/uploaded_documents/147923_journal_fall_2016rev_.pdf
 author: Rabbi Eliezer Hirsch
-media: jofa.org
+media: JOFA Journal
 meta: 
 expires_on: 
 frontpage: true
