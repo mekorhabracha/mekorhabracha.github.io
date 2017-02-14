@@ -18,7 +18,7 @@ An emergency Physician, trained at Philadelphia's prestigious Thomas Jefferson U
 A lawyer with the firm McLaughlin & Lauricella. Bethany grew up in Philadelphia, is a Temple University Law School graduate and has lived in Center City since beginning law school in 2003.
 
 #### Dr. Claire Raab
-An internist and Associate Professor at University of Pennsylvania Hospital. Originally from Cherry Hill, NJ, Claire has lived in Center City since attending Jefferson Medical School in 2004.  Claire and her husband Jordan Goldhammer have three children: Simone, Joel, and Dean.
+An internist and Associate Professor at University of Pennsylvania Hospital. Originally from Cherry Hill, NJ, Claire has lived in Center City since attending Jefferson Medical School in 2004.  Claire and her husband Dr. Jordan Goldhammer have three children: Simone, Joel, and Dean.
 
 #### [Dr. Bruce Taubman](mailto:Taubman@earthlink.net)
 A pediatrician with a practice in Cherry Hill, New Jersey. He has lived in Center City since 1972 and is the synagogue's president.
