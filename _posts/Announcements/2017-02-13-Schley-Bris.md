@@ -1,8 +1,8 @@
 ---
 title: Schley Bris-Wed, Feb.15 
-date: 2017-02-13 00:00:00 Z
+date: 2017-02-13 00:00:00 UTC
 section: bulletinboard
-until: 2017-02-0 25:00:00 Z
+until: 2017-02-16 00:00:00 UTC
 frontpage: true
 layout: post
 media: Announcement
