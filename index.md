@@ -49,7 +49,7 @@ icons:
     text: Donate to Mekor
     link: contribute/donate.html
 alert:
-  text: "SHABBAT ACROSS THE CITY ~ SHABBAT LUNCH, FEBRUARY 25 ~ Sign up as a guest for Mekor Habracha's next Shabbat Across the City program, a wonderful to meet people in our community.
+  text: "SHABBAT ACROSS THE CITY ~ SHABBAT LUNCH, FEBRUARY 25 ~ Sign up as a guest for Mekor Habracha's next Shabbat Across the City program, a wonderful way to meet people in our community.
 
 "
   type: warning
