@@ -1,7 +1,7 @@
 ---
 title: Purim at Mekor Habracha
 layout: page
-area: learning
+area: services
 ---
 
 ### Matanot L'evyonim
