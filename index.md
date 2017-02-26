@@ -49,10 +49,10 @@ icons:
     text: Donate to Mekor
     link: contribute/donate.html
 alert:
-  text: "SHABBAT ACROSS THE CITY ~ SHABBAT LUNCH, FEBRUARY 25 ~ Sign up as a guest for Mekor Habracha's next Shabbat Across the City program, a wonderful way to meet people in our community.
+  text: "CELEBRATE PURIM with MEKOR HABRACHA! Join us SATURDAY NIGHT, MARCH 11 for our PURIM PARTY, featuring our amazing band, MOMENTS OF WRONG!
 
-"
+" 
   type: warning
-  link: 'http://mekorhabracha.org/2017/02/13/Satc.html'
+  link: 'http://mekorhabracha.org/2017/02/25/Purim-at-Mekor-Habracha.html'
 ---
 
