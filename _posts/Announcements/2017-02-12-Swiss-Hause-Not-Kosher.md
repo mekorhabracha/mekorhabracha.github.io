@@ -2,7 +2,7 @@
 title: Swiss Haus Bakery NOT KOSHER 
 date: 2017-02-13 00:00:00 UTC
 section: bulletinboard
-until: 2017-02-25 00:00:00 UTC
+until: 2017-03-09 00:00:00 UTC
 frontpage: true
 layout: post
 media: Announcement
