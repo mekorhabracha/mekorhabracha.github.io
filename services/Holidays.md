@@ -1,5 +1,5 @@
 ---
-title: Purim Information
+title: Purim at Mekor Habracha
 layout: page
 area: learning
 ---
