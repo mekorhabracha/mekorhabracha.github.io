@@ -9,7 +9,7 @@ media: Announcement
 ---
 
 SECOND SEDER AT THE SHUL ~~ 
-Mekor Habracha will be hosting a community Pesach seder led by Rabbi Hirsch on the second night of Passover, Tuesday, April 11. The cost is $50 per person ($53 if using PayPal), children free, cost adjustments available. If you are interested in attending, please RSVP to the shul email ASAP & send payment no later than Wednesday March 29.  To pay, use Venmo, PayPal, or send a check to Mekor Habracha, c/o Ellen Geller, 768 N.Croskey St, Phila, PA 19130.
+Mekor Habracha will be hosting a community Pesach seder led by Rabbi Hirsch on the second night of Passover, Tuesday, April 11, at 7:45pm. The cost is $50 per person ($53 if using PayPal), children free, cost adjustments available. If you are interested in attending, please RSVP to the shul email ASAP & send payment no later than Wednesday March 29.  To pay, use Venmo, PayPal, or send a check to Mekor Habracha, c/o Ellen Geller, 768 N.Croskey St, Phila, PA 19130.
 
 PESACH WITHOUT the PAIN - Rabbi Hirsch's Class on the Laws of Pesach ~~
 Rabbi Hirsch will be teaching his annual class on "Pesach Without The Pain: A Practical Guide for the Laws of Passover" on Thursday, March 30 at 7:00 PM and on Shabbat, April 8 at 6 PM. Everyone is welcome to attend. 
