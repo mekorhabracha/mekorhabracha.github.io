@@ -13,7 +13,7 @@ Since it was founded in 2007, the Shul has attracted, and continues to attract a
 
 ### Our History
 
-Mekor Habracha emerged from a 1990s independent *chavura* in the Rittenhouse Square area of Philadelphia. From 1999 to 2001 the group met under the auspices of [Etz Chaim](http://www.etzchaimcenter.org), and reverted to being mainly lay-led until 2006, when Etz Chaim recruited [Rabbi Eliezer Hirsch](our-rabbi.html) from New York to lead the group. Since Rabbi Hirsch's arrival, the congregation has grown and flourished, eventually becoming an independent synagogue in 2008, and is now a critical contributing organization to the advancement of Jewish life in Center City.
+Mekor Habracha emerged from a 1990s independent *chavura* in the Rittenhouse Square area of Philadelphia. From 1999 to 2001 the group met under the auspices of [Etz Chaim](http://www.etzchaimcenter.org), and reverted to being mainly lay-led until 2006, when Etz Chaim recruited [Rabbi Eliezer Hirsch](our-rabbi.html) from New York to lead the group. Since Rabbi Hirsch's arrival, the congregation has grown and flourished, eventually becoming an independent synagogue in 2007, and is now a critical contributing organization to the advancement of Jewish life in Center City.
 
 ### Our Mission
 
