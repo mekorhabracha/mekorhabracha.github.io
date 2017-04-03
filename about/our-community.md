@@ -2,13 +2,14 @@
 title: Our Community
 layout: page
 area: community
+published: true
 ---
 
 ### Who We Are
 
 Mekor Habracha is a vibrant and inclusive congregation located in Center City, Philadelphia. We have a diverse membership from all across the city, and visitors, whether local residents or out-of-towners, are always welcome.
 
-Since it was founded in 2008, the Shul has attracted, and continues to attract a diverse group of people including students, young professionals, newlyweds, families and empty nesters. We offer a range of religious, educational and social activities, as well as plenty of opportunities for community members to get involved. 
+Since it was founded in 2007, the Shul has attracted, and continues to attract a diverse group of people including students, young professionals, newlyweds, families and empty nesters. We offer a range of religious, educational and social activities, as well as plenty of opportunities for community members to get involved. 
 
 ### Our History
 
