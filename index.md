@@ -49,7 +49,7 @@ icons:
     text: Donate to Mekor
     link: contribute/donate.html
 alert:
-  text: "CELEBRATE PESACH with MEKOR HABRACHA ~ We will be hosting a community Pesach seder led by Rabbi Eliezer Hirsch on the second night of Passover, Tuesday, April 11, at 7:45pm. For info about this seder & other Pesach info, click on this paragraph.
+  text: "CELEBRATE PESACH with MEKOR HABRACHA ~ For Pesach info, click on this paragraph.
 
 " 
   type: warning
