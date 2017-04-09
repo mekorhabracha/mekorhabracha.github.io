@@ -3,29 +3,36 @@ title: Pesach at Mekor Habracha
 layout: page
 area: services
 ---
-
-THIS WEEK'S CALENDAR
+### THIS WEEK'S CALENDAR
 
 Sunday,  April 9  
 9:00am ---  Shacharit
+
 8:17pm --- Bedikat Chametz time
 
 Monday, April 10   Erev Pesach
 6:45am — Shacharit, followed by Siyum Bechorim
+
 10:27am --- Latest time for Eating Chametz
+
 11:44am ---  Latest time for Burning/Disposing of Chametz
+
 7:00pm --- Evening Services
+
 7:16pm --- Candle lighting time
 
 Tuesday, April 11   Pesach Day 1
 9:15am --- Shacharit
-7:00pm --- Evening Services 
+
+7:00pm --- Evening Services
+
 AFTER 8:17pm --- Candle lighting time & Permissible to cook
-7:45pm--- Mekor Community 2d night Seder (by reservation only)
 
 Wednesday, April 12   Pesach Day 2
 9:15am --- Shacharit
+
 7:15pm --- Evening Services
+
 8:18pm --- Yom Tov End
 
 Thursday, April 13   Chol HaMoed 1
@@ -33,9 +40,11 @@ Thursday, April 13   Chol HaMoed 1
 
 Friday, April 14   Chol HaMoed 2
 6:45am --- Shacharit
+
 7:20pm --- Candle Lighting Time
-7:30pm ---  Mincha, Kabbalat Shabbat and Ma'ariv
-   
+
+7,:30pm ---  Mincha, Kabbalat Shabbat and Ma'ariv
+
 
 ### Maot Chitin
 
