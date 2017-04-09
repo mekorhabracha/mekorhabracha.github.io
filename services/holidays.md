@@ -5,13 +5,13 @@ area: services
 ---
 ### THIS WEEK'S CALENDAR
 
-Sunday,  April 9  
+SUNDAY,  APRIL 9  
 9:00am ---  Shacharit
 
 8:17pm --- Bedikat Chametz time
 
 
-Monday, April 10   Erev Pesach
+MONDAY, APRIL 10   EREV PESACH
 
 6:45am — Shacharit, followed by Siyum Bechorim
 
@@ -24,7 +24,7 @@ Monday, April 10   Erev Pesach
 7:16pm --- Candle lighting time
 
 
-Tuesday, April 11   Pesach Day 1
+TUESDAY, APRIL 11   PESACH DAY 1
 
 9:15am --- Shacharit
 
@@ -33,7 +33,7 @@ Tuesday, April 11   Pesach Day 1
 AFTER 8:17pm --- Candle lighting time & Permissible to cook
 
 
-Wednesday, April 12   Pesach Day 2
+WEDNESDAY, APRIL 12   PESACH DAY 2
 
 9:15am --- Shacharit
 
@@ -41,12 +41,12 @@ Wednesday, April 12   Pesach Day 2
 
 8:18pm --- Yom Tov End
 
-Thursday, April 13   Chol HaMoed 1
+THURSDAY, APRIL 13   CHOL HAMOED 1
 
 6:45am — Shacharit
 
 
-Friday, April 14   Chol HaMoed 2
+FRIDAY, APRIL 14   CHOL HAMOED 2
 
 6:45am --- Shacharit
 
