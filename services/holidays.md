@@ -12,6 +12,7 @@ Sunday,  April 9
 
 
 Monday, April 10   Erev Pesach
+
 6:45am — Shacharit, followed by Siyum Bechorim
 
 10:27am --- Latest time for Eating Chametz
