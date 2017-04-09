@@ -4,17 +4,38 @@ layout: page
 area: services
 ---
 
-### Second Seder at the Shul 
+#This Week's Calendar
 
-Mekor Habracha will be hosting a community Pesach seder led by Rabbi Hirsch on the second night of Passover, Tuesday, April 11, at 7:45pm. The cost is $50 per person ($53 if using PayPal), children free, cost adjustments available. If you are interested in attending, please RSVP to the shul email ASAP & send payment no later than Wednesday March 29.  To pay, use Venmo, PayPal, or send a check to Mekor Habracha, c/o Ellen Geller, 768 N.Croskey St, Phila, PA 19130.
+Sunday,  April 9  
+9:00am ---  Shacharit
+8:17pm --- Bedikat Chametz time
 
-### Pesach Without the Pain - Rabbi Hirsch's Class on the Laws of Pesach
+Monday, April 10   Erev Pesach
+6:45am — Shacharit, followed by Siyum Bechorim
+10:27am --- Latest time for Eating Chametz
+11:44am ---  Latest time for Burning/Disposing of Chametz
+7:00pm --- Evening Services
+7:16pm --- Candle lighting time
 
-Rabbi Hirsch will be teaching his annual class on "Pesach Without The Pain: A Practical Guide for the Laws of Passover" on Thursday, March 30 at 7:00 PM and on Shabbat, April 8 at 6 PM. Everyone is welcome to attend. 
+Tuesday, April 11   Pesach Day 1
+9:15am --- Shacharit
+7:00pm --- Evening Services 
+AFTER 8:17pm --- Candle lighting time & Permissible to cook
+7:45pm--- Mekor Community 2d night Seder (by reservation only)
 
-### Selling Chametz 
+Wednesday, April 12   Pesach Day 2
+9:15am --- Shacharit
+7:15pm --- Evening Services
+8:18pm --- Yom Tov End
 
-If you would like to to sell chametz through the shul, please email mekorhabracha@gmail.com with the name of the owner or renter and address of each location you would like to sell. IMPORTANT: please also indicate if you will NOT be on the US East Coast for the Passover holiday, and where you will be. Suggested donation to the shul is $18 per location. Deadline for submitting info is Wednesday, April 5.    
+Thursday, April 13   Chol HaMoed 1
+6:45am — Shacharit
+
+Friday, April 14   Chol HaMoed 2
+6:45am --- Shacharit
+7:20pm --- Candle Lighting Time
+7:30pm ---  Mincha, Kabbalat Shabbat and Ma'ariv
+   
 
 ### Maot Chitin
 
