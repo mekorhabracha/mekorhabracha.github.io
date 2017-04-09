@@ -10,7 +10,9 @@ Sunday,  April 9
 
 8:17pm --- Bedikat Chametz time
 
+
 Monday, April 10   Erev Pesach
+
 6:45am — Shacharit, followed by Siyum Bechorim
 
 10:27am --- Latest time for Eating Chametz
@@ -21,14 +23,18 @@ Monday, April 10   Erev Pesach
 
 7:16pm --- Candle lighting time
 
+
 Tuesday, April 11   Pesach Day 1
+
 9:15am --- Shacharit
 
 7:00pm --- Evening Services
 
 AFTER 8:17pm --- Candle lighting time & Permissible to cook
 
+
 Wednesday, April 12   Pesach Day 2
+
 9:15am --- Shacharit
 
 7:15pm --- Evening Services
@@ -36,14 +42,17 @@ Wednesday, April 12   Pesach Day 2
 8:18pm --- Yom Tov End
 
 Thursday, April 13   Chol HaMoed 1
+
 6:45am — Shacharit
 
+
 Friday, April 14   Chol HaMoed 2
+
 6:45am --- Shacharit
 
 7:20pm --- Candle Lighting Time
 
-7,:30pm ---  Mincha, Kabbalat Shabbat and Ma'ariv
+7:30pm ---  Mincha, Kabbalat Shabbat and Ma'ariv
 
 
 ### Maot Chitin
