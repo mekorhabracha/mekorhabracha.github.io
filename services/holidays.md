@@ -4,7 +4,7 @@ layout: page
 area: services
 ---
 
-#This Week's Calendar
+THIS WEEK'S CALENDAR
 
 Sunday,  April 9  
 9:00am ---  Shacharit
