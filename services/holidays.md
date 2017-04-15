@@ -22,30 +22,32 @@ SHABBAT, APRIL 15
 8:21pm --- Havdalah/Shabbat Ends
 
 
-SUNDAY, APRIL 16     Chol HaMoed 4
+SUNDAY, APRIL 16     Chol HaMoed 4  Omer 5
 
 9:15am --- Shacharit
 
-7:00pm --- Evening Services
-
 7:22pm --- Candle lighting time
 
+7:30pm --- Evening Services
 
-MONDAY, APRIL 17     PESACH DAY 7
+
+MONDAY, APRIL 17     PESACH DAY 7  Omer 6
 
 9:15am --- Shacharit, followed by a kosher for Pesach kiddush
 
-7:15pm --- Evening Services
+7:30pm --- Evening Services
 
 8:23pm --- Candle lighting time
 
 
 
-TUESDAY, APRIL 18     PESACH DAY 8
+TUESDAY, APRIL 18     PESACH DAY 8   Omer 7
 
 9:15am --- Shacharit, followed by a kosher for Pesach kiddush
 
 10:45am --- Yizkor
+
+7:30pm --- Evening Services
 
 8:24pm --- Havdalah/Pesach Ends
 
