@@ -49,10 +49,10 @@ icons:
     text: Donate to Mekor
     link: contribute/donate.html
 alert:
-  text: "CELEBRATE PESACH with MEKOR HABRACHA ~ For Pesach info, click on this paragraph.
+  text: "NEWLY KOSHER ~ the HEY HUMMUS restaurant at 2101 Chestnut Street, Phila, PA 19103. For more info, click on this paragraph.
 
 " 
   type: warning
-  link: 'http://mekorhabracha.org/services/holidays.html'
+  link: ' '
 ---
 
