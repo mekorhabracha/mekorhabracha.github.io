@@ -53,6 +53,6 @@ alert:
 
 " 
   type: warning
-  link: ' '
+  link: 'http://mekorhabracha.org/2017/04/23/HeyHummus.html '
 ---
 
