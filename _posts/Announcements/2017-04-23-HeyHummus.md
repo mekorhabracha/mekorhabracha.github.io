@@ -2,7 +2,7 @@
 title: NEWLY KOSHER - HEY HUMMUS restaurant
 date: 2017-04-23 00:00:00 UTC
 section: bulletinboard
-until: 2017-05-15 00:00:00 UTC
+until: 2017-05-11 00:00:00 UTC
 frontpage: true
 layout: post
 media: Announcement
