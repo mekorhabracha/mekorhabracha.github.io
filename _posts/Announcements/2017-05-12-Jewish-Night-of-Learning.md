@@ -1,5 +1,5 @@
 ---
-title: Jewish Night of Learning~ Tikkun Leil Shavuot
+title: JEWISH NIGHT of LEARNING~ Tikkun Leil Shavuot
 date: 2017-05-12 00:00:00 UTC
 section: bulletinboard
 until: 2017-06-01 00:00:00 UTC
