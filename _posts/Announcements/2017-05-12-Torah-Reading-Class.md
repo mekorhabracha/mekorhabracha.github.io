@@ -1,5 +1,5 @@
 ---
-title: "Torah Reading Class ~ Ta'amei Hamikra"
+title: "TORAH READING CLASS ~ Ta'amei Hamikra"
 date: 2017-05-12 00:00:00 Z
 section: bulletinboard
 until: 2017-05-30 00:00:00 Z
