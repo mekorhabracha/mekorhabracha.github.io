@@ -49,10 +49,11 @@ icons:
     text: Donate to Mekor
     link: contribute/donate.html
 alert:
-  text: "NEWLY KOSHER ~ the HEY HUMMUS restaurant at 2101 Chestnut Street, Phila, PA 19103. For more info, click here.
+  text: "NEW CLASS! TORAH READING ~ TA'AMEI HAMIKRA, Led by Dr. Yonatan Cohen.
+  Monday evenings, 7:30-8:30 PM. For more info, click here.
 
 " 
   type: warning
-  link: 'http://mekorhabracha.org/2017/04/23/HeyHummus.html '
+  link: 'http://mekorhabracha.org/2017/05/12/Torah-Reading-Class.html '
 ---
 
