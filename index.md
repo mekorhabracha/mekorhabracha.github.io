@@ -49,11 +49,11 @@ icons:
     text: Donate to Mekor
     link: contribute/donate.html
 alert:
-  text: "NEW CLASS! TORAH READING ~ TA'AMEI HAMIKRA, Led by Dr. Yonatan Cohen.
-  Monday evenings, 7:30-8:30 PM. For more info, click here.
+  text: "KASHRUT IN CENTER CITY -- THIS THURSDAY, 7-8 PM .
+  For more info, click here.
 
 " 
   type: warning
-  link: 'http://mekorhabracha.org/2017/05/12/Torah-Reading-Class.html '
+  link: 'http://mekorhabracha.org/2017/06/02/kashrut-in-center-city.html '
 ---
 
