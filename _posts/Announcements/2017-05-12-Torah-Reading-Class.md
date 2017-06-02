@@ -8,7 +8,7 @@ layout: post
 media: Announcement
 ---
  
-Mondays, May 15 & 22; June 5, 12, & 19, 7:30--8:30 pm
+Mondays, May 15 & 22; Thursday June 1, 7-8 pm; Mondays, June 19 & 26, 7:30--8:30 pm
 
 Led by Dr. Yonatan Cohen
 
