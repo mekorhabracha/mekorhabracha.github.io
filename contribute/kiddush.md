@@ -12,7 +12,7 @@ All special requests, including add-ons and cakes, must be made by the Wednesday
 
 Please be aware that we deliberately keep kiddush costs low to make sponsorship accessible to the whole community. We welcome multiple sponsorships on any given Shabbat or Yom Tov.
 
-We will be happy to accommodate any special requests --- just [let us know](mailto:kiddush@mekorhabracha.org) and we will inform you of the availability and cost.
+We will be happy to accommodate any special requests --- just [let us know](mailto:mekorkiddush@gmail.com) and we will inform you of the availability and cost.
 
 ### Add-ons
 
