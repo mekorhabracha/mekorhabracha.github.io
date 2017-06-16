@@ -49,11 +49,10 @@ icons:
     text: Donate to Mekor
     link: contribute/donate.html
 alert:
-  text: "KASHRUT IN CENTER CITY -- THIS THURSDAY, 7-8 PM .
-  For more info, click here.
+  text: "Boruch Dayan HaEmet -- We are saddened to inform the Mekor Habracha community of the passing of Musa bat Boruch Moshe v'Beila, mother of Bruce Taubman, Mekor member and Board President. May Bruce, Miriam & family be comforted among the mourners of Zion and Jerusalem. For Shiva info, click here.
 
 " 
   type: warning
-  link: 'http://mekorhabracha.org/2017/06/02/kashrut-in-center-city.html '
+  link: 'http://mekorhabracha.org/2017/06/16/Boruch-Dayan-HaEmet.html '
 ---
 
