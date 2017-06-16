@@ -1,12 +1,12 @@
 ---
-
-
-
-
-
-
-
-
+title: Boruch Dayan HaEmet
+date: 2017-06-16 00:00:00 UTC
+section: bulletinboard
+until: 2017-06-20 00:00:00 UTC
+frontpage: true
+layout: post
+media: Announcement
+---
 
 Boruch Dayan Ha'Emet
 
