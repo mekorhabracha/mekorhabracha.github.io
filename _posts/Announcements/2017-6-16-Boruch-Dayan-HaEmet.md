@@ -1,1 +1,16 @@
+---
 
+
+
+
+
+
+
+
+
+Boruch Dayan HaEmet
+
+We are saddened to inform the Mekor Habracha community of the passing on Wednesday of Musa bat Boruch Moshe v'Baila, mother of Mekor Habracha member and Board President, Bruce Taubman.
+Shiva will be observed beginning this Friday, June 16, at the Taubman home, 2041 Naudain Street, Philadelphia, PA 19146.  Mekor Habracha will hold Mincha/Ma'ariv at the Taubman home, Sunday June 18 - Tuesday June 20, at 8:15pm. 
+
+May Bruce, Miriam and family be comforted among the mourners of Zion and Jerusalem. 
