@@ -49,10 +49,10 @@ icons:
     text: Donate to Mekor
     link: contribute/donate.html
 alert:
-  text: "Boruch Dayan HaEmet -- We are saddened to inform the Mekor Habracha community of the passing of Musa bat Boruch Moshe v'Beila, mother of Bruce Taubman, Mekor Board President. May Bruce, Miriam & family be comforted among the mourners of Zion and Jerusalem. For Shiva info, click here.
+  text: "NEWLY KOSHER! We are please to announce that Goldie, a Center City vegan falafel shop, is now certified kosher under the Orthodox supervision of IKC. For more info, click here.
 
 " 
   type: warning
-  link: 'http://mekorhabracha.org/2017/06/16/Boruch-Dayan-HaEmet.html '
+  link: 'http://mekorhabracha.org/2017/06/16/Newly-Kosher.html '
 ---
 
