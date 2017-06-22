@@ -49,7 +49,7 @@ icons:
     text: Donate to Mekor
     link: contribute/donate.html
 alert:
-  text: "NEWLY KOSHER! We are please to announce that Goldie, a Center City vegan falafel shop, is now certified kosher under the Orthodox supervision of IKC. For more info, click here.
+  text: "NEWLY KOSHER! We are please to announce that Goldie, a Center City vegan falafel shop, is now certified kosher pareve under the Orthodox supervision of IKC. For more info, click here.
 
 " 
   type: warning
