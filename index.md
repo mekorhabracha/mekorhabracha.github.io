@@ -49,10 +49,13 @@ icons:
     text: Donate to Mekor
     link: contribute/donate.html
 alert:
-  text: "NEWLY KOSHER! We are pleased to announce that Goldie vegan falafel shop in Center City, is now certified kosher pareve under the Orthodox supervision of IKC. For more info, click here.
+  text: "Please join us for a Farewell Breakfast in honor of Josh Dredze, Zvi Rosen, & Matty Lichtenstein.
+This Thursday, June 29,following Shacharit. Josh & Zvi will also be making a siyum on Mesechet Ta'anit 
+& Sponsoring Third Meal,on the occasion of their last Shabbat with the Mekor Habracha community 
+This Shabbat, July 1.
 
 " 
   type: warning
-  link: 'http://mekorhabracha.org/2017/06/16/Newly-Kosher.html '
+  link: ' '
 ---
 
