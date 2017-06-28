@@ -49,10 +49,10 @@ icons:
     text: Donate to Mekor
     link: contribute/donate.html
 alert:
-  text: "Please join us for a Farewell Breakfast in honor of Josh Dredze, Zvi Rosen, & Matty Lichtenstein.
-This Thursday, June 29,following Shacharit. Josh & Zvi will also be making a siyum on Mesechet Ta'anit 
-& Sponsoring Third Meal,on the occasion of their last Shabbat with the Mekor Habracha community 
-This Shabbat, July 1.
+  text: "Please join us for a Farewell Breakfast in honor of Josh Dredze, Zvi Rosen, & Matty Lichtenstein,
+this THURSDAY, June 29,following Shacharit.  Josh & Zvi will also be making a siyum on Mesechet Ta'anit 
+& sponsoring Third Meal,on the occasion of their last Shabbat with the Mekor Habracha community, 
+this SHABBAT, July 1.
 
 " 
   type: warning
