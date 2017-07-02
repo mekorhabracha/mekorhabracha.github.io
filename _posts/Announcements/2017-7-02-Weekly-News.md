@@ -8,8 +8,8 @@ layout: post
 media: Announcement
 ---
 
-WEEKLY SHABBAT NEWSLETTER
+WEEKLY NEWSLETTER & EMAIL ANNOUNCEMENTS
 
-For our current newsletter, use this link:  http://us2.campaign-archive1.com/home/?u=f9fe87a16c42c24704c099073&id=94f3350887 
+For our current newsletterS & other email announcements, use this link:  http://us2.campaign-archive1.com/home/?u=f9fe87a16c42c24704c099073&id=94f3350887 
 
 If you would like to be placed on our newsletter mailing list, please email us at mekorhabracha@gmail.com
