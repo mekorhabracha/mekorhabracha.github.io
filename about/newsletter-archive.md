@@ -1,5 +1,5 @@
 ---
-title: For Current Weekly Newsletter See Announcements Icon on Home Page
+title: For Current Weekly Newsletter Use Announcements Icon on Home Page
 layout: page
 area: community
 ---
