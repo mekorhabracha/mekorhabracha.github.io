@@ -10,7 +10,7 @@ We are famous for our wonderful kiddush every Shabbat, but it doesn’t happen b
 
 Volunteering to set up kiddush is a great way to give back to the community. Please, consider signing up to make cholent before candle lighting or to setup and take down kiddush on Shabbat and Yom Tov.
 
-Please contact [our kiddush team](mailto:mekorkiddush@gmail.com) to volunteer or to send your suggestions and comments
+Please contact mekorkiddush@gmail.com to volunteer or to send your suggestions and comments
 
 ### Torah and Haftarah Reading
 
