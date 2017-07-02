@@ -1,5 +1,5 @@
 ---
-title:WEEKLY NEWSLETTER 
+title:SHABBAT NEWSLETTER 
 date: 2017-07-02 00:00:00 UTC
 section: bulletinboard
 until: 2017-07-07 00:00:00 UTC
@@ -8,7 +8,7 @@ layout: post
 media: Announcement
 ---
 
-WEEKLY NEWSLETTER
+WEEKLY SHABBAT NEWSLETTER
 
 For our current newsletter, use this link:   https://us2.admin.mailchimp.com/campaigns/show?id=2627861
 
