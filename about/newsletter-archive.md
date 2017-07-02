@@ -1,5 +1,5 @@
 ---
-title: For Current Weekly Newsletter Use Announcements Icon on Home Page
+title: For Current Weekly Newsletter Use This Link: use this link: http://us2.campaign-archive1.com/home/?u=f9fe87a16c42c24704c099073&id=94f3350887
 layout: page
 area: community
 ---
