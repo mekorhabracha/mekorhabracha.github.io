@@ -49,13 +49,13 @@ icons:
     text: Donate to Mekor
     link: contribute/donate.html
 alert:
-  text: "Please join us for a Farewell Breakfast in honor of Josh Dredze, Zvi Rosen, & Matty Lichtenstein,
-THIS THURSDAY, June 29,following Shacharit.  Josh & Zvi will also be making a siyum on Mesechet Ta'anit 
-& sponsoring Third Meal,on the occasion of their last Shabbat with the Mekor Habracha community, 
-THIS SHABBAT, July 1.
+  text: "MOSHAVE CONCERT - TICKETS ON SALE NOW!
+Wednesday, August 9, 7:30 PM (doors open at 7:00 PM)
+Gershman Y (401 South Broad Street) 
+Join Mekor Habracha for a special night with the Moshav Band, and opening act by Moments of Wrong. 100% of the profits will support Mekor Habracha.
 
 " 
   type: warning
-  link: ' '
+  link: ' https://www.eventbrite.com/e/moshav-band-concert-in-philadelphia-tickets-35609095764?aff=utm_source%3Deb_email%26utm_medium%3Demail%26utm_campaign%3Dnew_event_email&utm_term=eventurl_text'
 ---
 
