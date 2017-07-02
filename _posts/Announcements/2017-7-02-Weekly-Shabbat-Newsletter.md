@@ -1,11 +1,5 @@
 ---
-title:SHABBAT NEWSLETTER 
-date: 2017-07-02 00:00:00 UTC
-section: bulletinboard
-until: 2017-07-07 00:00:00 UTC
-frontpage: true
-layout: post
-media: Announcement
+
 ---
 
 WEEKLY SHABBAT NEWSLETTER
