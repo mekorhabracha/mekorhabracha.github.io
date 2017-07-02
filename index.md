@@ -49,10 +49,10 @@ icons:
     text: Donate to Mekor
     link: contribute/donate.html
 alert:
-  text: "MOSHAV CONCERT - TICKETS ON SALE NOW!
-Wednesday, August 9, 7:30 PM (doors open at 7:00 PM)
-Gershman Y (401 South Broad Street) 
-Join Mekor Habracha for a special night with the Moshav Band, and opening act by Moments of Wrong. 100% of the profits will support Mekor Habracha.
+  text: "MOSHAV CONCERT - WEDNESDAY, AUGUST 9, 7:30.
+  Gershman Y (401 South Broad Street)
+
+Join Mekor Habracha for a special night with the Moshav Band, and opening act by Moments of Wrong. 100% of the profits will support Mekor Habracha. TICKETS ON SALE NOW!
 
 " 
   type: warning
