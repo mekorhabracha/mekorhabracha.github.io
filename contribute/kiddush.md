@@ -6,7 +6,7 @@ area: contribute
 
 Sponsoring kiddush is a wonderful way to honor or remember friends and family, as well as to commemorate life cycle events.  If you would like to sponsor kiddush, please email the shul at mekorhabracha@gmail.com.
 
-The cost of a standard kiddush is $150 for Mekor members and $200 for non-members. This typically includes cholent, sweet and savory snacks, and drinks. By request, this may also include a celebratory cake.
+The cost of a standard kiddush is $175 for Mekor members and $200 for non-members. This typically includes cholent, sweet and savory snacks, and drinks. By request, this may also include a celebratory cake.
 
 All special requests, including add-ons and cakes, must be made by Monday at noon prior to the Shabbat being sponsored.
 
