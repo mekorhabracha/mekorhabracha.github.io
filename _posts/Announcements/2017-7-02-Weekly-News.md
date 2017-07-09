@@ -2,7 +2,7 @@
 title: WEEKLY NEWSLETTER
 date: 2017-07-02 00:00:00 UTC
 section: bulletinboard
-until: 2017-07-07 00:00:00 UTC
+until: 2017-12-07 00:00:00 UTC
 frontpage: true
 layout: post
 media: Announcement
