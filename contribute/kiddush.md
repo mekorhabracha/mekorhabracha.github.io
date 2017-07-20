@@ -18,13 +18,14 @@ We will be happy to accommodate any special requests --- just email the shul at 
 
 For an additional contribution (i.e, in addition to the cost of the standard kiddush), you can add any of the following to the standard kiddush:
 
-- Fresh bakery cakes, cookies and pastries **($225)**
-- Bagels and spreads (white fish salad, tuna, lox spread, cream cheese) **($325)**
+- Fresh bakery cakes, cookies and pastries **($250 members; $300 nonmembers)**
+- Bagels and spreads (white fish salad, tuna, cream cheese) **($500 members; $550 nonmembers)**
 - Cheese platter with fancy cheeses and crackers **(small $150, large $225)**
-- Fruit platter **(small $100, large $150)**
-- Vegetable platter **(small $100, large $150)**
+- Fruit platter **(small $100 members;$150 nonmembers, large $150 members; $200 nonmembers)**
+- Vegetable platter **(small $100 members; $150 nonmembers, large $150 members; $200 nonmembers)**
+- Ice cream kiddush **($100 members; $150 nonmembers)**
 
-[Mekor Habracha members]({{site.url}}/about/become-member.html) have a $25 cost discount over each of these items.
+[Mekor Habracha members]({{site.url}}/about/become-member.html) have a $50 cost discount.
 
 ### Third Meal
 
