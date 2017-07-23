@@ -23,25 +23,25 @@ Become a member today by filling out the [membership application form]({{site.ur
 	 	<div class="col-lg-offset-4 col-lg-4">
       		<div class="panel panel-default">
 	      		<div class="panel-heading">
-	      			<h3 class="panel-title text-center">Regular Dues for 5777</h3>
+	      			<h3 class="panel-title text-center">Regular Dues for 5778</h3>
 	      		</div>
 	            <div class="panel-body">
     				<p>
 	    				<div class="row">
 	    					<div class="col-lg-8 text-left">Students</div>
-	    					<div class="col-lg-4 text-right">$250</div>
+	    					<div class="col-lg-4 text-right">$300</div>
 						</div>
 					</p>
 					<p>
 	    				<div class="row">
 	    					<div class="col-lg-8 text-left">Singles</div>
-	    					<div class="col-lg-4 text-right">$450</div>
+	    					<div class="col-lg-4 text-right">$500</div>
 						</div>
 					</p>
 					<p>
 	    				<div class="row">
 	    					<div class="col-lg-8 text-left">Couples and families</div>
-	    					<div class="col-lg-4 text-right">$800</div>
+	    					<div class="col-lg-4 text-right">$900</div>
 						</div>
 					</p>
 	            </div>
@@ -51,7 +51,7 @@ Become a member today by filling out the [membership application form]({{site.ur
 </div>
 
 <p class="text-center">
-	<a class="btn btn-warning" href="{{site.url}}/pdf/MembershipApplication5777.doc" role="button">Become member today!</a> 
+	<a class="btn btn-warning" href="{{site.url}}/pdf/MembershipApplication5778.doc" role="button">Become member today!</a> 
 </p><br/>
 
 No one will be turned away for any reason. If you are unable to pay the full membership fee, we will work with you to make accommodations that will fit your budget. 
