@@ -56,4 +56,4 @@ Become a member today by filling out the [membership application form]({{site.ur
 
 No one will be turned away for any reason. If you are unable to pay the full membership fee, we will work with you to make accommodations that will fit your budget. 
 
-For information about a flexible payment plan, or for any question you have about membership, sponsorships or contributions to Mekor Habracha, please [send us an email](mailto:mekorhabracha@gmail.com). Do not hesitate to contact us. **All requests will remain confidential. **
+For information about a flexible payment plan, or for any question you have about membership, sponsorships or contributions to Mekor Habracha, please email mekorhabracha@gmail.com. Do not hesitate to contact us. **All requests will remain confidential. **
