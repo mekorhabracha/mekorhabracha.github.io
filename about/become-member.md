@@ -16,14 +16,14 @@ Mekor Habracha members...
 - ...can rent synagogue space at discounted rates (or, if the whole community is invited, even for free).
 - ...and much more!
 
-Become a member today by filling out the [membership application form]({{site.url}}/pdf/MembershipApplication5778.doc). To send your payment follow [these instructions]({{site.url}}/contribute/donate.html).
+Become a member today by emailing mekorhabracha@gmail.com for an application. To send your payment follow [these instructions]({{site.url}}/contribute/donate.html).
 
 <div class="container-fluid">
 	<div class="row">
 	 	<div class="col-lg-offset-4 col-lg-4">
       		<div class="panel panel-default">
 	      		<div class="panel-heading">
-	      			<h3 class="panel-title text-center">Regular Dues for 5778</h3>
+	      			<h3 class="panel-title text-center">Regular Dues for 5778 (2017-18)</h3>
 	      		</div>
 	            <div class="panel-body">
     				<p>
