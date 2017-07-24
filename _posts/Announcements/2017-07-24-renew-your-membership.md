@@ -22,4 +22,4 @@ FOR MORE INFORMATION, please email mekorhabracha@gmail.com.  You will also find 
 
 Please be aware that even with the rate increase, membership only covers a percentage of our budget, and we will still depend on your continued generosity beyond membership dues to cover our costs.
 
- We will continue to make all efforts to help our community flourish, and look forward to an exciting future for us all. Best wishes for a sweet New Year ahead!
+We will continue to make all efforts to help our community flourish, and look forward to an exciting future for us all. Best wishes for a sweet New Year ahead!
