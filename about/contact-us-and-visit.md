@@ -1,5 +1,5 @@
 ---
-title: Find Us Here
+title: Visitor & Contact Information
 layout: page
 area: community
 ---
