@@ -18,3 +18,6 @@ Mekor Habracha emerged from a 1990s independent *chavura* in the Rittenhouse Squ
 ### Our Mission
 
 The mission of Mekor Habracha is to serve the spiritual, social, and educational needs of Center City's diverse Jewish community. We aspire to provide an environment where people of all ages and religious backgrounds are welcome to participate in the synagogue's activities and Orthodox services.
+
+### Visitor Information
+
