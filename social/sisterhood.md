@@ -1,24 +1,26 @@
 ---
-title: Sisterhood
+title: Visitor Information
 layout: page
-area: programs
+area: About Mekor
 ---
 
-The Mekor Habracha Sisterhood is the organization of women of the congregation who come together for programs that benefit the shul and the community, for social activities, for study, and above all, for the growth of each individual so that each may find an opportunity to fulfill her potential as a person and as a Jewish woman. The Sisterhood's goals are to strengthen the community, offer support during transitional times, enhance the personal growth of women and broadly support the Mekor Habracha community.
 
-The Mekor Habracha Sisterhood was founded in 2014. Mekor Habracha Sisterhood currently has active committees focused on kiddush, hospitality, holidays, and social events. 
 
-It’s never too late to get involved! For more information or to become a member of the Mekor Habracha Sisterhood, please contact mekorsisterhood@gmail.com
+### Services at Mekor Habracha/Center City Synagogue
+Please check our Calendar (by clicking on the Homepage icon) for weekly service times.  Also feel free to email us at mekorhabracha@gmail.com if you would like additional information about our services or our shul.
 
-### Current Board
+### Hospitality Requests
+- If you are seeking a Shabbat meal, our Hospitality Committee will make every effort to help find a host.  To make a request, please email mekorhospitality@gmail.com, specifying which meal you are requesting, and how many adult & children will be accompanying you.
+- If we are not able to find a host, or you prefer to prepare food on your own, please email us at mekorhabracha@gmail.com to request a list of neighborhood grocery stores which carry kosher food.
+- Unfortunately, the Hospitality Committe cannot assist with requests for accommodations.  If you would like a list of nearby hotels, please email us at mekorhabracha@gmail.com.
+- If you would like any other information about Mekor Habracha or our Center City neighborhood for your visit, please do not hesitate to email us at mekorhabacha@gmail.com.
 
-Alexandra Hochster-Korman, Bracha Rosenstein, Leah Weiss and Rebecca Berliner
+### Kosher Restaurants in Center City
 
-### Activities
-- The Sisterhood works hard to ensure that each week our congregation enjoys a delicious hot *kiddush*. 
-- Our hospitality committee is committed to finding hosts for guests, both for meals and Shabbat accommodations, and ensures that community members are taken care of during times of need or transition. We recently expanded our community meal preparation and support for families welcoming new babies, *bikkur cholim*, *shiva* and *shloshim*.
-- The Mekor Sisterhood organizes fundraisers to benefit the synagogue:
-    - Each year we distribute Rosh Hashana cards to shul members and their loved ones for a sweet New Year.
-    - During Purim we prepare and distribute over 100 *mishloach manot* to our congregants and their friends and family.
+A list of restaurants, bakeries, etc. in Center City Philadelphia can be found under the Philadelphia tab, Eating Out.  Or email us at mekorhabracha@gmail.com to request our list.
+
+
+
+    
 
 
