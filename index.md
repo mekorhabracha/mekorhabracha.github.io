@@ -49,14 +49,12 @@ icons:
     text: Donate to Mekor
     link: contribute/donate.html
 alert:
-  text: "MOSHAV CONCERT - WEDNESDAY, AUGUST 9, at 7:30 PM.
+  text: "JOIN or RENEW YOUR MEMBERSHIP NOW! Mekor's membership year begins on Rosh Hashana, & everyone who has joined or renewed before then may attend all High Holiday services free of charge. Click here for info about Early Bird Rates.
   
- Gershman Y (401 South Broad Street).
-
-Join Mekor Habracha for a special night with the Moshav Band, and opening act by Moments of Wrong. 100% of the profits will support Mekor Habracha. TICKETS ON SALE NOW! For info & tickets, click on this announcement.
+ 
 
 " 
   type: warning
-  link: ' https://www.eventbrite.com/e/moshav-band-concert-in-philadelphia-tickets-35609095764?aff=utm_source%3Deb_email%26utm_medium%3Demail%26utm_campaign%3Dnew_event_email&utm_term=eventurl_text'
+  link: ' http://mekorhabracha.org/2017/07/24/renew-your-membership.html'
 ---
 
