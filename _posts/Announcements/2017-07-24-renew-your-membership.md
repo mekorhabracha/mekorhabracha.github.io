@@ -1,5 +1,5 @@
 ---
-title: Renew Your Membership Now!
+title: Join or Renew Your Membership Now!
 date: 2017-07-24 00:00:00 Z
 section: bulletinboard
 until: 2017-09-04 00:00:00 Z
@@ -8,7 +8,7 @@ layout: post
 media: Announcement
 ---
 
-Mekor Habracha membership expires on Rosh Hashana, so NOW is the time to renew! Rates will be going up, but you can still lock in the current rates if you pay IN FULL by LABOR DAY (Sept.4).  
+Mekor Habracha membership expires on Rosh Hashana, so NOW is the time to join or renew! Rates will be going up, but you can still lock in the current rates if you pay IN FULL by LABOR DAY (Sept.4).  
 
 MEMBERSHIP RATES:
 
