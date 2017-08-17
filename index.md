@@ -49,7 +49,7 @@ icons:
     text: Donate to Mekor
     link: contribute/donate.html
 alert:
-  text: "JOIN or RENEW YOUR MEMBERSHIP NOW! Mekor's membership year begins on Rosh Hashana, & everyone who has joined or renewed before then may attend all High Holiday services free of charge. Click here for info about Early Bird Rates.
+  text: "JOIN or RENEW YOUR MEMBERSHIP NOW! Mekor's membership year begins on Rosh Hashana, & everyone who has joined or renewed before then may attend all High Holiday services free of charge. Click here for info about Early Bird Membership Rates & High Holiday Guest Rates.
   
  
 
