@@ -12,6 +12,9 @@ WEDNESDAY,  SEPTEMBER 20    Erev Rosh Hashana/Eruv Tavshilin
 
 6:50pm ---  Mincha/Ma'ariv
 
+--------------------------
+
+
 
 
 THURSDAY, SEPTEMBER 21  Rosh Hashana Day 1
@@ -23,6 +26,9 @@ THURSDAY, SEPTEMBER 21  Rosh Hashana Day 1
 6:30pm --- Mincha/Ma'ariv
 
 AFTER 7:40pm --- Candle lighting time
+
+--------------------------
+
 
 
 
@@ -36,6 +42,8 @@ FRIDAY, SEPTEMBER 22  Rosh Hashana Day 2
 
 6:39pm --- Candle lighting time
 
+--------------------------
+
 
 
 SHABBAT, SEPTEMBER 23   Rosh Hashana/Shabbat Shuva   
@@ -44,7 +52,7 @@ SHABBAT, SEPTEMBER 23   Rosh Hashana/Shabbat Shuva
 
 6:30pm --- Mincha/Third Meal/Havdala
 
-
+--------------------------
 
 SUNDAY, SEPTEMBER 24   Tsom Gedlaia
 
@@ -55,6 +63,8 @@ SUNDAY, SEPTEMBER 24   Tsom Gedlaia
 5:30pm --- Mincha/Ma'ariv
 
 7:24pm --- Fast ends
+
+--------------------------
 
 
 
@@ -67,6 +77,8 @@ FRIDAY, SEPTEMBER 29  Erev Yom Kippur
 6:43pm --- Fast begins
 
 6:45pm --- Kol Nidre
+
+--------------------------
 
 
 
@@ -81,6 +93,8 @@ SHABBAT, SEPTEMBER 30  Yom Kippur
 6:00pm --- Neila, followed by Ma'ariv/Havdalah/Light break-fast
 
 7:25pm --- Fast ends
+
+--------------------------
 
 
 Best wishes for a sweet New Year ahead!
