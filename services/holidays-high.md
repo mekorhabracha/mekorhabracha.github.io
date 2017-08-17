@@ -51,7 +51,7 @@ The High Holidays are right around the corner! Limited reservations for services
 					<p>
 	    				<div class="row">
 	    					<div class="col-lg-6 text-left">All of Yom Kippur</div>
-	    					<div class="col-lg-6 text-right">$225 per person<br/>$125 per student</div>
+	    					<div class="col-lg-6 text-right">$250 per person<br/>$150 per student</div>
 						</div>
 					</p>
 					<div class="text-center">
