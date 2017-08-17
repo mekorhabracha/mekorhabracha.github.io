@@ -76,7 +76,7 @@ The High Holidays are right around the corner! Limited reservations for services
             				</h4>
             				<div class="row">
             					<div class="col-lg-8 text-left">Candle lighting</div>
-            					<div class="col-lg-4 text-right">6:21pm</div>
+            					<div class="col-lg-4 text-right">6:42pm</div>
         					</div>
             				<div class="row">
             					<div class="col-lg-8 text-left">Evening services</div>
@@ -101,7 +101,7 @@ The High Holidays are right around the corner! Limited reservations for services
         					</div>
             				<div class="row">
             					<div class="col-lg-6 text-left">Candle lighting</div>
-            					<div class="col-lg-6 text-right">after 7:20pm</div>
+            					<div class="col-lg-6 text-right">after 7:40pm</div>
         					</div>
 	            		</div>
 	            		<div class="col-lg-4">
@@ -122,7 +122,7 @@ The High Holidays are right around the corner! Limited reservations for services
         					</div>
             				<div class="row">
             					<div class="col-lg-8 text-left">Havdalah</div>
-            					<div class="col-lg-4 text-right">7:18pm</div>
+            					<div class="col-lg-4 text-right">7:2xpm</div>
         					</div>
 	            		</div>
 	            	</div>
@@ -144,7 +144,7 @@ The High Holidays are right around the corner! Limited reservations for services
             				</h4>
             				<div class="row">
             					<div class="col-lg-8 text-left">Candle lighting</div>
-            					<div class="col-lg-4 text-right">6:07pm</div>
+            					<div class="col-lg-4 text-right">6:27pm</div>
         					</div>
             				<div class="row">
             					<div class="col-lg-8 text-left">Kol Nidre</div>
@@ -173,7 +173,7 @@ The High Holidays are right around the corner! Limited reservations for services
         					</div>
             				<div class="row">
             					<div class="col-lg-8 text-left">Havdalah</div>
-            					<div class="col-lg-4 text-right">7:06pm</div>
+            					<div class="col-lg-4 text-right">7:26pm</div>
         					</div>
 	            		</div>
 	            	</div>
