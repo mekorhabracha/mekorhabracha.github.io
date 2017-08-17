@@ -72,7 +72,7 @@ The High Holidays are right around the corner! Limited reservations for services
 	            	<div class="row">
 	            		<div class="col-lg-4">
 	            			<h4 class="text-center">
-	            				Sunday, October 2
+	            				Wednesday, September 20
             				</h4>
             				<div class="row">
             					<div class="col-lg-8 text-left">Candle lighting</div>
@@ -85,7 +85,7 @@ The High Holidays are right around the corner! Limited reservations for services
 	            		</div>
 	            		<div class="col-lg-4">
 	            			<h4 class="text-center">
-	            				Monday, October 3
+	            				Thursday, September 21
             				</h4>
             				<div class="row">
             					<div class="col-lg-8 text-left">Morning services</div>
@@ -106,7 +106,7 @@ The High Holidays are right around the corner! Limited reservations for services
 	            		</div>
 	            		<div class="col-lg-4">
 	            			<h4 class="text-center">
-	            				Tuesday, October 4
+	            				Friday, September 22
             				</h4>
             				<div class="row">
             					<div class="col-lg-8 text-left">Morning services</div>
