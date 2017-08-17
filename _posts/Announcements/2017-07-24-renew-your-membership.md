@@ -24,7 +24,7 @@ HIGH HOLIDAY GUEST RATES:
 
 $250/person for all of Rosh Hashana; $250/person for all of Yom Kippur
 
-Student rate: $15/person for all of Rosh Hashana; $150/person for all of Yom Kippur
+Student rate: $150/person for all of Rosh Hashana; $150/person for all of Yom Kippur
 
 ----------------------------
 
