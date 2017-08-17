@@ -13,6 +13,7 @@ WEDNESDAY,  SEPTEMBER 20    Erev Rosh Hashana/Eruv Tavshilin
 6:50pm ---  Mincha/Ma'ariv
 
 
+
 THURSDAY, SEPTEMBER 21  Rosh Hashana Day 1
 
 9:00am — Shacharit, followed by kiddush
@@ -22,6 +23,7 @@ THURSDAY, SEPTEMBER 21  Rosh Hashana Day 1
 6:30pm --- Mincha/Ma'ariv
 
 AFTER 7:40pm --- Candle lighting time
+
 
 
 FRIDAY, SEPTEMBER 22  Rosh Hashana Day 2
@@ -35,11 +37,13 @@ FRIDAY, SEPTEMBER 22  Rosh Hashana Day 2
 6:39pm --- Candle lighting time
 
 
+
 SHABBAT, SEPTEMBER 23   Rosh Hashana/Shabbat Shuva   
 
 9:15am --- Shacharit, followed by kiddush
 
 6:30pm --- Mincha/Third Meal/Havdala
+
 
 
 SUNDAY, SEPTEMBER 24   Tsom Gedlaia
@@ -54,15 +58,30 @@ SUNDAY, SEPTEMBER 24   Tsom Gedlaia
 
 
 
-TUESDAY, APRIL 18     PESACH DAY 8   Omer 7
+FRIDAY, SEPTEMBER 29  Erev Yom Kippur
 
-9:15am --- Shacharit, followed by a kosher for Pesach kiddush
+8:45am --- Shacharit
 
-10:45am --- Yizkor
+3:00pm --- Mincha
 
-7:30pm --- Evening Services
+6:43pm --- Fast begins
 
-8:24pm --- Havdalah/Pesach Ends
+6:45pm --- Kol Nidre
 
-Best wishes for a happy and kosher Pesach!
+
+
+SHABBAT, SEPTEMBER 30  Yom Kippur
+
+9:00am --- Shacharit
+
+11:00am (approximately) --- Yizkor
+
+5:00pm --- Mincha
+
+6:00pm --- Neila, followed by Ma'ariv/Havdalah/Light break-fast
+
+7:25pm --- Fast ends
+
+
+Best wishes for a sweet New Year ahead!
 
