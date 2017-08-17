@@ -18,6 +18,16 @@ Single: Current rate $450   ($500 after Labor Day)
 
 Student: Current rate $250  ($300 after Labor Day)
 
+----------------------------
+
+HIGH HOLIDAY GUEST RATES:
+
+$250/person for all of Rosh Hashana; $250/person for all of Yom Kippur
+
+Student rate: $15/person for all of Rosh Hashana; $150/person for all of Yom Kippur
+
+----------------------------
+
 FOR MORE INFORMATION, please email mekorhabracha@gmail.com.  You will also find information [here]({{site.url}}/contribute/donate.html) about how to submit your payments.
 
 Please be aware that even with the rate increase, membership only covers a percentage of our budget, and we will still depend on your continued generosity beyond membership dues to cover our costs.
