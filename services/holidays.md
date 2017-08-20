@@ -45,15 +45,6 @@ FRIDAY, SEPTEMBER 22  Rosh Hashana Day 2
 --------------------------
 
 
-
-SHABBAT, SEPTEMBER 23   Rosh Hashana/Shabbat Shuva   
-
-9:15am --- Shacharit, followed by kiddush
-
-6:30pm --- Mincha/Third Meal/Havdala
-
---------------------------
-
 SUNDAY, SEPTEMBER 24   Tsom Gedlaia
 
 5:38am --- Fast begins
