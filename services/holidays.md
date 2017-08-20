@@ -45,13 +45,13 @@ FRIDAY, SEPTEMBER 22  Rosh Hashana Day 2
 --------------------------
 
 
-SUNDAY, SEPTEMBER 24   Tsom Gedlaia
+SUNDAY, SEPTEMBER 24   Tsom Gedalia
 
 5:38am --- Fast begins
 
 8:30am --- Shacharit
 
-5:30pm --- Mincha/Ma'ariv
+6:30pm --- Mincha/Ma'ariv
 
 7:24pm --- Fast ends
 
@@ -79,9 +79,9 @@ SHABBAT, SEPTEMBER 30  Yom Kippur
 
 11:00am (approximately) --- Yizkor
 
-5:00pm --- Mincha
+5:15pm --- Mincha
 
-6:00pm --- Neila, followed by Ma'ariv/Havdalah/Light break-fast
+6:15pm --- Neila, followed by Ma'ariv/Havdalah/Light break-fast
 
 7:25pm --- Fast ends
 
