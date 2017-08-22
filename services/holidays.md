@@ -6,6 +6,7 @@ area: services
 ### HIGH HOLIDAYS CALENDAR
 
 WEDNESDAY,  SEPTEMBER 20    Erev Rosh Hashana/Eruv Tavshilin  
+
 6:15am ---  Shacharit
 
 6:42pm --- Candle lighting time
@@ -19,7 +20,7 @@ WEDNESDAY,  SEPTEMBER 20    Erev Rosh Hashana/Eruv Tavshilin
 
 THURSDAY, SEPTEMBER 21  Rosh Hashana Day 1
 
-9:00am — Shacharit, followed by kiddush
+9:00am --- Shacharit, followed by kiddush
 
 11:00am (approximately) --- Shofar blowing
 
@@ -34,7 +35,7 @@ AFTER 7:40pm --- Candle lighting time
 
 FRIDAY, SEPTEMBER 22  Rosh Hashana Day 2
 
-9:00am — Shacharit, followed by kiddush
+9:00am --- Shacharit, followed by kiddush
 
 11:00am (approximately) --- Shofar blowing
 
@@ -43,6 +44,19 @@ FRIDAY, SEPTEMBER 22  Rosh Hashana Day 2
 6:39pm --- Candle lighting time
 
 --------------------------
+
+
+
+
+SEPTEMBER 23   SHABBAT SHUVA
+
+9:15am --- Shacharit, followed by kiddush
+
+6:30pm --- Mincha/Third Meal/Ma'ariv
+
+--------------------------
+
+
 
 
 SUNDAY, SEPTEMBER 24   Tsom Gedalia
