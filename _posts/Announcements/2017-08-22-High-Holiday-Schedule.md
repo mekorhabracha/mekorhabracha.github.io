@@ -6,3 +6,4 @@ until: 2017-10-01 00:00:00 Z
 frontpage: true
 layout: post
 media: Announcement
+---
