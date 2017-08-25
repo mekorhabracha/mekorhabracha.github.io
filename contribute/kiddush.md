@@ -29,4 +29,4 @@ For an additional contribution (i.e, in addition to the cost of the standard kid
 
 ### Third Meal
 
-Third Meal sponsorship is $50 for Mekor members and $75 for non-members.
+Third Meal sponsorship is $75 for Mekor members and $100 for non-members.
