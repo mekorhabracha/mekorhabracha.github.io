@@ -1,5 +1,5 @@
 ---
-title: A Lucky Man
+title: Sermon Vaetchanan 8.5.17 A Lucky Man
 date: 2017-08-27 00:00:00 Z
 section: rabbisdesk
 link:
