@@ -1,5 +1,5 @@
 ---
-title: Sermon Vaetchanan 8.5.17  "Lucky Man"
+title: Sermon Va'Etchanan 8.5.17  "Lucky Man"
 date: 2017-08-27 00:00:00 Z
 section: rabbisdesk
 link:
@@ -60,3 +60,81 @@ eventually experience a devastating loss in our individual lives –
 the loss of a relative, the end of a relationship, the loss of a job. 
 The list goes on. We don’t need to go back in time 2,000 years to
 experience heartbreaking loss.
+
+If we are honest and treat the Torah as something real, we will
+understand that every time we lose something precious, it is the
+natural, inevitable outcome of being in Exile.  I’m not saying that
+life will be perfect when משיח comes, for the Rambam rules
+according to the opinion that it will not be perfect at all.  Nonetheless, it’s important to recognize that being in Exile means
+that God is hidden from us, and bad things will occur. It means
+that the Jewish people are not in a good place, individually and
+collectively.  The purpose of this time of year is to teach us that
+loss is an inescapable aspect of our lives and to show us how to
+grapple with it.
+
+The introductory תלתא דפורענותא, 3 Shabbatot of tragedy, mean
+that first, we must accept our loss – face it and mourn for what
+we’ve lost, as we do on Tisha B’av.  Only then can we move on to
+the next phase, which is Nechama/consolation -- picking up the
+pieces and forging ahead. We only have 3 weeks of tragedy, but 7
+weeks of consolation, perhaps because after mourning, it takes
+much longer to move on and return to our productive lives. 
+That’s why the word “Nechama” has a double meaning: It also
+means “to change your mind”, to reconsider.  As when the Torah declared “ &quot;וינחם ה&#39; על הרעה אשר דבר לעשות לעמוthat God
+changed His mind and decided not to destroy the Jewish nation
+after the Golden Calf, or when He regretted creating Man, &quot;וינחם
+ה&#39; כי עשה את האדם בארץ&quot; and so He brought the Flood.  In other
+words, changing the way you think is the essence of consolation. 
+Ironically, we oftentimes become stuck in a certain way of
+thinking until we experience a terrible loss. So even though we
+certainly don’t want bad things to happen, at the end of the day,
+loss can pave the way to life-changing accomplishments.
+
+On this note, I would like to share news with the congregation
+that some of you already know. Some years ago, I was diagnosed
+with Young Onset Parkinson’s Disease, which you may recall is the
+same malady that actor Michael J. Fox has. For a long time, I kept
+this information private, because I was concerned that people
+would see me differently or even pity me.  Some of you may have
+personal experience with Parkinson’s, or for TV addicts, you may
+be familiar with Louis Canning from “The Good Wife” or Terry
+from “Ray Donovan”. If not, Young Onset Parkinson’s disease is a
+long-term degenerative disorder of the central nervous system
+that mainly affects the motor system. It is known as a movement
+disorder and produces a long list of symptoms. Barring a medical
+breakthrough, my current physical condition is the best I will ever
+function at and currently there is no cure.
+
+At the same time, I personally find deep inspiration in Michael J.
+Fox, as well as from my Rebbe, the Mirrer Rosh Yeshiva, Rabbi
+Nosson Tzvi Finkel of blessed memory, with whom I was
+serendipitously very close. Rabbi Finkel zt’l suffered from late
+stage Young Onset Parkinson’s Disease for most of his tenure,
+when he led the prestigious yeshiva during its most prolific
+period, as it became the largest yeshiva in the world. Both of
+these incredibly accomplished individuals never lost focus and
+committed to becoming even more accomplished with this
+disease than they had ever imagined prior to their diagnosis.
+
+Following their example, I intend to continue working to achieve
+aspirations I have for myself personally, as well as for our Mekor
+community. As I discussed in the dvar Torah, I will try to
+continually accept this diagnosis, and move on to the stage of
+Nechama, so that I can change my situation into something
+positive.
+
+I want to primarily thank my wife Miriam, who has been a one-
+person support system from the outset of my diagnosis. She
+ensures that I do not stagnate, which is a vital component of
+Parkinson’s treatment. I would also like to thank my family, the
+Mekor Board of Directors, and everyone both within and outside
+the congregation who have staunchly supported me, including by
+respecting my privacy, no matter how curious they were or how
+much concern they had.  I hope that you will continue to support
+me in this manner and remember that while Parkinson’s disease
+will affect my life in many ways, it will never define me. 
+I feel privileged to serve our amazing, flourishing Mekor
+community, and with the help and love of God, I will continue to
+believe, as Michael J. Fox expressed with the title of his bestselling
+memoir, that for everyone and everything I am blessed with in my
+life, I consider myself to be a “Lucky Man”.  Shabbat shalom.
