@@ -23,7 +23,7 @@ For an additional contribution (i.e, in addition to the cost of the standard kid
 - Cheese platter with fancy cheeses and crackers **(small $150, large $225)**
 - Fruit platter **(small $100 members;$150 nonmembers, large $150 members; $200 nonmembers)**
 - Vegetable platter **(small $100 members; $150 nonmembers, large $150 members; $200 nonmembers)**
-- Ice cream kiddush **($100 members; $150 nonmembers)**
+- Ice cream **($100 members; $150 nonmembers)**
 
 [Mekor Habracha members]({{site.url}}/about/become-member.html) have a $50 cost discount.
 
