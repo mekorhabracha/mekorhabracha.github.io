@@ -5,7 +5,7 @@ section: inthenews
 link: http://jewishexponent.com/2017/08/02/moshav-band-returns-mekor-habracha-benefit-concert/
 author: Rachel Kurland
 media: Jewish Exponent
-meta: 
+meta: also features Moments of Wrong
 expires_on: ''
 frontpage: false
 layout: post
