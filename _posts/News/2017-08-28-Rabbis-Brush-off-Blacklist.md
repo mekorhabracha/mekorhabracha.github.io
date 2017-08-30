@@ -26,27 +26,17 @@ According to the rabbinate, it is not a blacklist but rather an internal list of
 More than 60 on the list are American.
 
 
-One of those is Rabbi Eliezer Hirsch from Mekor Habracha, an Orthodox shul in Center City, who was shocked he was on it. He believes it was due to a controversial case he was involved in.
-
-He wrote a letter for someone he didn’t know personally to approve their Jewish status. Searching for more facts first, he presented the case to a higher rabbinic authority.
-
+**One of those is Rabbi Eliezer Hirsch from Mekor Habracha, an Orthodox shul in Center City, who was shocked he was on it. He believes it was due to a controversial case he was involved in.  He wrote a letter for someone he didn’t know personally to approve their Jewish status. Searching for more facts first, he presented the case to a higher rabbinic authority.
 “The rabbi told me he personally wrote letters for people who had much less evidence than that,” he recalled. “I wanted to help the person.”
-
 His letter was rejected by the rabbinate. All the applicants he supported prior to 2016 were approved.
-
-“When I took all that into consideration, I realized that there’s no way that could have been a blacklist in terms of a personal affront on me,” he noted.
+“When I took all that into consideration, I realized that there’s no way that could have been a blacklist in terms of a personal affront on me,” he noted.**
 
 Other Orthodox rabbis worth noting who were on the list are Rabbi Avi Weiss, a well-known liberal Orthodox rabbi in New York and a leader of the so-called Open Orthodox movement; Rabbi Josef Potasnik, executive vice president of the New York Board of Rabbis; Rabbi Daniel Kraus of Congregation Kehilath Jeshurun, where Ivanka Trump and Jared Kushner were affiliated while living in New York; Rabbi Adam Scheier of Congregation Shaar Hashomayim in Montreal, one of the largest congregations in North America; and Rabbi Yehoshua Fass, co-founder of Nefesh B’Nefesh.
 
 The list includes 28 rabbis from Argentina, five from the United Kingdom, three from Australia and one from South Africa, according to Haaretz.
 
-Ironically though, the list worked in Hirsch’s favor.
-
-“There’s no such thing as bad PR,” he laughed. “Our shul received a lot of positive publicity, and a lot of people expressed support for my efforts in general as a rabbi. Sometimes my efforts are more inclusive.
-
-“The situation now is causing a lot riffs on the Jewish people,” Hirsch continued. “A lot of Israelis resent the fact that they can’t get married unless the Chief Rabbinate approves of it because a lot of Israelis are not religious. The Chief Rabbinate wants to make sure that the dignity and the status of Jews are maintained, at least from their perspective.”
-
-But like most things in Israel, “it’s complicated.”
+**Ironically though, the list worked in Hirsch’s favor.  “There’s no such thing as bad PR,” he laughed. “Our shul received a lot of positive publicity, and a lot of people expressed support for my efforts in general as a rabbi. Sometimes my efforts are more inclusive.
+“The situation now is causing a lot riffs on the Jewish people,” Hirsch continued. “A lot of Israelis resent the fact that they can’t get married unless the Chief Rabbinate approves of it because a lot of Israelis are not religious. The Chief Rabbinate wants to make sure that the dignity and the status of Jews are maintained, at least from their perspective.”But like most things in Israel, “it’s complicated.”**
 
 “I just don’t think there was any offense intended. It’s just that they set up rules and regulations that are bureaucratic,” he said.
 
