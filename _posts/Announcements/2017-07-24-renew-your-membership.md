@@ -27,6 +27,7 @@ $250/person for all of Rosh Hashana; $250/person for all of Yom Kippur
 Student rate: $150/person for all of Rosh Hashana; $150/person for all of Yom Kippur
 
 ----------------------------
+If you are unable to pay the full membership fee for any reason, please email mekorhabracha@gmail.com or contact a board member or the rabbi to request a flexible payment plan or reduction.   We never turn away anyone for lack of funds, so please do not hesitate to contact us. All requests will remain confidential.
 
 FOR MORE INFORMATION, or to obtain a membership application, please email mekorhabracha@gmail.com.  You will also find information [here]({{site.url}}/contribute/donate.html) about how to submit your payments.
 
