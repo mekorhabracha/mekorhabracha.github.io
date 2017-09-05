@@ -8,15 +8,15 @@ layout: post
 media: Announcement
 ---
 
-Mekor Habracha's new membership year (5778) begins on Rosh Hashana, so NOW is the time to join or renew! Members who make reservations may attend all High Holiday services free of charge.  Rates will be going up, but you can still lock in the current rates if you pay IN FULL by LABOR DAY (Sept.4).  
+Mekor Habracha's new membership year (5778) begins on Rosh Hashana, so NOW is the time to join or renew! Members who make reservations may attend all High Holiday services free of charge.  
 
-MEMBERSHIP RATES:
+MEMBERSHIP RATES 5778 (2017-18):
 
-Couple or Family: Current rate $800   ($900 after Labor Day)
+Couple or Family: $900
 
-Single: Current rate $450   ($500 after Labor Day)
+Single: $500
 
-Student: Current rate $250  ($300 after Labor Day)
+Student: $300
 
 ----------------------------
 
