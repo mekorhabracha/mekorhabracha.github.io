@@ -10,7 +10,7 @@ media: Announcement
 
 **Mekor Habracha's new membership year (5778) begins on Rosh Hashana, so NOW is the time to join or renew! Members who make reservations may attend all High Holiday services free of charge.**  
 
-MEMBERSHIP RATES 5778 (2017-18):
+**MEMBERSHIP RATES 5778 (2017-18):**
 
 Couple or Family: $900
 
@@ -20,7 +20,7 @@ Student: $300
 
 ----------------------------
 
-HIGH HOLIDAY GUEST RATES:
+**HIGH HOLIDAY GUEST RATES 5778**:
 
 $250/person for all of Rosh Hashana; $250/person for all of Yom Kippur
 
