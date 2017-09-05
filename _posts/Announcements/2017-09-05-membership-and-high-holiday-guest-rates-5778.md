@@ -8,7 +8,7 @@ layout: post
 media: Announcement
 ---
 
-Mekor Habracha's new membership year (5778) begins on Rosh Hashana, so NOW is the time to join or renew! Members who make reservations may attend all High Holiday services free of charge.  
+**Mekor Habracha's new membership year (5778) begins on Rosh Hashana, so NOW is the time to join or renew! Members who make reservations may attend all High Holiday services free of charge.**  
 
 MEMBERSHIP RATES 5778 (2017-18):
 
