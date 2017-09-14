@@ -1,5 +1,5 @@
 ---
-title: ZIONIST ORGANIZATION OF AMERICA (ZOA) GALA BENEDICTION 9.12.17 "JEWISH REVENGE"
+title: Zionist Organization of America (ZOA) Gala Benediction 9.12.17 "Jewish Revenge"
 date: 2017-09-14 00:00:00 Z
 section: rabbisdesk
 link:
