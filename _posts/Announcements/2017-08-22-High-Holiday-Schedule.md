@@ -79,7 +79,7 @@ SUNDAY, SEPTEMBER 24   Tsom Gedalia
 
 FRIDAY, SEPTEMBER 29  Erev Yom Kippur
 
-8:45am --- Shacharit
+6:30am --- Shacharit at the Schuman shiva home.  Please email the shul for the address.
 
 3:00pm --- Mincha
 
