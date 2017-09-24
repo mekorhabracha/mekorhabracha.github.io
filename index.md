@@ -49,12 +49,12 @@ icons:
     text: Donate to Mekor
     link: contribute/donate.html
 alert:
-  text: "JOIN or RENEW YOUR MEMBERSHIP NOW! Mekor's membership year begins on Rosh Hashana, & everyone who has joined or renewed before then may attend all High Holiday services free of charge. Click here for info about Membership Rates & High Holiday Guest Rates. See Bulletin Board below for High Holiday Services Schedule.
+  text: "Monday through Friday of this week, morning services will be held at 6:30am at the home of Deborah & Michael Schuman, where shiva is being observed, &Monday through Thursday, mincha/ma'ariv will be held there at 6:30pm. Please email the shul for the address. Click here for the remainder of the High Holiday Services Schedule.
   
  
 
 " 
   type: warning
-  link: ' http://mekorhabracha.org/2017/07/24/renew-your-membership.html'
+  link: ' http://mekorhabracha.org/services/holidays.html'
 ---
 
