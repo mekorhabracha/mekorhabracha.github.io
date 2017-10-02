@@ -21,7 +21,7 @@ THURSDAY, OCTOBER 5  SUKKOT DAY 1
 
 6:15pm --- Evening services, followed by Pizza in the Hut (by reservation only)
 
-7:18pm --- Candle lighting          
+AFTER 7:18pm --- Candle lighting          
 
 
 
@@ -55,7 +55,7 @@ SUNDAY, OCTOBER 8   CHOL HAMOED
 
 MONDAY, OCTOBER 9  CHOL HAMOED
 
-6:30am --- Shacharit
+6:45am --- Shacharit
 
 
 
@@ -79,7 +79,7 @@ THURSDAY, OCTOBER 12  SHEMINI ATZERET
 
 9:15am --- Shacharit
 
-6:00pm --- Evening services, followed by Hakafot & Taco Dinner
+6:00pm --- Evening services, followed by Hakafot 
 
 
 
@@ -89,7 +89,21 @@ FRIDAY, OCTOBER 13  SIMCHAT TORAH
 
 6:05pm --- Candle lighting
 
-6:10pm --- Mincha/Ma'ariv/Havdalah
+6:10pm --- Mincha/Ma'ariv
+
+
+
+SHABBAT, OCTOBER 14
+
+9:15am --- Shacharit
+
+11:45am --- Kiddush
+
+5:45pm --- Mincha/Third Meal/Ma'ariv
+
+7:04pm --- Shabbat Ends/Havdalah
+
+
 
 
 
