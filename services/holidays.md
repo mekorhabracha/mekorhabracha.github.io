@@ -77,7 +77,7 @@ WEDNESDAY, OCTOBER 11  HOSHANA RABA
 
 THURSDAY, OCTOBER 12  SHEMINI ATZERET
 
-9:15am --- Shacharit
+9:15am --- Shacharit, followed by kiddush in the shul sukkah (weather permitting)
 
 6:00pm --- Evening services, followed by Hakafot 
 
