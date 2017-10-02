@@ -5,12 +5,14 @@ area: services
 ---
 ### THIS WEEK'S CALENDAR
 
-WEDNESDAY,  OCTOBER 4   EREV SUKKOT  
+WEDNESDAY,  OCTOBER 4   EREV SUKKOT 
+
 7:00am ---  Shacharit
 
 6:19pm --- Candle lighting
 
 6:30pm ---  Evening services
+
 
 
 THURSDAY, OCTOBER 5  SUKKOT DAY 1
@@ -22,6 +24,7 @@ THURSDAY, OCTOBER 5  SUKKOT DAY 1
 7:18pm --- Candle lighting          
 
 
+
 FRIDAY, OCTOBER 6  SUKKOT DAY 2
 
 9:15am --- Shacharit, followed by kiddush in shul sukkah (weather permitting)
@@ -29,6 +32,7 @@ FRIDAY, OCTOBER 6  SUKKOT DAY 2
 6:15pm --- Evening Services 
 
 6:16pm --- Candle lighting 
+
 
 
 SHABBAT, OCTOBER 7  CHOL HAMOED   
@@ -48,9 +52,18 @@ SUNDAY, OCTOBER 8   CHOL HAMOED
 9:00am --- Shacharit
 
 
+
 MONDAY, OCTOBER 9  CHOL HAMOED
 
+6:30am --- Shacharit
+
+
+
 TUESDAY, OCTOBER 10  CHOL HAMOED
+
+6:45am --- Shacharit
+
+
 
 WEDNESDAY, OCTOBER 11  HOSHANA RABA
 
@@ -67,6 +80,7 @@ THURSDAY, OCTOBER 12  SHEMINI ATZERET
 9:15am --- Shacharit
 
 6:00pm --- Evening services, followed by Hakafot & Taco Dinner
+
 
 
 FRIDAY, OCTOBER 13  SIMCHAT TORAH
