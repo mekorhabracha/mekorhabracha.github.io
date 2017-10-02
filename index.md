@@ -49,7 +49,7 @@ icons:
     text: Donate to Mekor
     link: contribute/donate.html
 alert:
-  text: "Monday through Friday of this week, morning services will be held at 6:30am at the home of Deborah & Michael Schuman, where shiva is being observed.  Monday through Thursday, mincha/ma'ariv will be held there at 6:30pm. Please email the shul for the address. Click here for the remainder of the High Holiday Services Schedule.
+  text: "JOIN US FOR SUKKOT AT MEKOR HABRACHA! Click here for our Sukkot schedule.
   
  
 
