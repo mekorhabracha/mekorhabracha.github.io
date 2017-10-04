@@ -5,7 +5,9 @@ area: services
 ---
 ### THIS WEEK'S CALENDAR
 
-WEDNESDAY,  OCTOBER 4   EREV SUKKOT 
+WEDNESDAY,  OCTOBER 4   EREV SUKKOT
+
+Eruv Tavshilin
 
 7:00am ---  Shacharit
 
@@ -66,6 +68,8 @@ TUESDAY, OCTOBER 10  CHOL HAMOED
 
 
 WEDNESDAY, OCTOBER 11  HOSHANA RABA
+
+Eruv Tavshilin
 
 7:00am --- Shacharit
 
