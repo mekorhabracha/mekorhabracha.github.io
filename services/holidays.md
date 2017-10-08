@@ -7,7 +7,7 @@ area: services
 
 WEDNESDAY,  OCTOBER 4   EREV SUKKOT
 
-Eruv Tavshilin
+Eruv Tavshilin is necessary on Wednesday to cook on Friday for Shabbat.
 
 7:00am ---  Shacharit
 
@@ -69,9 +69,8 @@ TUESDAY, OCTOBER 10  CHOL HAMOED
 
 WEDNESDAY, OCTOBER 11  HOSHANA RABA
 
-Eruv Tavshilin
-
-7:00am --- Shacharit
+Eruv Tavshilin is necessary on Wednesday to cook on Friday for Shabbat.
+6:30am --- Shacharit
 
 6:08pm --- Candle lighting
 
@@ -85,7 +84,7 @@ THURSDAY, OCTOBER 12  SHMINI ATZERET
 
 11:00am (approximate) --- Yizkor
 
-6:00pm --- Simchat Torah Evening services, followed by Hakafot 
+6:00pm --- Evening services, followed by Hakafot 
 
 
 
