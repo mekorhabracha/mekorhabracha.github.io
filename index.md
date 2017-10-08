@@ -49,7 +49,7 @@ icons:
     text: Donate to Mekor
     link: contribute/donate.html
 alert:
-  text: "JOIN US FOR SUKKOT AT MEKOR HABRACHA! Click here for our Sukkot schedule.
+  text: "JOIN US FOR SUKKOT, SHMINI ATZERET, & SIMCHAT TORAH AT MEKOR HABRACHA! Click here for our schedule.
   
  
 
