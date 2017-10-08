@@ -1,5 +1,5 @@
 ---
-title: Sukkot & Simchat Torah at Mekor Habracha
+title: Sukkot, Shmini Atzeret, & Simchat Torah at Mekor Habracha
 layout: page
 area: services
 ---
@@ -79,7 +79,7 @@ Eruv Tavshilin
 
 
 
-THURSDAY, OCTOBER 12  SHEMINI ATZERET
+THURSDAY, OCTOBER 12  SHMINI ATZERET
 
 9:15am --- Shacharit, followed by kiddush in the shul sukkah (weather permitting)
 
