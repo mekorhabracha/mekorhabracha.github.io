@@ -84,6 +84,8 @@ THURSDAY, OCTOBER 12  SHMINI ATZERET
 
 11:00am (approximate) --- Yizkor
 
+5:00pm --- MekorKids Simchat Torah Party
+
 6:00pm --- Evening services, followed by Hakafot 
 
 
@@ -93,8 +95,6 @@ FRIDAY, OCTOBER 13  SIMCHAT TORAH
 9:15am --- Shacharit, followed by Mussaf& early Kiddush
 
 11:00am (approximate) --- Hakafot, followed by Torah Reading & Early Mincha
-
-5:00pm --- MekorKids Simchat Torah Party
 
 6:05pm --- Candle lighting
 
