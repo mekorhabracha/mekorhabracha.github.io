@@ -12,7 +12,7 @@ media: Announcement
 
 **MEMBERSHIP RATES 5778 (2017-18):**
 
-Couple or Family: $900
+Couple or Family: $1000
 
 Single: $500
 
