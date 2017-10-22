@@ -282,7 +282,7 @@ FileExt,File,ID,Code,Year,i,Parashat,Date,Title,Moment,Shabbat,Occasion
 5772-204-1.m4a,5772-204-1,57722041,204,5772,1,Beshalach,2012-02-04,LTR,,,
 5772-205-1.m4a,5772-205-1,57722051,205,5772,1,Yitro,2012-02-11,Be Normal,,,
 5772-206-1.m4a,5772-206-1,57722061,206,5772,1,Mishpatim,2012-02-18,We Are the World,,,
-5772-207-1.m4a,5772-207-1,57722071,207,5772,1,Terumah,2012-02-25,Givers,,,Upcoming marriage of Yah-el Har-el and Andrés Catalán
+5772-207-1.m4a,5772-207-1,57722071,207,5772,1,Terumah,2012-02-25,Givers,,,Marriage of Yah-el Har-el and Andrés Catalán
 5772-208-1.m4a,5772-208-1,57722081,208,5772,1,Tetzaveh,2012-03-03,Memento,,Zachor,
 5772-210-1.m4a,5772-210-1,57722101,210,5772,1,Vayakhel-Pekudei,2012-03-17,Action!,,Parah,
 5772-301-1.m4a,5772-301-1,57723011,301,5772,1,Vayikra,2012-03-24,Waiting for Toulouse,,Hachodesh,
@@ -307,7 +307,7 @@ FileExt,File,ID,Code,Year,i,Parashat,Date,Title,Moment,Shabbat,Occasion
 5772-506-1.m4a,5772-506-1,57725061,506,5772,1,Ki Teitzei,2012-09-01,LevelUp,,,
 5772-507-1.m4a,5772-507-1,57725071,507,5772,1,Ki Tavo,2012-09-08,Pascal's Gambit,,,Baby naming of Chana Harris
 5772-508a-1.m4a,5772-508a-1,5772508a1,508a,5772,1,Nitzavim,2012-09-15,Today,,,In memory of Mark Pinson z’l
-5772-508b-1.m4a,5772-508b-1,5772508b1,508b,5772,1,Vayeilech,2012-09-22,Negative Definition,,,Engagement kiddush of Bill Moritz and Donna Cohen
+5772-508b-1.m4a,5772-508b-1,5772508b1,508b,5772,1,Vayeilech,2012-09-22,Negative Definition,,,Engagement of Bill Moritz and Donna Cohen
 5773-001-1.m4a,5773-001-1,57730011,001,5773,1,Rosh Hashanah,2012-09-17,Laugh,First day,,
 5773-001-2.m4a,5773-001-2,57730012,001,5773,2,Rosh Hashanah,2012-09-18,Pray For God,Second day,,
 5773-002-1.m4a,5773-002-1,57730021,002,5773,1,Yom Kippur,2012-09-26,Real,Kol Nidre,,
@@ -450,3 +450,24 @@ FileExt,File,ID,Code,Year,i,Parashat,Date,Title,Moment,Shabbat,Occasion
 5775-508b-1.m4a,5775-508b-1,5775508b1,508b,5775,1,Vayeilech,2015-09-19,Scream,,Shuvah,
 5776-001-1.m4a,5776-001-1,57760011,001,5776,1,Rosh Hashanah,2015-09-14,Aspiration,First day,,
 5776-001-2.m4a,5776-001-2,57760012,001,5776,2,Rosh Hashanah,2015-09-15,Choose Alive,Second day,,
+5776-019-1.m4a,5776-019-1,57760191,019,5776,1,Purim,2016-03-24,Remember Amalek,,,
+5776-031-1.m4a,5776-031-1,57760311,031,5776,1,Shavuot,2016-06-12,Four Word Forward,,,
+5776-103-1.m4a,5776-103-1,57761031,103,5776,1,Lech-Lecha,2015-10-24,Part Of Me,,,
+5776-104-1.m4a,5776-104-1,57761041,104,5776,1,Vayera,2015-10-31,The Roxbury Guys,,,
+5776-106-1.m4a,5776-106-1,57761061,106,5776,1,Toldot,2015-11-14,Stop Me If You Think You've Heard This One Before,,,
+5776-108-1.m4a,5776-108-1,57761081,108,5776,1,Vayishlach,2015-11-28,Appreciating Blessing ,,,Thanksgiving
+5776-109-1.m4a,5776-109-1,57761091,109,5776,1,Vayeshev,2015-12-05,How To Win Friends and Influence People,,,
+5776-111-1.m4a,5776-111-1,57761111,111,5776,1,Vayigash,2015-12-19,How to Fight,,,
+5776-201-1.m4a,5776-201-1,57762011,201,5776,1,Shemot,2016-01-02,Boiled Frog Syndrome,,,
+5776-202-1.m4a,5776-202-1,57762021,202,5776,1,Vaera,2016-01-09,Karma,,,
+5776-204-1.m4a,5776-204-1,57762041,204,5776,1,Beshalach,2016-01-23,Halachot of Snow on Shabbat,,,
+5776-205-1.m4a,5776-205-1,57762051,205,5776,1,Yitro,2016-01-30,Humility First,,,In memory of Harav Yisroel Belsky z'l
+5776-206-1.m4a,5776-206-1,57762061,206,5776,1,Mishpatim,2016-02-06,Daughters,,,Kiddush for Maya Setton
+5776-207-1.m4a,5776-207-1,57762071,207,5776,1,Terumah,2016-02-13,Part and Parcel,,,In memory of Len Lipken z'l
+5776-307b-1.m4a,5776-307b-1,5776307b1,307b,5776,1,Bechukotai,2016-06-04,Poison,,,
+5776-402-1.m4a,5776-402-1,57764021,402,5776,1,Nasso,2016-06-18,Voices Carry,,,Farewell to Orly and Andrew
+5776-405-1.m4a,5776-405-1,57764051,405,5776,1,Korach,2016-07-09,Footsteps,,,
+5776-407-1.m4a,5776-407-1,57764071,407,5776,1,Pinchas,2016-07-30,Santa,,,
+5776-501-1.m4a,5776-501-1,57765011,501,5776,1,Devarim,2016-08-13,Invest,,,
+5776-502-1.m4a,5776-502-1,57765021,502,5776,1,Vaetchanan,2016-08-20,Be Normal,,,
+5776-505-1.m4a,5776-505-1,57765051,505,5776,1,Shoftim,2016-09-10,Portal,Chavura,,
