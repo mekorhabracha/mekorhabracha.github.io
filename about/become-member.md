@@ -41,7 +41,7 @@ Become a member today by emailing mekorhabracha@gmail.com for an application. To
 					<p>
 	    				<div class="row">
 	    					<div class="col-lg-8 text-left">Couples and families</div>
-	    					<div class="col-lg-4 text-right">$900</div>
+	    					<div class="col-lg-4 text-right">$1000</div>
 						</div>
 					</p>
 	            </div>
