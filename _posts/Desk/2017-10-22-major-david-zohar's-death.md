@@ -10,6 +10,8 @@ expires_on:
 frontpage: true
 layout: post
 ---
+I would like to share with you an article about my cousin, Major David (Dudi) Zohar, and our grandmother, Frania Goldhar, whom I remembered in my benediction for the ZOA, which I posted on September 14.
+
 Frania Goldhar, the grandmother of Maj. (res.) David (Dudi) Zohar, who was killed in a helicopter crash, was a Holocaust survivor. 'She finished her lectures to children by saying she has a grandson in the Air Force. The Nazis tried to exterminate her, and now she has a grandson that's part of Israel's defense,' Zohar told Yedioth Ahronoth in an interview in January.
 
 Published:  08.08.17
