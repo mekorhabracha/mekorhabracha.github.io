@@ -1,6 +1,6 @@
 ---
 title: Killed Apache pilot made grandmother proud: 'He's my revenge against the Nazis', referred to in Rabbi Hirsch's 9/14 post 
-date: 2017-9-17 00:00:00 Z
+date: 2017-10-22 00:00:00 Z
 section: rabbisdesk
 link: https://www.ynetnews.com/articles/0,7340,L-5000169,00.html
 author: Ahiya Raved, Yoav Zitun, Ilana Curiel
