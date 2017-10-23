@@ -1,5 +1,5 @@
 ---
-title: Killed Apache pilot made grandmother proud: 'He's my revenge against the Nazis', referred to in Rabbi Hirsch's 9/14 post 
+title: Killed Apache pilot made grandmother proud: He's my revenge against the Nazis, referred to in Rabbi Hirsch's 9/14 post 
 date: 2017-10-22 00:00:00 Z
 section: rabbisdesk
 link: https://www.ynetnews.com/articles/0,7340,L-5000169,00.html
@@ -36,13 +36,11 @@ The Air Force is examining all lines of inquiry, but at this points it appears t
  
 The investigation is being overseen by Col. A., an aircrew instructor at the IAF's Command & Staff School and the former commander of a helicopter squadron.
   
-Seal on her heart
 The family commemorated Frania in a book documenting the story of her life, "Seal on my Heart," which comes with a CD of her poems, some written while she incarcerated at the Auschwitz extermination camp.
  
 "To tell everything is so difficult," writes Frania at the beginning of the book, "I have not forgotten, these are things you cannot forget, but it's better not to think about them again if you want to live under the sun, and not in the frayed shadows of nightmares. Most of my life I have driven the memories away, trying to go from moment to moment, from hour to hour, and move on, on and on."
  
 About being sent to Auschwitz, she wrote: "When I turned 21, time stopped, and from the moment I was thrown off the train to the day I was liberated, my life was suspended, as if I were the sleeping princess in the enchanted palace. But it was not a palace that kept me asleep, but the Auschwitz death camp, and no roses covered its walls, but electric barbed wire fences. The lips of a prince were not waiting for me, instead it was Dr. Mengele's damning finger."
-
 
 On the number branded on her left arm, Frania wrote: "This is the name I received at the age of 21. From that moment on, I had no other name but this number, which is engraved in my flesh to this day."
  
