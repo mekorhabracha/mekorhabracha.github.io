@@ -3,7 +3,7 @@ title: Killed Apache pilot made grandmother proud: 'He's my revenge against the 
 date: 2017-9-17 00:00:00 Z
 section: rabbisdesk
 link: https://www.ynetnews.com/articles/0,7340,L-5000169,00.html
-author: Rabbi Eliezer Hirsch
+author: Ahiya Raved, Yoav Zitun, Ilana Curiel
 media: Ynet News.com
 meta: 
 expires_on: 
@@ -12,7 +12,7 @@ layout: post
 ---
 Frania Goldhar, the grandmother of Maj. (res.) David (Dudi) Zohar, who was killed in a helicopter crash, was a Holocaust survivor. 'She finished her lectures to children by saying she has a grandson in the Air Force. The Nazis tried to exterminate her, and now she has a grandson that's part of Israel's defense,' Zohar told Yedioth Ahronoth in an interview in January.
 
-Ahiya Raved, Yoav Zitun, Ilana Curiel|Published:  08.08.17
+Published:  08.08.17
 
 Maj. (res.) David (Dudi) Zohar, who was killed in an Apache helicopter crash at the Ramon Air Base on Monday night, made his grandmother Frania Goldhar, a Holocaust survivor, very proud when he became a pilot in the Air Force.  "This is her pride and also her revenge against the Nazi enemy," Zohar told Yedioth Ahronoth in an interview in January, shortly after she passed away.  Zohar, a 43-year-old father-of-five, will be laid to rest at 6:30pm Tuesday at the cemetery in Haifa.  "My grandmother gave lectures to children about the Holocaust," Zohar said in January. "She always finished her lectures by saying today she has a grandson in the Air Force, and this was her revenge against the Nazis. They tried to exterminate her, and now she has a grandson who is part of the State of Israel's defense apparatus."
  
