@@ -55,6 +55,6 @@ alert:
 
 " 
   type: warning
-  link: ' http://mekorhabracha.org/services/holidays.html'
+  link: ''
 ---
 
