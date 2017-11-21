@@ -49,12 +49,8 @@ icons:
     text: Donate to Mekor
     link: contribute/donate.html
 alert:
-  text: "JOIN US THIS SHABBAT, NOV. 3-4, FOR A COMMUNITY DINNER (by reservation only0 & SCHOLAR-IN-RESIDENCE REV CHAIM GALFAND. Email mekorhabracha@gmail.com for info or to RSVP.
-  
- 
-
-" 
+  text: "Tickets are now available for the Mekor Habracha 3rd Annual Gala on Sunday, December 17 at WHYY." 
   type: warning
-  link: ''
+  link: 'http://www.mekorgala.com/'
 ---
 
