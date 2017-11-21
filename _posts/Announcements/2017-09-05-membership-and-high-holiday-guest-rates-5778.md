@@ -1,5 +1,5 @@
 ---
-title: Membership & High Holiday Guest Rates 5778
+title: "Membership & High Holiday Guest Rates 5778"
 date: 2017-09-05 00:00:00 Z
 section: bulletinboard
 until: 2017-10-01 00:00:00 Z
