@@ -49,7 +49,7 @@ icons:
     text: Donate to Mekor
     link: contribute/donate.html
 alert:
-  text: "Tickets are now available for the Mekor Habracha 3rd Annual Gala on Sunday, December 17 at WHYY." 
+  text: "Tickets are now available for the Mekor Habracha 3rd Annual Gala on Sunday, December 17 at WHYY..." 
   type: warning
   link: 'http://www.mekorgala.com/'
 ---
