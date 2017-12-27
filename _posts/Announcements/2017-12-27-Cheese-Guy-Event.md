@@ -2,7 +2,7 @@
 title: Wine and Cheese Tasting with The Cheese Guy
 date: 2017-12-27 00:00 UTC
 section: bulletinboard
-until: 2018-01-20 00:00:00 UTC
+until: 2018-01-20 00:00 UTC
 frontpage: true
 layout: post
 media: Announcement
