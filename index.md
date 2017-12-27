@@ -49,8 +49,8 @@ icons:
     text: Donate to Mekor
     link: contribute/donate.html
 alert:
-  text: "Tickets are now available for the Mekor Habracha 3rd Annual Gala on Sunday, December 17 at WHYY..." 
+  text: "WINE & CHEESE TASTING WITH THE CHEESE GUY! SATURDAY EVENING, JANUARY 20 at 7:30 PM at MEKOR" 
   type: warning
-  link: 'http://www.mekorgala.com/'
+  link: ''
 ---
 
