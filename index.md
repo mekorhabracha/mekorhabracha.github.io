@@ -51,6 +51,6 @@ icons:
 alert:
   text: "JOIN US for a WINE & CHEESE TASTING WITH THE CHEESE GUY! SATURDAY EVENING, JANUARY 20 at 7:30 PM at MEKOR. For more details & ticket info, click here." 
   type: warning
-  link: 'https://github.com/mekorhabracha/mekorhabracha.github.io/blob/master/_posts/Announcements/2017-12-27-Cheese-Guy-Event.md'
+  link: 'http://mekorhabracha.org/2017/12/27/Cheese-Guy-Event.html'
 ---
 
