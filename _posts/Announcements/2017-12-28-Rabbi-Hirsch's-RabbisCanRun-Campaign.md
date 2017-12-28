@@ -8,7 +8,7 @@ layout: post
 media: Announcement
 ---
 
-message FROM RABBI HIRSCH
+Message from Rabbi Hirsch
 
 Dear All,
 
