@@ -33,7 +33,7 @@ The following article, [published in the Jewish Exponent](http://www.jewishexpon
 >
 >In many ways, the congregation appears to be a reflection of the rabbi and his wife, a modern urban couple.
 >
->Hirsch, 43, works as an options trader for a small hedge fund, a position he described as more of a hobby compared to his primary occupation leading the synagogue. His wife, Miriam Ort, 33, is a senior director of human resources for PepsiCo in New York. They don’t have any children and keep an apartment on the Lower East Side of Manhattan in addition to their residence in Philadelphia.
+>Hirsch, 43, works as an options trader for a small hedge fund, a position he described as more of a hobby compared to his primary occupation leading the synagogue. His wife, Miriam, 33, is a senior director of human resources for PepsiCo in New York. They don’t have any children and keep an apartment on the Lower East Side of Manhattan in addition to their residence in Philadelphia.
 >
 >The majority of the congregation is comprised of singles and couples in their 20s and 30s who work in the city and span the spectrum of religious observance.
 >
