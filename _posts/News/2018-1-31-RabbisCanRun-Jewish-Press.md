@@ -1,6 +1,6 @@
 ---
 title: RabbisCanRun for Youth At Risk in Israel
-date: 2018-01-30 00:00:00 Z
+date: 2018-01-31 00:00:00 Z
 section: inthenews
 link: http://www.jewishpress.com/news/chessed-and-tzedaka/rabbiscanrun-for-youth-at-risk-in-israel/2018/01/30/
 author: Jewish Press Staff
