@@ -5,7 +5,7 @@ section: inthenews
 link: http://jewishexponent.com/2018/01/31/local-rabbis-long-run/
 author: Rachel Kurland
 media: Jewish Exponent
-meta: quotes Rabbi Hirsch
+meta: features Rabbi Hirsch
 expires_on: ''
 frontpage: false
 layout: post
